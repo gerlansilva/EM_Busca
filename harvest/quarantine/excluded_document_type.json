@@ -1204,6 +1204,315 @@
       "corpusReason": "editorial"
     },
     {
+      "id": "oai:oai:periodicos.ufsc.br:article/34678",
+      "journal": "revemat",
+      "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Especial, Editores do Número"
+      ],
+      "institutions": [],
+      "abstract": "Essa edição da Revista Eletrônica de Educação Matemática, Revemat, é composta por artigos submetidos à chamada especial: “Sobre a pesquisa em Modelagem na Educação Matemática”, cuja meta é organizar e induzir a produção em torno desta temática, com foco nos metaestudos em sentido amplo.",
+      "abstractOriginal": "Essa edição da Revista Eletrônica de Educação Matemática, Revemat, é composta por artigos submetidos à chamada especial: “Sobre a pesquisa em Modelagem na Educação Matemática”, cuja meta é organizar e induzir a produção em torno desta temática, com foco nos metaestudos em sentido amplo.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufsc.br/index.php/revemat/article/view/34678",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:periodicos.ufsc.br:article/34678",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2019-09-17T14:36:25Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Essa edição da Revista Eletrônica de Educação Matemática, Revemat, é composta por artigos submetidos à chamada especial: “Sobre a pesquisa em Modelagem na Educação Matemática”, cuja meta é organizar e induzir a produção em torno desta temática, com foco nos metaestudos em sentido amplo."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-07-29"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista Eletrônica de Educação Matemática; v. 9 (2014): Edição Temática: Pesquisas em Modelagem na Educação Matemática; 3-6",
+            "1981-1322"
+          ],
+          "publishers": [
+            "Universidade Federal de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:28:34.484923+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:periodicos.ufsc.br:article/48605",
+      "journal": "revemat",
+      "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Bicudo, Maria Aparecida Viggiani",
+        "Baumann, Ana Paula Purcina"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufsc.br/index.php/revemat/article/view/48605",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:periodicos.ufsc.br:article/48605",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2019-09-17T14:50:51Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-01-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista Eletrônica de Educação Matemática; v. 11 (2016): Edição Especial: FILOSOFIA DA EDUCAÇÃO MATEMÁTICA; 1-2",
+            "1981-1322"
+          ],
+          "publishers": [
+            "Universidade Federal de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:28:43.530648+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.5007/1981-1322.2019.e67693",
+      "journal": "revemat",
+      "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Samá, Suzi"
+      ],
+      "institutions": [],
+      "abstract": "Edição Especial Educação Estatística",
+      "abstractOriginal": "Edição Especial Educação Estatística",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.5007/1981-1322.2019.e67693",
+      "url": "https://periodicos.ufsc.br/index.php/revemat/article/view/1981-1322.2019.e67693",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:periodicos.ufsc.br:article/67693",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2019-09-27T14:26:54Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Edição Especial Educação Estatística"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-09-27"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista Eletrônica de Educação Matemática; v. 14 (2019): Educação Estatística; 1-6",
+            "1981-1322"
+          ],
+          "publishers": [
+            "Universidade Federal de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:28:53.600351+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:periodicos.ufsc.br:article/72628",
+      "journal": "revemat",
+      "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Oliveira Groenwald, Claudia Lisete"
+      ],
+      "institutions": [],
+      "abstract": "Esta edição especial da REVEMAT, que tem por tema a Educação Matemática e Currículo, surgiu a partir do VII Seminário Internacional de Pesquisa em Educação Matemática (SIPEM), que ocorreu em novembro de 2018. No evento o Grupo de Trabalho 3 (GT3), de Educação Matemática e Currículo, passou a ser coordenado pela professora Clarissa de Assis Olgin, da Universidade Luterana do Brasil. Assim, os autores dos trabalhos aprovados para apresentação no evento foram convidados a submeter seus textos nessa edição especial. Com a intenção de ampliar a edição para outros pesquisadores que atuam na área a chamada foi aberta para o envio de artigos para além do SIPEM. Esta edição traz 10 artigos, de investigadores renomados que realizam pesquisas na temática Educação Matemática e Currículo. Os trabalhos são resultados de pesquisas e foram avaliados por dois avaliadores, ligados ao GT3, que analisaram a pertinência da pesquisa para esta Edição Temática.",
+      "abstractOriginal": "Esta edição especial da REVEMAT, que tem por tema a Educação Matemática e Currículo, surgiu a partir do VII Seminário Internacional de Pesquisa em Educação Matemática (SIPEM), que ocorreu em novembro de 2018. No evento o Grupo de Trabalho 3 (GT3), de Educação Matemática e Currículo, passou a ser coordenado pela professora Clarissa de Assis Olgin, da Universidade Luterana do Brasil. Assim, os autores dos trabalhos aprovados para apresentação no evento foram convidados a submeter seus textos nessa edição especial. Com a intenção de ampliar a edição para outros pesquisadores que atuam na área a chamada foi aberta para o envio de artigos para além do SIPEM. Esta edição traz 10 artigos, de investigadores renomados que realizam pesquisas na temática Educação Matemática e Currículo. Os trabalhos são resultados de pesquisas e foram avaliados por dois avaliadores, ligados ao GT3, que analisaram a pertinência da pesquisa para esta Edição Temática.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2020,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufsc.br/index.php/revemat/article/view/72628",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:periodicos.ufsc.br:article/72628",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2020-05-28T17:44:44Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Esta edição especial da REVEMAT, que tem por tema a Educação Matemática e Currículo, surgiu a partir do VII Seminário Internacional de Pesquisa em Educação Matemática (SIPEM), que ocorreu em novembro de 2018. No evento o Grupo de Trabalho 3 (GT3), de Educação Matemática e Currículo, passou a ser coordenado pela professora Clarissa de Assis Olgin, da Universidade Luterana do Brasil. Assim, os autores dos trabalhos aprovados para apresentação no evento foram convidados a submeter seus textos nessa edição especial. Com a intenção de ampliar a edição para outros pesquisadores que atuam na área a chamada foi aberta para o envio de artigos para além do SIPEM. Esta edição traz 10 artigos, de investigadores renomados que realizam pesquisas na temática Educação Matemática e Currículo. Os trabalhos são resultados de pesquisas e foram avaliados por dois avaliadores, ligados ao GT3, que analisaram a pertinência da pesquisa para esta Edição Temática."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2020-05-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista Eletrônica de Educação Matemática; v. 15 (2020): Currículo e Educação Matemática; 1-5",
+            "1981-1322"
+          ],
+          "publishers": [
+            "Universidade Federal de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:29:02.729395+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:periodicos.ufsc.br:article/93247",
+      "journal": "revemat",
+      "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Wagner, Débora Regina",
+        "Silvino de Lima, Aldinete"
+      ],
+      "institutions": [],
+      "abstract": "Editorial da Seção Temática: Educação Matemática em diálogo com a Educação do Campo, Indígena e Quilombola e em outros contextos socioculturais afirmativos.",
+      "abstractOriginal": "Editorial da Seção Temática: Educação Matemática em diálogo com a Educação do Campo, Indígena e Quilombola e em outros contextos socioculturais afirmativos.",
+      "abstractEn": "Editorial of the Thematic Section: Mathematics Education in dialogue with Rural, Indigenous and Quilombola Education and in other affirmative sociocultural contexts.",
+      "keywords": [
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufsc.br/index.php/revemat/article/view/93247",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:periodicos.ufsc.br:article/93247",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-03-13T16:33:55Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial of the Thematic Section: Mathematics Education in dialogue with Rural, Indigenous and Quilombola Education and in other affirmative sociocultural contexts.",
+          "Editorial da Seção Temática: Educação Matemática em diálogo com a Educação do Campo, Indígena e Quilombola e em outros contextos socioculturais afirmativos."
+        ],
+        "allSubjects": [
+          "Editorial",
+          "Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2023-03-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista Eletrônica de Educação Matemática; 2023: Dossiê Temático: Ed. MTM em diálogo com a Ed. do Campo, Indígena e Quilombola; 2",
+            "1981-1322"
+          ],
+          "publishers": [
+            "Universidade Federal de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:29:13.482631+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "doi:10.20396/zet.v24i2.8646516",
       "journal": "zetetike",
       "journalName": "Zetetiké",
