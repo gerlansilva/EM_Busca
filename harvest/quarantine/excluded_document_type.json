@@ -1,0 +1,739 @@
+{
+  "articles": [
+    {
+      "id": "doi:10.20396/zet.v24i2.8646516",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Editorial do v. 24, n. 2 (2016).",
+      "abstractOriginal": "Editorial do v. 24, n. 2 (2016).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial",
+        "Mathematics Education - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial",
+        "Mathematics Education - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v24i2.8646516",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646516",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646516",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-12T13:10:35Z",
+        "sourceValues": {
+          "dates": [
+            "2016-09-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 24 No. 2 (2016): maio/ago. [46]; 189-190",
+            "Zetetike; Vol. 24 Núm. 2 (2016): maio/ago. [46]; 189-190",
+            "Zetetike; v. 24 n. 2 (2016): maio/ago. [46]; 189-190",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.264900+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v24i45.8646525",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Grando, Regina Célia",
+        "Oliveira, Andreia Maria Pereira",
+        "Grando, Regina Célia",
+        "Oliveira, Andreia Maria Pereira"
+      ],
+      "institutions": [],
+      "abstract": "Editorial da Zetetiké.",
+      "abstractOriginal": "Editorial da Zetetiké.",
+      "abstractEn": "",
+      "keywords": [
+        "Math education - Editorial",
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Math education - Editorial",
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v24i45.8646525",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646525",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646525",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-07T16:44:59Z",
+        "sourceValues": {
+          "dates": [
+            "2016-05-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 24 No. 1 (2016): Professional development of teachers who teach Mathematics: collaboration and under the Obeduc; 7-12",
+            "Zetetike; Vol. 24 Núm. 1 (2016): jan./abr. [45]; 7-12",
+            "Zetetike; v. 24 n. 1 (2016): jan./abr. [45]; 7-12",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.267407+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v23i44.8646538",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves",
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - edição 44, vol.23 n.2 (2015).",
+      "abstractOriginal": "Editorial - edição 44, vol.23 n.2 (2015).",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial",
+        "Educação matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial",
+        "Educação matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v23i44.8646538",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646538",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646538",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-04T15:18:01Z",
+        "sourceValues": {
+          "dates": [
+            "2016-03-18"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 23 No. 2 (2015): jul./dez. [44]; 277-278",
+            "Zetetike; Vol. 23 Núm. 2 (2015): jul./dez. [44]; 277-278",
+            "Zetetike; v. 23 n. 2 (2015): jul./dez. [44]; 277-278",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.271236+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v23i43.8646550",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Gomes, Maria Laura Magalhães",
+        "Dassie, Bruno Alves",
+        "Abreu, Enid",
+        "Gomes, Maria Laura Magalhães",
+        "Dassie, Bruno Alves",
+        "Abreu, Enid"
+      ],
+      "institutions": [],
+      "abstract": "Em novembro de 2014, o professor Antonio Miguel nos fez o convite para que coordenássemos a organização de uma edição temática da Zetetiké. Inicialmente voltada para articulações entre Literatura, Educação e Matemática, a proposta foi modificada para se tornar mais abrangente e envolver não apenas a Literatura, mas o campo mais geral das Artes. Fixamos, então, as palavras Educação, Matemática e Artes para definir o tema da edição especial.",
+      "abstractOriginal": "Em novembro de 2014, o professor Antonio Miguel nos fez o convite para que coordenássemos a organização de uma edição temática da Zetetiké. Inicialmente voltada para articulações entre Literatura, Educação e Matemática, a proposta foi modificada para se tornar mais abrangente e envolver não apenas a Literatura, mas o campo mais geral das Artes. Fixamos, então, as palavras Educação, Matemática e Artes para definir o tema da edição especial.",
+      "abstractEn": "",
+      "keywords": [
+        "Education",
+        "Mathematics and arts",
+        "Educação",
+        "Matemática e artes",
+        "Educação",
+        "Matemática e Artes"
+      ],
+      "keywordsOriginal": [
+        "Education",
+        "Mathematics and arts",
+        "Educação",
+        "Matemática e artes",
+        "Educação",
+        "Matemática e Artes"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v23i43.8646550",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646550",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646550",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-01T15:43:07Z",
+        "sourceValues": {
+          "dates": [
+            "2016-01-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 23 No. 1 (2015): jan./jun. [43]; 7-13",
+            "Zetetike; Vol. 23 Núm. 1 (2015): jan./jun. [43]; 7-13",
+            "Zetetike; v. 23 n. 1 (2015): jan./jun. [43]; 7-13",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.274287+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v22i42.8646563",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio",
+        "Moura, Anna Regina Lanner de",
+        "Miguel, Antonio",
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "A fim de que o leitor possa encontrar prontamente temáticas mais focalmente voltadas a seu interesse, apresentamos, neste editorial, uma visão panorâmica da matéria inédita que encontrará publicada neste segundo volume do ano de 2014 da Revista Zetetiké.",
+      "abstractOriginal": "A fim de que o leitor possa encontrar prontamente temáticas mais focalmente voltadas a seu interesse, apresentamos, neste editorial, uma visão panorâmica da matéria inédita que encontrará publicada neste segundo volume do ano de 2014 da Revista Zetetiké.",
+      "abstractEn": "",
+      "keywords": [
+        "Periódicos - Editorial",
+        "Periodicals - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Periódicos - Editorial",
+        "Periodicals - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v22i42.8646563",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646563",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646563",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-01T14:10:50Z",
+        "sourceValues": {
+          "dates": [
+            "2015-02-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 22 No. 2 (2014): jul./dez. [42]; 7-9",
+            "Zetetike; Vol. 22 Núm. 2 (2014): jul./dez. [42]; 7-9",
+            "Zetetike; v. 22 n. 2 (2014): jul./dez. [42]; 7-9",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.279201+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v22i41.8646575",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de",
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Neste primeiro número de 2014 da Revista Zetetiké, apresentamos aos nossos leitores quatro artigos, um relato de experiência, uma crônica e uma resenha. O primeiro artigo, intitulado ”Construindo significado para expressões numéricas multiplicativas a partir do jogo de mensagem”, é de autoria de Gabriela dos Santos Barbosa e Sandra M. P. Magina, docentes, respectivamente, da Universidade do Estado do Rio de Janeiro e da Universidade Estadual de Santa Cruz-BA. Utilizando como referencial a Teoria dos Campos Conceituais, as autoras analisam as estratégias empregadas por 22 estudantes do 6o ano do Ensino Fundamental de uma escola particular da zona oeste da cidade do Rio de Janeiro, ao participarem de um jogo que favorece a construção de significados para expressões numéricas envolvendo duas multiplicações.",
+      "abstractOriginal": "Neste primeiro número de 2014 da Revista Zetetiké, apresentamos aos nossos leitores quatro artigos, um relato de experiência, uma crônica e uma resenha. O primeiro artigo, intitulado ”Construindo significado para expressões numéricas multiplicativas a partir do jogo de mensagem”, é de autoria de Gabriela dos Santos Barbosa e Sandra M. P. Magina, docentes, respectivamente, da Universidade do Estado do Rio de Janeiro e da Universidade Estadual de Santa Cruz-BA. Utilizando como referencial a Teoria dos Campos Conceituais, as autoras analisam as estratégias empregadas por 22 estudantes do 6o ano do Ensino Fundamental de uma escola particular da zona oeste da cidade do Rio de Janeiro, ao participarem de um jogo que favorece a construção de significados para expressões numéricas envolvendo duas multiplicações.",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial",
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial",
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v22i41.8646575",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646575",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646575",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-01T12:18:00Z",
+        "sourceValues": {
+          "dates": [
+            "2014-10-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 22 No. 1 (2014): jan./jun. [41]; 7-8",
+            "Zetetike; Vol. 22 Núm. 1 (2014): jan./jun. [41]; 7-8",
+            "Zetetike; v. 22 n. 1 (2014): jan./jun. [41]; 7-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.282987+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v21i40.8646585",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Carvalho, Dione Lucchesi de",
+        "Miorim, Maria Ângela"
+      ],
+      "institutions": [],
+      "abstract": "Neste segundo número de 2013, o no. 40, da Revista Zetetiké, apresentamos aos nossos leitores sete textos dos quais dois são relatos de experiência.",
+      "abstractOriginal": "Neste segundo número de 2013, o no. 40, da Revista Zetetiké, apresentamos aos nossos leitores sete textos dos quais dois são relatos de experiência.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação - Editorial. Matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação - Editorial. Matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v21i40.8646585",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646585",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646585",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-23T16:45:09Z",
+        "sourceValues": {
+          "dates": [
+            "2014-05-23"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Não se aplica"
+          ],
+          "sources": [
+            "Zetetike; Vol. 21 No. 2 (2013): jul./dez. [40]; 5-7",
+            "Zetetike; Vol. 21 Núm. 2 (2013): jul./dez. [40]; 5-7",
+            "Zetetike; v. 21 n. 2 (2013): jul./dez. [40]; 5-7",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.285292+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v21i39.8646595",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de",
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Este primeiro número do volume 21 da Zetetiké, referente ao ano de2013, tem para nós um significado muito especial. Com a sua edição, a revistacompleta duas décadas de existência. Foram vinte anos dedicados àdivulgação de trabalhos da Área de Educação Matemática, em especial deautores brasileiros, o que nos possibilitou momentos ricos de trocas, masexigiu determinação e envolvimento de muitas pessoas. Por isso, agradecemosa todos aqueles que contribuíram de formas variadas para que nossa revistachegasse até este momento. Em especial, agradecemos à direção da FE; aosfuncionários do setor de publicação da FE, em particular ao Mike; aosEditores; à Comissão Editorial; aos Autores; à Comissão de Pareceristas; aosRevisores, em especial à Leda, que nos acompanha durante anos; aosdiagramadores; ao Francisco, pelo auxílio em vários momentos,particularmente no processo de implantação da nova plataforma; aos leitores;e às instituições que, por meio de aquisição ou permuta, contribuíram para adivulgação e a manutenção de nosso periódico, e a outros que deram sua contribuição.",
+      "abstractOriginal": "Este primeiro número do volume 21 da Zetetiké, referente ao ano de2013, tem para nós um significado muito especial. Com a sua edição, a revistacompleta duas décadas de existência. Foram vinte anos dedicados àdivulgação de trabalhos da Área de Educação Matemática, em especial deautores brasileiros, o que nos possibilitou momentos ricos de trocas, masexigiu determinação e envolvimento de muitas pessoas. Por isso, agradecemosa todos aqueles que contribuíram de formas variadas para que nossa revistachegasse até este momento. Em especial, agradecemos à direção da FE; aosfuncionários do setor de publicação da FE, em particular ao Mike; aosEditores; à Comissão Editorial; aos Autores; à Comissão de Pareceristas; aosRevisores, em especial à Leda, que nos acompanha durante anos; aosdiagramadores; ao Francisco, pelo auxílio em vários momentos,particularmente no processo de implantação da nova plataforma; aos leitores;e às instituições que, por meio de aquisição ou permuta, contribuíram para adivulgação e a manutenção de nosso periódico, e a outros que deram sua contribuição.",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial",
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial",
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v21i39.8646595",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646595",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646595",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-23T15:36:55Z",
+        "sourceValues": {
+          "dates": [
+            "2014-04-16"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 21 No. 1 (2013): jan./jun. [39]; 7-10",
+            "Zetetike; Vol. 21 Núm. 1 (2013): jan./jun. [39]; 7-10",
+            "Zetetike; v. 21 n. 1 (2013): jan./jun. [39]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.287853+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v20i38.8646607",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - Vol. 20, N° 38 (2012).",
+      "abstractOriginal": "Editorial - Vol. 20, N° 38 (2012).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação - Editorial. Matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação - Editorial. Matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v20i38.8646607",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646607",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646607",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-23T13:20:41Z",
+        "sourceValues": {
+          "dates": [
+            "2013-05-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Não se aplica"
+          ],
+          "sources": [
+            "Zetetike; Vol. 20 No. 2 (2012): jul./dez. [38]; 7-9",
+            "Zetetike; Vol. 20 Núm. 2 (2012): jul./dez. [38]; 7-9",
+            "Zetetike; v. 20 n. 2 (2012): jul./dez. [38]; 7-9",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.290648+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v19i36.8646622",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Ferreira, Jorgias Alves",
+        "Ferreira, Jorgias Alves"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - Vol. 19, N° 36 (2011).",
+      "abstractOriginal": "Editorial - Vol. 19, N° 36 (2011).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2012,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v19i36.8646622",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646622",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646622",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-17T15:57:22Z",
+        "sourceValues": {
+          "dates": [
+            "2012-10-17"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 19 No. 2 (2011): jul./dez. [36]; 5-6",
+            "Zetetike; Vol. 19 Núm. 2 (2011): jul./dez. [36]; 5-6",
+            "Zetetike; v. 19 n. 2 (2011): jul./dez. [36]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.294536+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v20i37.8646633",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de",
+        "Miorim, Maria Ângela",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - Vol. 20, N° 1 (2012).",
+      "abstractOriginal": "Editorial - Vol. 20, N° 1 (2012).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação Matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação Matemática - Editorial",
+        "Mathematics education - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2012,
+      "language": "por",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v20i37.8646633",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646633",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646633",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-21T12:47:47Z",
+        "sourceValues": {
+          "dates": [
+            "2012-10-17"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 20 No. 1 (2012): jan./jun. [37]; 7-9",
+            "Zetetike; Vol. 20 Núm. 1 (2012): jan./jun. [37]; 7-9",
+            "Zetetike; v. 20 n. 1 (2012): jan./jun. [37]; 7-9",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T22:19:37.296786+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    }
+  ]
+}
