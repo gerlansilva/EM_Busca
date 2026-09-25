@@ -73,7 +73,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.772105+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.634708+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -150,7 +150,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.776517+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.639360+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -230,7 +230,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.783621+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.646696+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -315,7 +315,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.788628+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.651881+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -392,7 +392,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.795845+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.659271+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -467,7 +467,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.800724+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.664287+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -540,7 +540,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.805099+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.668850+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -615,7 +615,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.809676+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.673464+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -688,7 +688,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.814804+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.679394+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -764,7 +764,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.821829+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.686661+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     },
@@ -841,7 +841,3095 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T22:34:31.826190+00:00",
+      "harvestedAt": "2026-09-25T23:10:58.691162+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v19i35.8646642",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - Vol. 19, N° 35 (2011).",
+      "abstractOriginal": "Editorial - Vol. 19, N° 35 (2011).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2012,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v19i35.8646642",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646642",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646642",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-17T13:26:00Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - Vol. 19, N° 35 (2011).",
+          "Editorial - Vol. 19, N° 35 (2011)."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2012-10-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 19 No. 1 (2011): jan./jun. [35]",
+            "Zetetike; Vol. 19 Núm. 1 (2011): jan./jun. [35]",
+            "Zetetike; v. 19 n. 1 (2011): jan./jun. [35]",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.583949+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v18i0.8646653",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Vianna, Carlos Roberto",
+        "Mascia, Márcia Aparecida Amador"
+      ],
+      "institutions": [],
+      "abstract": "Número especial v.18 (2010).",
+      "abstractOriginal": "Número especial v.18 (2010).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v18i0.8646653",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646653",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646653",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-14T16:06:16Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Número especial v.18 (2010).",
+          "Número especial v.18 (2010)."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2011-02-11"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 18 (2010): (n. esp.) Linguagem e práticas socioculturais: perspectivas para a Educação Matemática; 11-16",
+            "Zetetike; v. 18 (2010): (n. esp.) Linguagem e práticas socioculturais: perspectivas para a Educação Matemática; 11-16",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.588317+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v18i34.8646678",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio",
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial v. 18, n. 2 (2010).",
+      "abstractOriginal": "Editorial v. 18, n. 2 (2010).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v18i34.8646678",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646678",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646678",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-13T12:48:26Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial v. 18, n. 2 (2010).",
+          "Editorial v. 18, n. 2 (2010)."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2011-01-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 18 No. 2 (2010): jul./dez. [34]; 1-4",
+            "Zetetike; Vol. 18 Núm. 2 (2010): jul./dez. [34]; 1-4",
+            "Zetetike; v. 18 n. 2 (2010): jul./dez. [34]; 1-4",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.601012+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v18i33.8646691",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio"
+      ],
+      "institutions": [],
+      "abstract": "Editorial (v. 18, n. 1, 2010).",
+      "abstractOriginal": "Editorial (v. 18, n. 1, 2010).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2010,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v18i33.8646691",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646691",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646691",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-10T16:04:29Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial (v. 18, n. 1, 2010).",
+          "Editorial (v. 18, n. 1, 2010)."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2010-12-23"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 18 No. 1 (2010): jan./jun. [33]",
+            "Zetetike; Vol. 18 Núm. 1 (2010): jan./jun. [33]",
+            "Zetetike; v. 18 n. 1 (2010): jan./jun. [33]",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.606874+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v17i32.8646702",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio",
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.17 - n.32 - jul./dez. 2009 Prezados (as) leitores (as): O número 32 da Revista Zetetiké é composto por seis artigos, por uma relação de dissertações de mestrado e teses de doutorado em educação matemática, defendidas no Brasil, ao longo do ano de 2008.",
+      "abstractOriginal": "Editorial - v.17 - n.32 - jul./dez. 2009 Prezados (as) leitores (as): O número 32 da Revista Zetetiké é composto por seis artigos, por uma relação de dissertações de mestrado e teses de doutorado em educação matemática, defendidas no Brasil, ao longo do ano de 2008.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v17i32.8646702",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646702",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646702",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-10T12:46:07Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.17 - n.32 - jul./dez. 2009 Prezados (as) leitores (as): O número 32 da Revista Zetetiké é composto por seis artigos, por uma relação de dissertações de mestrado e teses de doutorado em educação matemática, defendidas no Brasil, ao longo do ano de 2008.",
+          "Editorial - v.17 - n.32 - jul./dez. 2009 Prezados (as) leitores (as): O número 32 da Revista Zetetiké é composto por seis artigos, por uma relação de dissertações de mestrado e teses de doutorado em educação matemática, defendidas no Brasil, ao longo do ano de 2008."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2023-11-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 17 No. 2 (2009): jul./dez. [32]",
+            "Zetetike; Vol. 17 Núm. 2 (2009): jul./dez. [32]",
+            "Zetetike; v. 17 n. 2 (2009): jul./dez. [32]",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.612306+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v8i13-14.8646710",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione L. de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.8 - n.13/14 - jan./dez. 2000.",
+      "abstractOriginal": "Editorial - v.8 - n.13/14 - jan./dez. 2000.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática"
+      ],
+      "keywordsEn": [
+        "Mathematics education"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2000,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v8i13-14.8646710",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646710",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646710",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:53:24Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.8 - n.13/14 - jan./dez. 2000.",
+          "Editorial - v.8 - n.13/14 - jan./dez. 2000."
+        ],
+        "allSubjects": [
+          "Mathematics education",
+          "Educação matemática"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2000-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 8 No. 1-2 (2000): jan./dez. [13-14]; 5-6",
+            "Zetetike; Vol. 8 Núm. 1-2 (2000): jan./dez. [13-14]; 5-6",
+            "Zetetike; v. 8 n. 1-2 (2000): jan./dez. [13-14]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.618083+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v8i13-14.8646718",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Sumários da ZETETIKÉ",
+      "titleOriginal": "Sumários da ZETETIKÉ",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Sumários da ZETETIKÉ – século XX.",
+      "abstractOriginal": "Sumários da ZETETIKÉ – século XX.",
+      "abstractEn": "",
+      "keywords": [
+        "Sumários"
+      ],
+      "keywordsOriginal": [
+        "Sumários"
+      ],
+      "keywordsEn": [
+        "Sumary"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2000,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v8i13-14.8646718",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646718",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646718",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:53:24Z",
+        "allTitles": [
+          "Sumários da ZETETIKÉ",
+          "Sumários da ZETETIKÉ"
+        ],
+        "allDescriptions": [
+          "Sumários da ZETETIKÉ – século XX.",
+          "Sumários da ZETETIKÉ – século XX."
+        ],
+        "allSubjects": [
+          "Sumários",
+          "Sumary"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2000-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Text",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 8 No. 1-2 (2000): jan./dez. [13-14]; 155-166",
+            "Zetetike; Vol. 8 Núm. 1-2 (2000): jan./dez. [13-14]; 155-166",
+            "Zetetike; v. 8 n. 1-2 (2000): jan./dez. [13-14]; 155-166",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.621846+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "doi:10.20396/zet.v17i31.8646721",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Moura, Anna Regina Lanner de",
+        "Miguel, Antonio"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.17 - n. 31 - jan./jun. 2009 Neste número 31 do volume 17 da Revista Zetetiké, referente ao ano de 2009, apresentamos, aos nossos leitores, sete artigos, bem como a Relação de dissertações de mestrado e de teses e doutorado em Educação Matemática na Unicamp em 2008.",
+      "abstractOriginal": "Editorial - v.17 - n. 31 - jan./jun. 2009 Neste número 31 do volume 17 da Revista Zetetiké, referente ao ano de 2009, apresentamos, aos nossos leitores, sete artigos, bem como a Relação de dissertações de mestrado e de teses e doutorado em Educação Matemática na Unicamp em 2008.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v17i31.8646721",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646721",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646721",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-06T16:29:36Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.17 - n. 31 - jan./jun. 2009 Neste número 31 do volume 17 da Revista Zetetiké, referente ao ano de 2009, apresentamos, aos nossos leitores, sete artigos, bem como a Relação de dissertações de mestrado e de teses e doutorado em Educação Matemática na Unicamp em 2008.",
+          "Editorial - v.17 - n. 31 - jan./jun. 2009 Neste número 31 do volume 17 da Revista Zetetiké, referente ao ano de 2009, apresentamos, aos nossos leitores, sete artigos, bem como a Relação de dissertações de mestrado e de teses e doutorado em Educação Matemática na Unicamp em 2008."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2009-12-19"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 17 No. 1 (2009): jan./jun. [31]; 7-10",
+            "Zetetike; Vol. 17 Núm. 1 (2009): jan./jun. [31]; 7-10",
+            "Zetetike; v. 17 n. 1 (2009): jan./jun. [31]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.623217+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v4i6.8646734",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "O presente número da revista Zetetiké contém onze artigos - sendo um deles selecionado.",
+      "abstractOriginal": "O presente número da revista Zetetiké contém onze artigos - sendo um deles selecionado.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1996,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v4i6.8646734",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646734",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646734",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:48:13Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "O presente número da revista Zetetiké contém onze artigos - sendo um deles selecionado.",
+          "O presente número da revista Zetetiké contém onze artigos - sendo um deles selecionado."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1996-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 4 No. 2 (1996): jul./dez. [6]; 5-7",
+            "Zetetike; Vol. 4 Núm. 2 (1996): jul./dez. [6]; 5-7",
+            "Zetetike; v. 4 n. 2 (1996): jul./dez. [6]; 5-7",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.627407+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v5i7.8646755",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial.",
+      "abstractOriginal": "Editorial.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1997,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v5i7.8646755",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646755",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646755",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:49:03Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial.",
+          "Editorial."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1997-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 5 No. 1 (1997): jan./jun. [7]; 5-6",
+            "Zetetike; Vol. 5 Núm. 1 (1997): jan./jun. [7]; 5-6",
+            "Zetetike; v. 5 n. 1 (1997): jan./jun. [7]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:05.634730+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v7i12.8646769",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione L. de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.7 - n.12 - jul./dez. 1999.",
+      "abstractOriginal": "Editorial - v.7 - n.12 - jul./dez. 1999.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1999,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v7i12.8646769",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646769",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646769",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:52:37Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.7 - n.12 - jul./dez. 1999.",
+          "Editorial - v.7 - n.12 - jul./dez. 1999."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1999-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 7 No. 2 (1999): jul./dez. [12]; 5-7",
+            "Zetetike; Vol. 7 Núm. 2 (1999): jul./dez. [12]; 5-7",
+            "Zetetike; v. 7 n. 2 (1999): jul./dez. [12]; 5-7",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.844296+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v6i10.8646779",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial.",
+      "abstractOriginal": "Editorial.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1998,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v6i10.8646779",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646779",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646779",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:51:27Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial.",
+          "Editorial."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1998-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 6 No. 2 (1998): jul./dez. [10]; 5-8",
+            "Zetetike; Vol. 6 Núm. 2 (1998): jul./dez. [10]; 5-8",
+            "Zetetike; v. 6 n. 2 (1998): jul./dez. [10]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.848927+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v17i0.8646789",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio",
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v. 17 - Número Temático - 2009 Prezados leitores É com satisfação que disponibilizamos o primeiro número temático da Revista Zetetiké, intitulado Políticas Públicas e Educação Matemática, cuja responsabilidade editorial foi atribuída a Cristiano Alberto Muniz, professor do Departamento de Métodos e Técnicas da Faculdade de Educação da Universidade de Brasília.",
+      "abstractOriginal": "Editorial - v. 17 - Número Temático - 2009 Prezados leitores É com satisfação que disponibilizamos o primeiro número temático da Revista Zetetiké, intitulado Políticas Públicas e Educação Matemática, cuja responsabilidade editorial foi atribuída a Cristiano Alberto Muniz, professor do Departamento de Métodos e Técnicas da Faculdade de Educação da Universidade de Brasília.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v17i0.8646789",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646789",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646789",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-10T13:56:21Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v. 17 - Número Temático - 2009 Prezados leitores É com satisfação que disponibilizamos o primeiro número temático da Revista Zetetiké, intitulado Políticas Públicas e Educação Matemática, cuja responsabilidade editorial foi atribuída a Cristiano Alberto Muniz, professor do Departamento de Métodos e Técnicas da Faculdade de Educação da Universidade de Brasília.",
+          "Editorial - v. 17 - Número Temático - 2009 Prezados leitores É com satisfação que disponibilizamos o primeiro número temático da Revista Zetetiké, intitulado Políticas Públicas e Educação Matemática, cuja responsabilidade editorial foi atribuída a Cristiano Alberto Muniz, professor do Departamento de Métodos e Técnicas da Faculdade de Educação da Universidade de Brasília."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2009-12-09"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 17 (2009): Número Temático: Políticas Públicas e Educação Matemática; 7-8",
+            "Zetetike; v. 17 (2009): Número Temático: Políticas Públicas e Educação Matemática; 7-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.853385+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v6i9.8646803",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial.",
+      "abstractOriginal": "Editorial.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1997,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v6i9.8646803",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646803",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646803",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:51:03Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial.",
+          "Editorial."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1997-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 6 No. 1 (1998): jan./jun. [9]; 5-7",
+            "Zetetike; Vol. 6 Núm. 1 (1998): jan./jun. [9]; 5-7",
+            "Zetetike; v. 6 n. 1 (1998): jan./jun. [9]; 5-7",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.858050+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v1i1.8646820",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miguel, Antonio",
+        "Miorim, Maria Ângela",
+        "Fiorentini, Dario"
+      ],
+      "institutions": [],
+      "abstract": "O Círculo de Estudo, Memória e Pesquisa em Educação Matemática (CEM-PEM) é um núcleo científico-pedagógico instalado junto à Faculdade de Educação da Universidade Estadual de Campinas. Fundado em 1989, através da iniciativa dos professores do Departamento de Metodologia de Ensino da Faculdade de Educação da UNICAMP que trabalham em Educação Matemática.",
+      "abstractOriginal": "O Círculo de Estudo, Memória e Pesquisa em Educação Matemática (CEM-PEM) é um núcleo científico-pedagógico instalado junto à Faculdade de Educação da Universidade Estadual de Campinas. Fundado em 1989, através da iniciativa dos professores do Departamento de Metodologia de Ensino da Faculdade de Educação da UNICAMP que trabalham em Educação Matemática.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v1i1.8646820",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646820",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646820",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-06T11:49:38Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "O Círculo de Estudo, Memória e Pesquisa em Educação Matemática (CEM-PEM) é um núcleo científico-pedagógico instalado junto à Faculdade de Educação da Universidade Estadual de Campinas. Fundado em 1989, através da iniciativa dos professores do Departamento de Metodologia de Ensino da Faculdade de Educação da UNICAMP que trabalham em Educação Matemática.",
+          "O Círculo de Estudo, Memória e Pesquisa em Educação Matemática (CEM-PEM) é um núcleo científico-pedagógico instalado junto à Faculdade de Educação da Universidade Estadual de Campinas. Fundado em 1989, através da iniciativa dos professores do Departamento de Metodologia de Ensino da Faculdade de Educação da UNICAMP que trabalham em Educação Matemática."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2009-06-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 1 No. 1 (1993): jan./dez. [1]; 5-6",
+            "Zetetike; Vol. 1 Núm. 1 (1993): jan./dez. [1]; 5-6",
+            "Zetetike; v. 1 n. 1 (1993): jan./dez. [1]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.864394+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v7i11.8646830",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.7 - n.11 - jan./jun. 1999.",
+      "abstractOriginal": "Editorial - v.7 - n.11 - jan./jun. 1999.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática"
+      ],
+      "keywordsEn": [
+        "Mathematics education"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1999,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v7i11.8646830",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646830",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646830",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:52:23Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.7 - n.11 - jan./jun. 1999.",
+          "Editorial - v.7 - n.11 - jan./jun. 1999."
+        ],
+        "allSubjects": [
+          "Educação matemática",
+          "Mathematics education"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1999-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 7 No. 1 (1999): jan./jun. [11]; 5-8",
+            "Zetetike; Vol. 7 Núm. 1 (1999): jan./jun. [11]; 5-8",
+            "Zetetike; v. 7 n. 1 (1999): jan./jun. [11]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.867691+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v5i8.8646842",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.5 - n.8 - jul./dez. 1997",
+      "abstractOriginal": "Editorial - v.5 - n.8 - jul./dez. 1997",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1997,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v5i8.8646842",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646842",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646842",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:49:20Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.5 - n.8 - jul./dez. 1997",
+          "Editorial - v.5 - n.8 - jul./dez. 1997"
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1997-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 5 No. 2 (1997): jul./dez. [8]; 5-8",
+            "Zetetike; Vol. 5 Núm. 2 (1997): jul./dez. [8]; 5-8",
+            "Zetetike; v. 5 n. 2 (1997): jul./dez. [8]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.871293+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v4i5.8646859",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "O presente número da revista Zetetiké contém sete artigos - sendo um deles selecionado - e uma pequena relação de teses/dissertações em Educação Matemática, defendidas no Brasil até 1995, que está sendo divulgada devido à necessária complementação das listagens mais amplas, já divulgadas em números anteriores da revista, reclamada por autores que não se viram incluídos nas mesmas.",
+      "abstractOriginal": "O presente número da revista Zetetiké contém sete artigos - sendo um deles selecionado - e uma pequena relação de teses/dissertações em Educação Matemática, defendidas no Brasil até 1995, que está sendo divulgada devido à necessária complementação das listagens mais amplas, já divulgadas em números anteriores da revista, reclamada por autores que não se viram incluídos nas mesmas.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1996,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v4i5.8646859",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646859",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646859",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:47:55Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "O presente número da revista Zetetiké contém sete artigos - sendo um deles selecionado - e uma pequena relação de teses/dissertações em Educação Matemática, defendidas no Brasil até 1995, que está sendo divulgada devido à necessária complementação das listagens mais amplas, já divulgadas em números anteriores da revista, reclamada por autores que não se viram incluídos nas mesmas.",
+          "O presente número da revista Zetetiké contém sete artigos - sendo um deles selecionado - e uma pequena relação de teses/dissertações em Educação Matemática, defendidas no Brasil até 1995, que está sendo divulgada devido à necessária complementação das listagens mais amplas, já divulgadas em números anteriores da revista, reclamada por autores que não se viram incluídos nas mesmas."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1996-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 4 No. 1 (1996): jan./jun. [5]; 5-6",
+            "Zetetike; Vol. 4 Núm. 1 (1996): jan./jun. [5]; 5-6",
+            "Zetetike; v. 4 n. 1 (1996): jan./jun. [5]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.876252+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v4i5.8646860",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "Sumary",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Sumário.",
+      "abstractOriginal": "Sumário.",
+      "abstractEn": "Sumary.",
+      "keywords": [
+        "Educação matemática - Sumário"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Sumário"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Sumary"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 1996,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v4i5.8646860",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646860",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646860",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:47:55Z",
+        "allTitles": [
+          "Sumary",
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "Sumary.",
+          "Sumário."
+        ],
+        "allSubjects": [
+          "Educação matemática - Sumário",
+          "Mathematics education - Sumary"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1996-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 4 No. 1 (1996): jan./jun. [5]",
+            "Zetetike; Vol. 4 Núm. 1 (1996): jan./jun. [5]",
+            "Zetetike; v. 4 n. 1 (1996): jan./jun. [5]",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.876629+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "doi:10.20396/zet.v3i4.8646875",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Graças ao seu apoio, a revista Zetetiké, com este quarto número, completo três anos de existência. A partir de agora, o nosso propósito é que a revista se torne semestral, para o que torna-se imprescindível que o leitor que integra a comunidade de educadores matemáticos, não apenas continue a contribuir financeiramente com a revista, como também passa a dar-lhe sustentação teórica regular, através do envio de artigos baseados em pesquisa ou reflexão fundamentadas, relatos de experiências e crônicas, para que essa periodicidade possa ser mantida.",
+      "abstractOriginal": "Graças ao seu apoio, a revista Zetetiké, com este quarto número, completo três anos de existência. A partir de agora, o nosso propósito é que a revista se torne semestral, para o que torna-se imprescindível que o leitor que integra a comunidade de educadores matemáticos, não apenas continue a contribuir financeiramente com a revista, como também passa a dar-lhe sustentação teórica regular, através do envio de artigos baseados em pesquisa ou reflexão fundamentadas, relatos de experiências e crônicas, para que essa periodicidade possa ser mantida.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1995,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v3i4.8646875",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646875",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646875",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:45:50Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Graças ao seu apoio, a revista Zetetiké, com este quarto número, completo três anos de existência. A partir de agora, o nosso propósito é que a revista se torne semestral, para o que torna-se imprescindível que o leitor que integra a comunidade de educadores matemáticos, não apenas continue a contribuir financeiramente com a revista, como também passa a dar-lhe sustentação teórica regular, através do envio de artigos baseados em pesquisa ou reflexão fundamentadas, relatos de experiências e crônicas, para que essa periodicidade possa ser mantida.",
+          "Graças ao seu apoio, a revista Zetetiké, com este quarto número, completo três anos de existência. A partir de agora, o nosso propósito é que a revista se torne semestral, para o que torna-se imprescindível que o leitor que integra a comunidade de educadores matemáticos, não apenas continue a contribuir financeiramente com a revista, como também passa a dar-lhe sustentação teórica regular, através do envio de artigos baseados em pesquisa ou reflexão fundamentadas, relatos de experiências e crônicas, para que essa periodicidade possa ser mantida."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1995-11-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 3 No. 1 (1995): jan./jun. [3]; 1-2",
+            "Zetetike; Vol. 3 Núm. 1 (1995): jan./jun. [3]; 1-2",
+            "Zetetike; v. 3 n. 1 (1995): jan./jun. [3]; 1-2",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.882336+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v16i30.8646887",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Moura, Anna Regina Lanner de",
+        "Miguel, Antonio"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.16 - n. 30 - jul./dez. 2008 Neste número 30 do volume 16 da revista Zetetiké, referente ao ano de 2008, apresentamos aos nossos leitores sete artigos, um relato de experiência e duas resenhas. Divulgamos, também, neste número, a relação de dissertações de mestrado em Educação Matemática defendidas na Faculdade de Educação da Unicamp, no ano de 2007.",
+      "abstractOriginal": "Editorial - v.16 - n. 30 - jul./dez. 2008 Neste número 30 do volume 16 da revista Zetetiké, referente ao ano de 2008, apresentamos aos nossos leitores sete artigos, um relato de experiência e duas resenhas. Divulgamos, também, neste número, a relação de dissertações de mestrado em Educação Matemática defendidas na Faculdade de Educação da Unicamp, no ano de 2007.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v16i30.8646887",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646887",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646887",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-01T16:36:21Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.16 - n. 30 - jul./dez. 2008 Neste número 30 do volume 16 da revista Zetetiké, referente ao ano de 2008, apresentamos aos nossos leitores sete artigos, um relato de experiência e duas resenhas. Divulgamos, também, neste número, a relação de dissertações de mestrado em Educação Matemática defendidas na Faculdade de Educação da Unicamp, no ano de 2007.",
+          "Editorial - v.16 - n. 30 - jul./dez. 2008 Neste número 30 do volume 16 da revista Zetetiké, referente ao ano de 2008, apresentamos aos nossos leitores sete artigos, um relato de experiência e duas resenhas. Divulgamos, também, neste número, a relação de dissertações de mestrado em Educação Matemática defendidas na Faculdade de Educação da Unicamp, no ano de 2007."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2008-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 16 No. 2 (2008): jul./dez. [30]; 7-10",
+            "Zetetike; Vol. 16 Núm. 2 (2008): jul./dez. [30]; 7-10",
+            "Zetetike; v. 16 n. 2 (2008): jul./dez. [30]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.887099+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v3i3.8646904",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Dando continuidade ao projeto de fazer da ZETETIKÉ um canal de divulgação de trabalhos que contemplam distintas tendências presentes nas discussões e investigações realizadas pela comunidade de educadores matemáticos brasileiros, o terceiro número da revista do CEMPEM apresenta cinco artigos e um relato de experiência.",
+      "abstractOriginal": "Dando continuidade ao projeto de fazer da ZETETIKÉ um canal de divulgação de trabalhos que contemplam distintas tendências presentes nas discussões e investigações realizadas pela comunidade de educadores matemáticos brasileiros, o terceiro número da revista do CEMPEM apresenta cinco artigos e um relato de experiência.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1995,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v3i3.8646904",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646904",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646904",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:46:39Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Dando continuidade ao projeto de fazer da ZETETIKÉ um canal de divulgação de trabalhos que contemplam distintas tendências presentes nas discussões e investigações realizadas pela comunidade de educadores matemáticos brasileiros, o terceiro número da revista do CEMPEM apresenta cinco artigos e um relato de experiência.",
+          "Dando continuidade ao projeto de fazer da ZETETIKÉ um canal de divulgação de trabalhos que contemplam distintas tendências presentes nas discussões e investigações realizadas pela comunidade de educadores matemáticos brasileiros, o terceiro número da revista do CEMPEM apresenta cinco artigos e um relato de experiência."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1995-03-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 5-6",
+            "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 5-6",
+            "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:11.893570+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v2i2.8646919",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+      ],
+      "institutions": [],
+      "abstract": "Editorial",
+      "abstractOriginal": "Editorial",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1994,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v2i2.8646919",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646919",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646919",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:44:38Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "1994-03-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 5-8",
+            "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 5-8",
+            "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.030721+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v9i15-16.8646930",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Em continuidade ao esforço, iniciado na última edição da Revista, de regularizar a periodização da publicação da Zetetiké, estamos numerando o volume 9 – o primeiro do século XXI – como 15/16. Selecionamos, para este volume da revista, seis artigos e uma crônica. Incluímos também a listagem das teses de doutorado e das dissertações de mestrado em Educação Matemática produzidas no Brasil no período de 1998 a 2001, dando assim continuidade à divulgação da produção científica desta área de estudos, o que a Zetetiké vem fazendo desde seu lançamento, em 1993.",
+      "abstractOriginal": "Em continuidade ao esforço, iniciado na última edição da Revista, de regularizar a periodização da publicação da Zetetiké, estamos numerando o volume 9 – o primeiro do século XXI – como 15/16. Selecionamos, para este volume da revista, seis artigos e uma crônica. Incluímos também a listagem das teses de doutorado e das dissertações de mestrado em Educação Matemática produzidas no Brasil no período de 1998 a 2001, dando assim continuidade à divulgação da produção científica desta área de estudos, o que a Zetetiké vem fazendo desde seu lançamento, em 1993.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics Education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v9i15-16.8646930",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646930",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646930",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:55:37Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Em continuidade ao esforço, iniciado na última edição da Revista, de regularizar a periodização da publicação da Zetetiké, estamos numerando o volume 9 – o primeiro do século XXI – como 15/16. Selecionamos, para este volume da revista, seis artigos e uma crônica. Incluímos também a listagem das teses de doutorado e das dissertações de mestrado em Educação Matemática produzidas no Brasil no período de 1998 a 2001, dando assim continuidade à divulgação da produção científica desta área de estudos, o que a Zetetiké vem fazendo desde seu lançamento, em 1993.",
+          "Em continuidade ao esforço, iniciado na última edição da Revista, de regularizar a periodização da publicação da Zetetiké, estamos numerando o volume 9 – o primeiro do século XXI – como 15/16. Selecionamos, para este volume da revista, seis artigos e uma crônica. Incluímos também a listagem das teses de doutorado e das dissertações de mestrado em Educação Matemática produzidas no Brasil no período de 1998 a 2001, dando assim continuidade à divulgação da produção científica desta área de estudos, o que a Zetetiké vem fazendo desde seu lançamento, em 1993."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics Education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2009-02-27"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 9 No. 1-2 (2001): jan./dez. [15-16]; 5-6",
+            "Zetetike; Vol. 9 Núm. 1-2 (2001): jan./dez. [15-16]; 5-6",
+            "Zetetike; v. 9 n. 1-2 (2001): jan./dez. [15-16]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.036461+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v10i17-18.8646940",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Mais uma vez não conseguimos editar, no prazo pretendido e na forma desejada, os dois exemplares da revista Zetetiké relativos ao ano 2002. Mas, graças aos esforços dos autores, dos pareceristas, dos editores e do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, organizamo-nos para editar, quase que simultaneamente, o volume 10, relativo ao ano de 2002 (números 17/18) e o primeiro número (19), relativo ao volume 11 do ano de 2003. Contamos com o apoio e compromisso daquele setor para, a partir de 2003, manter em dia a publicação semestral da revista.",
+      "abstractOriginal": "Mais uma vez não conseguimos editar, no prazo pretendido e na forma desejada, os dois exemplares da revista Zetetiké relativos ao ano 2002. Mas, graças aos esforços dos autores, dos pareceristas, dos editores e do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, organizamo-nos para editar, quase que simultaneamente, o volume 10, relativo ao ano de 2002 (números 17/18) e o primeiro número (19), relativo ao volume 11 do ano de 2003. Contamos com o apoio e compromisso daquele setor para, a partir de 2003, manter em dia a publicação semestral da revista.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2002,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v10i17-18.8646940",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646940",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646940",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T11:56:37Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Mais uma vez não conseguimos editar, no prazo pretendido e na forma desejada, os dois exemplares da revista Zetetiké relativos ao ano 2002. Mas, graças aos esforços dos autores, dos pareceristas, dos editores e do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, organizamo-nos para editar, quase que simultaneamente, o volume 10, relativo ao ano de 2002 (números 17/18) e o primeiro número (19), relativo ao volume 11 do ano de 2003. Contamos com o apoio e compromisso daquele setor para, a partir de 2003, manter em dia a publicação semestral da revista.",
+          "Mais uma vez não conseguimos editar, no prazo pretendido e na forma desejada, os dois exemplares da revista Zetetiké relativos ao ano 2002. Mas, graças aos esforços dos autores, dos pareceristas, dos editores e do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, organizamo-nos para editar, quase que simultaneamente, o volume 10, relativo ao ano de 2002 (números 17/18) e o primeiro número (19), relativo ao volume 11 do ano de 2003. Contamos com o apoio e compromisso daquele setor para, a partir de 2003, manter em dia a publicação semestral da revista."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2002-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 10 No. 1-2 (2002): jan./dez. [17-18]; 5-8",
+            "Zetetike; Vol. 10 Núm. 1-2 (2002): jan./dez. [17-18]; 5-8",
+            "Zetetike; v. 10 n. 1-2 (2002): jan./dez. [17-18]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.041719+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v11i19.8646947",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "É com satisfação que estamos retomando, a partir deste número, a semestralidade das publicações da revista Zetetiké. Por este motivo, queremos agradecer o esforço dos referees na avaliação dos artigos e na emissão pontual dos pareceres. Agradecemos também o apoio que estamos recebendo do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas.",
+      "abstractOriginal": "É com satisfação que estamos retomando, a partir deste número, a semestralidade das publicações da revista Zetetiké. Por este motivo, queremos agradecer o esforço dos referees na avaliação dos artigos e na emissão pontual dos pareceres. Agradecemos também o apoio que estamos recebendo do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2003,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v11i19.8646947",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646947",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646947",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T15:13:16Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "É com satisfação que estamos retomando, a partir deste número, a semestralidade das publicações da revista Zetetiké. Por este motivo, queremos agradecer o esforço dos referees na avaliação dos artigos e na emissão pontual dos pareceres. Agradecemos também o apoio que estamos recebendo do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas.",
+          "É com satisfação que estamos retomando, a partir deste número, a semestralidade das publicações da revista Zetetiké. Por este motivo, queremos agradecer o esforço dos referees na avaliação dos artigos e na emissão pontual dos pareceres. Agradecemos também o apoio que estamos recebendo do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2003-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 11 No. 1 (2003): jan./jun. [19]; 5-8",
+            "Zetetike; Vol. 11 Núm. 1 (2003): jan./jun. [19]; 5-8",
+            "Zetetike; v. 11 n. 1 (2003): jan./jun. [19]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.045556+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v11i20.8646954",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Visando manter a semestralidade da revista Zetetiké, estamos publicando o último número do ano de 2003. Para isso, voltamos a agradecer os esforços dos referees na avaliação dos artigos e na emissão dos pareceres, bem como do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, o qual vem sendo também nosso parceiro na tentativa de garantir a periodicidade da revista.",
+      "abstractOriginal": "Visando manter a semestralidade da revista Zetetiké, estamos publicando o último número do ano de 2003. Para isso, voltamos a agradecer os esforços dos referees na avaliação dos artigos e na emissão dos pareceres, bem como do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, o qual vem sendo também nosso parceiro na tentativa de garantir a periodicidade da revista.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2003,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v11i20.8646954",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646954",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646954",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T15:27:05Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Visando manter a semestralidade da revista Zetetiké, estamos publicando o último número do ano de 2003. Para isso, voltamos a agradecer os esforços dos referees na avaliação dos artigos e na emissão dos pareceres, bem como do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, o qual vem sendo também nosso parceiro na tentativa de garantir a periodicidade da revista.",
+          "Visando manter a semestralidade da revista Zetetiké, estamos publicando o último número do ano de 2003. Para isso, voltamos a agradecer os esforços dos referees na avaliação dos artigos e na emissão dos pareceres, bem como do setor de publicações da Faculdade de Educação da Universidade Estadual de Campinas, o qual vem sendo também nosso parceiro na tentativa de garantir a periodicidade da revista."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2003-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 11 No. 2 (2003): jul./dez. [20]; 5-8",
+            "Zetetike; Vol. 11 Núm. 2 (2003): jul./dez. [20]; 5-8",
+            "Zetetike; v. 11 n. 2 (2003): jul./dez. [20]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.049525+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v12i21.8646961",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "O exemplar de número 21, volume 12, da revista Zetetiké, primeiro de 2004, traz a seus leitores dois artigos, um relato de experiência e a relação de teses e dissertações produzidas recentemente no Brasil, principalmente nos anos de 2002 e 2003.",
+      "abstractOriginal": "O exemplar de número 21, volume 12, da revista Zetetiké, primeiro de 2004, traz a seus leitores dois artigos, um relato de experiência e a relação de teses e dissertações produzidas recentemente no Brasil, principalmente nos anos de 2002 e 2003.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2004,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v12i21.8646961",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646961",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646961",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-26T16:11:10Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "O exemplar de número 21, volume 12, da revista Zetetiké, primeiro de 2004, traz a seus leitores dois artigos, um relato de experiência e a relação de teses e dissertações produzidas recentemente no Brasil, principalmente nos anos de 2002 e 2003.",
+          "O exemplar de número 21, volume 12, da revista Zetetiké, primeiro de 2004, traz a seus leitores dois artigos, um relato de experiência e a relação de teses e dissertações produzidas recentemente no Brasil, principalmente nos anos de 2002 e 2003."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2004-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 12 No. 1 (2004): jan./jun. [21]; 5-8",
+            "Zetetike; Vol. 12 Núm. 1 (2004): jan./jun. [21]; 5-8",
+            "Zetetike; v. 12 n. 1 (2004): jan./jun. [21]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.053833+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v12i22.8646969",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Carvalho, Dione Lucchesi de"
+      ],
+      "institutions": [],
+      "abstract": "Este é o segundo exemplar do volume 12 da revista Zetetiké, ano de 2004, e corresponde ao seu 22º número, composto por quatro artigos e um relato de experiência, trazendo uma temática bem diversificada, no que se refere tanto à área abordada quanto ao nível de ensino de referência.",
+      "abstractOriginal": "Este é o segundo exemplar do volume 12 da revista Zetetiké, ano de 2004, e corresponde ao seu 22º número, composto por quatro artigos e um relato de experiência, trazendo uma temática bem diversificada, no que se refere tanto à área abordada quanto ao nível de ensino de referência.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2004,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v12i22.8646969",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646969",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646969",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2025-09-02T13:04:34Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Este é o segundo exemplar do volume 12 da revista Zetetiké, ano de 2004, e corresponde ao seu 22º número, composto por quatro artigos e um relato de experiência, trazendo uma temática bem diversificada, no que se refere tanto à área abordada quanto ao nível de ensino de referência.",
+          "Este é o segundo exemplar do volume 12 da revista Zetetiké, ano de 2004, e corresponde ao seu 22º número, composto por quatro artigos e um relato de experiência, trazendo uma temática bem diversificada, no que se refere tanto à área abordada quanto ao nível de ensino de referência.",
+          "Este é o segundo exemplar do volume 12 da revista Zetetiké, ano de 2004, e corresponde ao seu 22º número, composto por quatro artigos e um relato de experiência, trazendo uma temática bem diversificada, no que se refere tanto à área abordada quanto ao nível de ensino de referência."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2004-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 12 No. 2 (2004): jul./dez. [22]; 5-8",
+            "Zetetike; Vol. 12 Núm. 2 (2004): jul./dez. [22]; 5-8",
+            "Zetetike; v. 12 n. 2 (2004): jul./dez. [22]; 5-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.058262+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v13i23.8646976",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela"
+      ],
+      "institutions": [],
+      "abstract": "Neste primeiro número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores cinco artigos de colaboradores, um relato de experiência e uma relação de resumos de teses e dissertações relativas à Educação Matemática, defendidas no ano 2004 no Programa de Pós-Graduação em Educação da Faculdade de Educação da Universidade Estadual de Campinas.",
+      "abstractOriginal": "Neste primeiro número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores cinco artigos de colaboradores, um relato de experiência e uma relação de resumos de teses e dissertações relativas à Educação Matemática, defendidas no ano 2004 no Programa de Pós-Graduação em Educação da Faculdade de Educação da Universidade Estadual de Campinas.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v13i23.8646976",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646976",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646976",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-27T12:58:59Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Neste primeiro número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores cinco artigos de colaboradores, um relato de experiência e uma relação de resumos de teses e dissertações relativas à Educação Matemática, defendidas no ano 2004 no Programa de Pós-Graduação em Educação da Faculdade de Educação da Universidade Estadual de Campinas.",
+          "Neste primeiro número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores cinco artigos de colaboradores, um relato de experiência e uma relação de resumos de teses e dissertações relativas à Educação Matemática, defendidas no ano 2004 no Programa de Pós-Graduação em Educação da Faculdade de Educação da Universidade Estadual de Campinas."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2005-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 13 No. 1 (2005): jan./jun. [23]; 7-10",
+            "Zetetike; Vol. 13 Núm. 1 (2005): jan./jun. [23]; 7-10",
+            "Zetetike; v. 13 n. 1 (2005): jan./jun. [23]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.063405+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v13i24.8646985",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela"
+      ],
+      "institutions": [],
+      "abstract": "Neste segundo número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores três artigos de colaboradores, um artigo selecionado e uma relação de teses de doutorado e dissertações de mestrado relativas à Educação Matemática, produzidas recentemente no Brasil.",
+      "abstractOriginal": "Neste segundo número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores três artigos de colaboradores, um artigo selecionado e uma relação de teses de doutorado e dissertações de mestrado relativas à Educação Matemática, produzidas recentemente no Brasil.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação Matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação Matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Educação Matemática"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2005,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v13i24.8646985",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646985",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646985",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-27T14:07:01Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Neste segundo número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores três artigos de colaboradores, um artigo selecionado e uma relação de teses de doutorado e dissertações de mestrado relativas à Educação Matemática, produzidas recentemente no Brasil.",
+          "Neste segundo número do volume 13 da revista Zetetiké, referente ao ano de 2005, apresentamos aos nossos leitores três artigos de colaboradores, um artigo selecionado e uma relação de teses de doutorado e dissertações de mestrado relativas à Educação Matemática, produzidas recentemente no Brasil."
+        ],
+        "allSubjects": [
+          "Educação Matemática",
+          "Educação Matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2005-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 13 No. 2 (2005): jul./dez. [24]; 7-10",
+            "Zetetike; Vol. 13 Núm. 2 (2005): jul./dez. [24]; 7-10",
+            "Zetetike; v. 13 n. 2 (2005): jul./dez. [24]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.069117+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v14i25.8646993",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.14, n.25 - jan./jun. 2006 Neste primeiro número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores três artigos de colaboradores, dois relatos de experiência e uma resenha. Embora não tenha havido uma decisão prévia, este número da revista apresenta uma característica particular: a maior parte dos textos apresentados tem como centro de suas preocupações a formação de professores que ensinam Matemática, em especial nas primeiras séries do Ensino Fundamental.",
+      "abstractOriginal": "Editorial - v.14, n.25 - jan./jun. 2006 Neste primeiro número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores três artigos de colaboradores, dois relatos de experiência e uma resenha. Embora não tenha havido uma decisão prévia, este número da revista apresenta uma característica particular: a maior parte dos textos apresentados tem como centro de suas preocupações a formação de professores que ensinam Matemática, em especial nas primeiras séries do Ensino Fundamental.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2006,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v14i25.8646993",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646993",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646993",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-31T13:29:04Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.14, n.25 - jan./jun. 2006 Neste primeiro número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores três artigos de colaboradores, dois relatos de experiência e uma resenha. Embora não tenha havido uma decisão prévia, este número da revista apresenta uma característica particular: a maior parte dos textos apresentados tem como centro de suas preocupações a formação de professores que ensinam Matemática, em especial nas primeiras séries do Ensino Fundamental.",
+          "Editorial - v.14, n.25 - jan./jun. 2006 Neste primeiro número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores três artigos de colaboradores, dois relatos de experiência e uma resenha. Embora não tenha havido uma decisão prévia, este número da revista apresenta uma característica particular: a maior parte dos textos apresentados tem como centro de suas preocupações a formação de professores que ensinam Matemática, em especial nas primeiras séries do Ensino Fundamental."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2006-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto"
+          ],
+          "sources": [
+            "Zetetike; Vol. 14 No. 1 (2006): jan./jun. [25]; 5-6",
+            "Zetetike; Vol. 14 Núm. 1 (2006): jan./jun. [25]; 5-6",
+            "Zetetike; v. 14 n. 1 (2006): jan./jun. [25]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.073651+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v14i26.8647001",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Miorim, Maria Ângela"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.14, n.26 - jul./dez. 2006 Neste segundo número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores sete artigos de colaboradores e uma resenha.",
+      "abstractOriginal": "Editorial - v.14, n.26 - jul./dez. 2006 Neste segundo número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores sete artigos de colaboradores e uma resenha.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2006,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v14i26.8647001",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8647001",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8647001",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-31T15:23:40Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.14, n.26 - jul./dez. 2006 Neste segundo número do volume 14 da revista Zetetiké, referente ao ano de 2006, apresentamos aos nossos leitores sete artigos de colaboradores e uma resenha."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2006-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 14 No. 2 (2006): jul./dez. [26]; 5-6",
+            "Zetetike; Vol. 14 Núm. 2 (2006): jul./dez. [26]; 5-6",
+            "Zetetike; v. 14 n. 2 (2006): jul./dez. [26]; 5-6",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.077251+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v15i27.8647011",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.15, n. 27 - jan/jun. 2007 Neste número da revista Zetetiké, apresentamos aos leitores três artigos, dois relatos de experiência e três relações de teses e dissertações em Educação Matemática.",
+      "abstractOriginal": "Editorial - v.15, n. 27 - jan/jun. 2007 Neste número da revista Zetetiké, apresentamos aos leitores três artigos, dois relatos de experiência e três relações de teses e dissertações em Educação Matemática.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2007,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v15i27.8647011",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8647011",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8647011",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-10-31T16:32:35Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.15, n. 27 - jan/jun. 2007 Neste número da revista Zetetiké, apresentamos aos leitores três artigos, dois relatos de experiência e três relações de teses e dissertações em Educação Matemática.",
+          "Editorial - v.15, n. 27 - jan/jun. 2007 Neste número da revista Zetetiké, apresentamos aos leitores três artigos, dois relatos de experiência e três relações de teses e dissertações em Educação Matemática."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2007-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 15 No. 1 (2007): jan./jun. [27]; 7-8",
+            "Zetetike; Vol. 15 Núm. 1 (2007): jan./jun. [27]; 7-8",
+            "Zetetike; v. 15 n. 1 (2007): jan./jun. [27]; 7-8",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.082040+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v15i28.8647022",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Moura, Anna Regina Lanner de"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.15, n.28 - jul./dez. 2007 Neste segundo número do volume 15 da revista Zetetiké, referente ao ano de 2007, apresentamos aos nossos leitores seis artigos de colaboradores e uma relação com os resumos de teses e dissertações de mestrado em Educação Matemática, produzidas e defendidas no Brasil nos anos de 2005 e 2006.",
+      "abstractOriginal": "Editorial - v.15, n.28 - jul./dez. 2007 Neste segundo número do volume 15 da revista Zetetiké, referente ao ano de 2007, apresentamos aos nossos leitores seis artigos de colaboradores e uma relação com os resumos de teses e dissertações de mestrado em Educação Matemática, produzidas e defendidas no Brasil nos anos de 2005 e 2006.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v15i28.8647022",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8647022",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8647022",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-01T12:38:18Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.15, n.28 - jul./dez. 2007 Neste segundo número do volume 15 da revista Zetetiké, referente ao ano de 2007, apresentamos aos nossos leitores seis artigos de colaboradores e uma relação com os resumos de teses e dissertações de mestrado em Educação Matemática, produzidas e defendidas no Brasil nos anos de 2005 e 2006.",
+          "Editorial - v.15, n.28 - jul./dez. 2007 Neste segundo número do volume 15 da revista Zetetiké, referente ao ano de 2007, apresentamos aos nossos leitores seis artigos de colaboradores e uma relação com os resumos de teses e dissertações de mestrado em Educação Matemática, produzidas e defendidas no Brasil nos anos de 2005 e 2006."
+        ],
+        "allSubjects": [
+          "Mathematics education - Editorial",
+          "Educação matemática - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2009-01-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 15 No. 2 (2007): jul./dez. [28]; 7-10",
+            "Zetetike; Vol. 15 Núm. 2 (2007): jul./dez. [28]; 7-10",
+            "Zetetike; v. 15 n. 2 (2007): jul./dez. [28]; 7-10",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:18.086713+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v16i29.8647032",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Moura, Anna Regina Lanner de",
+        "Miguel, Antonio"
+      ],
+      "institutions": [],
+      "abstract": "Editorial - v.16 - n. 29 - jan/jun - 2008 Neste número 29 do volume 16 da revista Zetetiké referente ao ano de 2008, apresentamos aos nossos leitores cinco artigos e dois relatos de experiência, bem como divulgamos uma relação complementar de teses de doutorado e dissertações de mestrado em Educação Matemática, defendidas no Brasil, antes de 2007. Esta relação complementa as que foram divulgadas em números anteriores da revista.",
+      "abstractOriginal": "Editorial - v.16 - n. 29 - jan/jun - 2008 Neste número 29 do volume 16 da revista Zetetiké referente ao ano de 2008, apresentamos aos nossos leitores cinco artigos e dois relatos de experiência, bem como divulgamos uma relação complementar de teses de doutorado e dissertações de mestrado em Educação Matemática, defendidas no Brasil, antes de 2007. Esta relação complementa as que foram divulgadas em números anteriores da revista.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v16i29.8647032",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8647032",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8647032",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-01T14:55:54Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial - v.16 - n. 29 - jan/jun - 2008 Neste número 29 do volume 16 da revista Zetetiké referente ao ano de 2008, apresentamos aos nossos leitores cinco artigos e dois relatos de experiência, bem como divulgamos uma relação complementar de teses de doutorado e dissertações de mestrado em Educação Matemática, defendidas no Brasil, antes de 2007. Esta relação complementa as que foram divulgadas em números anteriores da revista.",
+          "Editorial - v.16 - n. 29 - jan/jun - 2008 Neste número 29 do volume 16 da revista Zetetiké referente ao ano de 2008, apresentamos aos nossos leitores cinco artigos e dois relatos de experiência, bem como divulgamos uma relação complementar de teses de doutorado e dissertações de mestrado em Educação Matemática, defendidas no Brasil, antes de 2007. Esta relação complementa as que foram divulgadas em números anteriores da revista."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2008-05-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 16 No. 1 (2008): jan./jun. [29]",
+            "Zetetike; Vol. 16 Núm. 1 (2008): jan./jun. [29]",
+            "Zetetike; v. 16 n. 1 (2008): jan./jun. [29]",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:24.878005+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v24i3.8648141",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Editorial do v. 24, n. 3 (2016).",
+      "abstractOriginal": "Editorial do v. 24, n. 3 (2016).",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v24i3.8648141",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8648141",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8648141",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-15T11:33:45Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial do v. 24, n. 3 (2016).",
+          "Editorial do v. 24, n. 3 (2016)."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2017-01-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Tex"
+          ],
+          "sources": [
+            "Zetetike; Vol. 24 No. 3 (2016): set./dez. [47]; 285-286",
+            "Zetetike; Vol. 24 Núm. 3 (2016): set./dez. [47]; 285-286",
+            "Zetetike; v. 24 n. 3 (2016): set./dez. [47]; 285-286",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:24.896419+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v25i2.8650240",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Este é o segundo número do volume 25 da revista Zetetiké, relativo ao ano de 2017. Publicamos oito (8) artigos que foram produzidos por 10 autores brasileiros e um de Portugal. Iniciamos com três artigos sobre história da educação matemática e seguimos com dois sobre representações, um sobre práticas de ensinar e aprender estatística em sala de aula na perspectiva da modelagem e, por fim, outros dois trabalhos sobre formação de professores que ensinam matemática.",
+      "abstractOriginal": "Este é o segundo número do volume 25 da revista Zetetiké, relativo ao ano de 2017. Publicamos oito (8) artigos que foram produzidos por 10 autores brasileiros e um de Portugal. Iniciamos com três artigos sobre história da educação matemática e seguimos com dois sobre representações, um sobre práticas de ensinar e aprender estatística em sala de aula na perspectiva da modelagem e, por fim, outros dois trabalhos sobre formação de professores que ensinam matemática.",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v25i2.8650240",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8650240",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8650240",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-15T14:43:09Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Este é o segundo número do volume 25 da revista Zetetiké, relativo ao ano de 2017. Publicamos oito (8) artigos que foram produzidos por 10 autores brasileiros e um de Portugal. Iniciamos com três artigos sobre história da educação matemática e seguimos com dois sobre representações, um sobre práticas de ensinar e aprender estatística em sala de aula na perspectiva da modelagem e, por fim, outros dois trabalhos sobre formação de professores que ensinam matemática.",
+          "Este é o segundo número do volume 25 da revista Zetetiké, relativo ao ano de 2017. Publicamos oito (8) artigos que foram produzidos por 10 autores brasileiros e um de Portugal. Iniciamos com três artigos sobre história da educação matemática e seguimos com dois sobre representações, um sobre práticas de ensinar e aprender estatística em sala de aula na perspectiva da modelagem e, por fim, outros dois trabalhos sobre formação de professores que ensinam matemática."
+        ],
+        "allSubjects": [
+          "Editorial",
+          "Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2017-08-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 25 No. 2 (2017): maio/ago.; 220-221",
+            "Zetetike; Vol. 25 Núm. 2 (2017): maio/ago.; 220-221",
+            "Zetetike; v. 25 n. 2 (2017): maio/ago.; 220-221",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:24.911631+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v25i3.8651319",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Este é o terceiro número do volume 25 da revista Zetetiké (v. 25, n. 3), relativo ao ano de 2017. Com este fascículo, que marca o segundo ano da revista com periodicidade quadrimestral, publicamos 10 artigos e uma resenha que foram escritos por 20 autores vinculados a 14 instituições diferentes do Brasil e do exterior.",
+      "abstractOriginal": "Este é o terceiro número do volume 25 da revista Zetetiké (v. 25, n. 3), relativo ao ano de 2017. Com este fascículo, que marca o segundo ano da revista com periodicidade quadrimestral, publicamos 10 artigos e uma resenha que foram escritos por 20 autores vinculados a 14 instituições diferentes do Brasil e do exterior.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v25i3.8651319",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8651319",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8651319",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-12-21T11:43:29Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Este é o terceiro número do volume 25 da revista Zetetiké (v. 25, n. 3), relativo ao ano de 2017. Com este fascículo, que marca o segundo ano da revista com periodicidade quadrimestral, publicamos 10 artigos e uma resenha que foram escritos por 20 autores vinculados a 14 instituições diferentes do Brasil e do exterior.",
+          "Este é o terceiro número do volume 25 da revista Zetetiké (v. 25, n. 3), relativo ao ano de 2017. Com este fascículo, que marca o segundo ano da revista com periodicidade quadrimestral, publicamos 10 artigos e uma resenha que foram escritos por 20 autores vinculados a 14 instituições diferentes do Brasil e do exterior."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2017-12-27"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 25 No. 3 (2017): set./dez.; 362-363",
+            "Zetetike; Vol. 25 Núm. 3 (2017): set./dez.; 362-363",
+            "Zetetike; v. 25 n. 3 (2017): set./dez.; 362-363",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:24.925397+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v26i2.8652693",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Este é o segundo número do volume 26 da revista Zetetiké (v. 26, n. 2), relativo ao ano de 2018. Neste segundo número, publicamos dez (10) artigos que foram produzidos por 22 autores, sendo três deles do exterior. A metade destes trabalhos tem o professor que ensina matemática como foco principal de estudo e análise, sendo três voltados à formação e aprendizagem docente e dois à prática pedagógica do professor que ensina matemática. Em relação aos trabalhos relativos à outra metade, há três artigos que têm como foco privilegiado de estudo o estudante da escola básica em relação à aprendizagem da matemática. Os dois últimos artigos têm como foco de análise e discussão as tendências curriculares do ensino da matemática, sendo um relativo à educação do campo e o outro ao ensino médio.",
+      "abstractOriginal": "Este é o segundo número do volume 26 da revista Zetetiké (v. 26, n. 2), relativo ao ano de 2018. Neste segundo número, publicamos dez (10) artigos que foram produzidos por 22 autores, sendo três deles do exterior. A metade destes trabalhos tem o professor que ensina matemática como foco principal de estudo e análise, sendo três voltados à formação e aprendizagem docente e dois à prática pedagógica do professor que ensina matemática. Em relação aos trabalhos relativos à outra metade, há três artigos que têm como foco privilegiado de estudo o estudante da escola básica em relação à aprendizagem da matemática. Os dois últimos artigos têm como foco de análise e discussão as tendências curriculares do ensino da matemática, sendo um relativo à educação do campo e o outro ao ensino médio.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsOriginal": [
+        "Educação matemática - Editorial"
+      ],
+      "keywordsEn": [
+        "Mathematics education - Editorial"
+      ],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v26i2.8652693",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8652693",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8652693",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-01-04T16:37:55Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Este é o segundo número do volume 26 da revista Zetetiké (v. 26, n. 2), relativo ao ano de 2018. Neste segundo número, publicamos dez (10) artigos que foram produzidos por 22 autores, sendo três deles do exterior. A metade destes trabalhos tem o professor que ensina matemática como foco principal de estudo e análise, sendo três voltados à formação e aprendizagem docente e dois à prática pedagógica do professor que ensina matemática. Em relação aos trabalhos relativos à outra metade, há três artigos que têm como foco privilegiado de estudo o estudante da escola básica em relação à aprendizagem da matemática. Os dois últimos artigos têm como foco de análise e discussão as tendências curriculares do ensino da matemática, sendo um relativo à educação do campo e o outro ao ensino médio.",
+          "Este é o segundo número do volume 26 da revista Zetetiké (v. 26, n. 2), relativo ao ano de 2018. Neste segundo número, publicamos dez (10) artigos que foram produzidos por 22 autores, sendo três deles do exterior. A metade destes trabalhos tem o professor que ensina matemática como foco principal de estudo e análise, sendo três voltados à formação e aprendizagem docente e dois à prática pedagógica do professor que ensina matemática. Em relação aos trabalhos relativos à outra metade, há três artigos que têm como foco privilegiado de estudo o estudante da escola básica em relação à aprendizagem da matemática. Os dois últimos artigos têm como foco de análise e discussão as tendências curriculares do ensino da matemática, sendo um relativo à educação do campo e o outro ao ensino médio."
+        ],
+        "allSubjects": [
+          "Educação matemática - Editorial",
+          "Mathematics education - Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2018-06-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 26 No. 2 (2018): mai./ago.; 258-259",
+            "Zetetike; Vol. 26 Núm. 2 (2018): mai./ago.; 258-259",
+            "Zetetike; v. 26 n. 2 (2018): mai./ago.; 258-259",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:24.930417+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.20396/zet.v26i3.8654291",
+      "journal": "zetetike",
+      "journalName": "Zetetiké",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fiorentini, Dario",
+        "Dassie, Bruno Alves"
+      ],
+      "institutions": [],
+      "abstract": "Este é o terceiro número do volume 26 da revista Zetetiké (v. 26, n. 3), relativo ao ano de 2018. Com este fascículo, que completa o terceiro ano da revista com periodicidade quadrimestral, publicamos 10 artigos que foram escritos por 22 autores, sendo 50% do Brasil e 50% do exterior (Argentina, México e Portugal). A metade dos trabalhos (cinco) tem como foco de estudo o professor que ensina matemática, sendo três com foco de estudo no desenvolvimento profissional do professor e na aprendizagem docente e dois como foco na relação que o professor estabelece com os processos e metodologias de ensino. Dois trabalhos têm como foco de análise e discussão a aprendizagem dos alunos em contextos específicos e três desenvolvem estudos relativos à história de seu ensino no Brasil, em diferentes épocas e contextos.",
+      "abstractOriginal": "Este é o terceiro número do volume 26 da revista Zetetiké (v. 26, n. 3), relativo ao ano de 2018. Com este fascículo, que completa o terceiro ano da revista com periodicidade quadrimestral, publicamos 10 artigos que foram escritos por 22 autores, sendo 50% do Brasil e 50% do exterior (Argentina, México e Portugal). A metade dos trabalhos (cinco) tem como foco de estudo o professor que ensina matemática, sendo três com foco de estudo no desenvolvimento profissional do professor e na aprendizagem docente e dois como foco na relação que o professor estabelece com os processos e metodologias de ensino. Dois trabalhos têm como foco de análise e discussão a aprendizagem dos alunos em contextos específicos e três desenvolvem estudos relativos à história de seu ensino no Brasil, em diferentes épocas e contextos.",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.20396/zet.v26i3.8654291",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8654291",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654291",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-01-05T14:58:31Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Este é o terceiro número do volume 26 da revista Zetetiké (v. 26, n. 3), relativo ao ano de 2018. Com este fascículo, que completa o terceiro ano da revista com periodicidade quadrimestral, publicamos 10 artigos que foram escritos por 22 autores, sendo 50% do Brasil e 50% do exterior (Argentina, México e Portugal). A metade dos trabalhos (cinco) tem como foco de estudo o professor que ensina matemática, sendo três com foco de estudo no desenvolvimento profissional do professor e na aprendizagem docente e dois como foco na relação que o professor estabelece com os processos e metodologias de ensino. Dois trabalhos têm como foco de análise e discussão a aprendizagem dos alunos em contextos específicos e três desenvolvem estudos relativos à história de seu ensino no Brasil, em diferentes épocas e contextos.",
+          "Este é o terceiro número do volume 26 da revista Zetetiké (v. 26, n. 3), relativo ao ano de 2018. Com este fascículo, que completa o terceiro ano da revista com periodicidade quadrimestral, publicamos 10 artigos que foram escritos por 22 autores, sendo 50% do Brasil e 50% do exterior (Argentina, México e Portugal). A metade dos trabalhos (cinco) tem como foco de estudo o professor que ensina matemática, sendo três com foco de estudo no desenvolvimento profissional do professor e na aprendizagem docente e dois como foco na relação que o professor estabelece com os processos e metodologias de ensino. Dois trabalhos têm como foco de análise e discussão a aprendizagem dos alunos em contextos específicos e três desenvolvem estudos relativos à história de seu ensino no Brasil, em diferentes épocas e contextos."
+        ],
+        "allSubjects": [
+          "Editorial",
+          "Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2018-12-17"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares",
+            "Texto",
+            "Text"
+          ],
+          "sources": [
+            "Zetetike; Vol. 26 No. 3 (2018): set./dez.; 439-440",
+            "Zetetike; Vol. 26 Núm. 3 (2018): set./dez.; 439-440",
+            "Zetetike; v. 26 n. 3 (2018): set./dez.; 439-440",
+            "2176-1744"
+          ],
+          "publishers": [
+            "Universidade Estadual de Campinas"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:11:32.030242+00:00",
       "corpusStatus": "excluded_document_type",
       "corpusReason": "editorial"
     }
