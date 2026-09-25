@@ -9,10 +9,15 @@ on:
         default: "all"
         type: string
       limit:
-        description: "Optional max records per journal for a test run. Leave 0 for full harvest."
+        description: "0 = full harvest; use 100 for a test"
         required: true
         default: "0"
         type: string
+      reset:
+        description: "Restart this journal from the first OAI page"
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -25,7 +30,6 @@ jobs:
   harvest:
     runs-on: ubuntu-latest
     timeout-minutes: 180
-
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -40,11 +44,14 @@ jobs:
       - name: Harvest OAI-PMH
         shell: bash
         run: |
-          if [ "${{ inputs.limit }}" = "0" ]; then
-            python scripts/harvest_oai.py --journal "${{ inputs.journal }}"
-          else
-            python scripts/harvest_oai.py --journal "${{ inputs.journal }}" --limit "${{ inputs.limit }}"
+          ARGS=(--journal "${{ inputs.journal }}")
+          if [ "${{ inputs.limit }}" != "0" ]; then
+            ARGS+=(--limit "${{ inputs.limit }}")
           fi
+          if [ "${{ inputs.reset }}" = "true" ]; then
+            ARGS+=(--reset)
+          fi
+          python scripts/harvest_oai.py "${ARGS[@]}"
 
       - name: Curate
         run: python scripts/curate.py
@@ -60,9 +67,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add harvest/normalized harvest/state harvest/quarantine dist/data
-
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
