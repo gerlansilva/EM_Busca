@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>BuscaEM</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header>
+  <div class="brand">BuscaEM</div>
+  <nav><a href="#buscar">Search</a><a href="#revistas">Journals</a><a href="#sobre">About</a></nav>
+</header>
+<main>
+  <section class="hero">
+    <span class="eyebrow">MATHEMATICS EDUCATION</span>
+    <h1>Search specialized journals</h1>
+    <p>Clean, curated and source-auditable metadata.</p>
+    <form id="searchForm">
+      <input id="query" placeholder='e.g. "teacher education" AND probability'>
+      <button>Search</button>
+    </form>
+    <div id="summary">Loading…</div>
+  </section>
+  <section class="content">
+    <aside>
+      <label>Journal<select id="journal"><option value="">All journals</option></select></label>
+      <label>Language<select id="language"><option value="">All languages</option></select></label>
+      <label>Year from<input id="yearFrom" type="number"></label>
+      <label>Year to<input id="yearTo" type="number"></label>
+      <button id="clear">Clear</button>
+    </aside>
+    <section>
+      <div class="resultbar"><strong id="count">0 results</strong></div>
+      <div id="results"></div>
+    </section>
+  </section>
+</main>
+<footer>
+  <p>BuscaEM — developed by Gerlan Silva da Silva, PhD candidate in Education at UFSCar.</p>
+  <p><a href="https://orcid.org/0000-0002-9996-9983">ORCID</a> · <a href="http://lattes.cnpq.br/2364822008221312">Lattes</a></p>
+</footer>
+<script src="./app.js"></script>
+</body>
+</html>

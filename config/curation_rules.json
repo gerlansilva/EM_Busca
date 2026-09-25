@@ -1,0 +1,42 @@
+{
+  "include": {
+    "required": [
+      "title",
+      "year",
+      "authors"
+    ],
+    "one_of": [
+      [
+        "abstract",
+        "keywords"
+      ]
+    ],
+    "document_types": [
+      "article",
+      "journal-article",
+      "research-article"
+    ]
+  },
+  "exclude_title_patterns": [
+    "editorial",
+    "errata",
+    "erratum",
+    "nominata",
+    "expediente",
+    "notas y noticias",
+    "notas e notícias",
+    "eventos por celebrarse",
+    "call for papers",
+    "sumário",
+    "sumario",
+    "contents",
+    "índice",
+    "indice"
+  ],
+  "quarantine_reasons": [
+    "missing_authors",
+    "missing_abstract_and_keywords",
+    "unknown_document_type",
+    "suspected_front_matter"
+  ]
+}
