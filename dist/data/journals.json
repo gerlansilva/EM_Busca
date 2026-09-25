@@ -1,1 +1,111 @@
-[]
+  },
+  {
+    "id": "iml",
+    "name": "Investigations in Mathematics Learning",
+    "publisher": "Taylor & Francis / RCML",
+    "scope": "Mathematics Education",
+    "country": "United States",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.tandfonline.com/journals/uiml20",
+    "issns": [
+      "2472-7466",
+      "1947-7503"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2472-7466",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "tme",
+    "name": "The Mathematics Educator",
+    "publisher": "University of Georgia",
+    "scope": "Mathematics Education",
+    "country": "United States",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://openjournals.libs.uga.edu/tme/",
+    "issns": [
+      "2331-4451",
+      "1062-9017"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2331-4451",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "mathematica-didactica",
+    "name": "mathematica didactica",
+    "publisher": "University of Cologne",
+    "scope": "Mathematics Education",
+    "country": "Germany",
+    "region": "Europe",
+    "primaryLanguage": "German",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "url": "https://journals.ub.uni-koeln.de/index.php/mathematica_didactica/",
+    "issns": [
+      "2750-3755",
+      "0172-8407"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2750-3755",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "zmfp",
+    "name": "Zeitschrift für Mathematikdidaktik in Forschung und Praxis",
+    "publisher": "",
+    "scope": "Mathematics Education",
+    "country": "Germany",
+    "region": "Europe",
+    "primaryLanguage": "German",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "url": "https://zmfp.de/",
+    "issns": [
+      "2701-9012"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2701-9012",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  }
+]
