@@ -1,0 +1,71 @@
+name: BuscaEM — Harvest OAI journals
+
+on:
+  workflow_dispatch:
+    inputs:
+      journal:
+        description: "Journal id (example: zetetike) or all"
+        required: true
+        default: "all"
+        type: string
+      limit:
+        description: "Optional max records per journal for a test run. Leave 0 for full harvest."
+        required: true
+        default: "0"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buscaem-oai-harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Harvest OAI-PMH
+        shell: bash
+        run: |
+          if [ "${{ inputs.limit }}" = "0" ]; then
+            python scripts/harvest_oai.py --journal "${{ inputs.journal }}"
+          else
+            python scripts/harvest_oai.py --journal "${{ inputs.journal }}" --limit "${{ inputs.limit }}"
+          fi
+
+      - name: Curate
+        run: python scripts/curate.py
+
+      - name: Publish
+        run: python scripts/publish.py
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Commit corpus and checkpoints
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add harvest/normalized harvest/state harvest/quarantine dist/data
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "harvest: update OAI corpus"
+            git push
+          fi
