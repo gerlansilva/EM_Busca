@@ -1,3 +1,1443 @@
+[
+  {
+    "id": "bolema",
+    "name": "Bolema: Boletim de Educação Matemática",
+    "publisher": "UNESP",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.scielo.br/j/bolema/",
+    "sourceCandidates": [
+      {
+        "type": "scielo",
+        "url": "https://www.scielo.br/j/bolema/",
+        "status": "candidate"
+      },
+      {
+        "type": "oai-pmh",
+        "url": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "zetetike",
+    "name": "Zetetiké",
+    "publisher": "Unicamp",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emp",
+    "name": "Educação Matemática Pesquisa",
+    "publisher": "PUC-SP",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://revistas.pucsp.br/emp",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://revistas.pucsp.br/index.php/emp/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "revemat",
+    "name": "Revista Eletrônica de Educação Matemática — REVEMAT",
+    "publisher": "UFSC",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.ufsc.br/index.php/revemat",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://periodicos.ufsc.br/index.php/revemat/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "ripem",
+    "name": "Revista Internacional de Pesquisa em Educação Matemática",
+    "publisher": "SBEM",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emr",
+    "name": "Educação Matemática em Revista",
+    "publisher": "SBEM",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "remat",
+    "name": "Revista de Educação Matemática",
+    "publisher": "SBEM-SP",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "pem",
+    "name": "Perspectivas da Educação Matemática",
+    "publisher": "UFMS",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.ufms.br/index.php/pedmat",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://periodicos.ufms.br/index.php/pedmat/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "rpem",
+    "name": "Revista Paranaense de Educação Matemática",
+    "publisher": "Unespar",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.unespar.edu.br/index.php/rpem",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "boem",
+    "name": "Boletim Online de Educação Matemática",
+    "publisher": "UDESC",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.revistas.udesc.br/index.php/boem",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://www.revistas.udesc.br/index.php/boem/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emteia",
+    "name": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+    "publisher": "UFPE",
+    "scope": "Mathematics Education and Technology",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.ufpe.br/revistas/index.php/emteia",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jieem",
+    "name": "Jornal Internacional de Estudos em Educação Matemática",
+    "publisher": "Cogna / UNOPAR",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://jieem.pgsscogna.com.br/jieem",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://jieem.pgsscogna.com.br/jieem/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "rematec",
+    "name": "REMATEC — Revista de Matemática, Ensino e Cultura",
+    "publisher": "GPSEM",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.rematec.net.br/index.php/rematec",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://www.rematec.net.br/index.php/rematec/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "tangram",
+    "name": "Tangram — Revista de Educação Matemática",
+    "publisher": "UFGD",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://ojs.ufgd.edu.br/tangram",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://ojs.ufgd.edu.br/tangram/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "histemat",
+    "name": "HISTEMAT — Revista de História da Educação Matemática",
+    "publisher": "SBHMat",
+    "scope": "History of Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://histemat.com.br/index.php/HISTEMAT",
+    "sourceCandidates": [
+      {
+        "type": "oai-pmh",
+        "url": "https://histemat.com.br/index.php/HISTEMAT/oai",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emd",
+    "name": "Educação Matemática Debate",
+    "publisher": "Unimontes",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://www.periodicos.unimontes.br/index.php/emd",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emfoco",
+    "name": "Educação Matemática em Foco",
+    "publisher": "UEPB",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://revista.uepb.edu.br/REM",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "capp",
+    "name": "Com a Palavra, o Professor",
+    "publisher": "SBEM-BA",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "http://revista.geem.mat.br/index.php/CPP",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "reviem",
+    "name": "Revista de Investigação e Divulgação em Educação Matemática",
+    "publisher": "UFJF",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://periodicos.ufjf.br/index.php/ridema",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "revemop",
+    "name": "Revemop — Revista de Educação Matemática de Ouro Preto",
+    "publisher": "UFOP",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.ufop.br/revemop",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "rsermat",
+    "name": "Revista Sergipana de Matemática e Educação Matemática",
+    "publisher": "UFS",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://periodicos.ufs.br/ReviSe",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "baianaem",
+    "name": "Revista Baiana de Educação Matemática",
+    "publisher": "UNEB",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://www.revistas.uneb.br/index.php/baeducmatematica",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emr-rs",
+    "name": "Educação Matemática em Revista — RS",
+    "publisher": "SBEM-RS",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://www.sbemrs.org/revista/index.php/2011_1",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "gepem",
+    "name": "Boletim GEPEM",
+    "publisher": "GEPEM / UFRRJ",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://periodicos.ufrrj.br/index.php/gepem",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "caminhos-em",
+    "name": "Caminhos da Educação Matemática em Revista",
+    "publisher": "IFS",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://periodicos.ifs.edu.br/periodicos/caminhos_da_educacao_matematica/",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "emsf",
+    "name": "Educação Matemática Sem Fronteiras",
+    "publisher": "",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "Spanish",
+      "English"
+    ],
+    "url": "",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "modelagem-em",
+    "name": "Modelagem na Educação Matemática",
+    "publisher": "FURB",
+    "scope": "Mathematics Education / Mathematical Modelling",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://ojsrevista.furb.br/ojs/index.php/modelagem",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "geogebra-sp",
+    "name": "Revista do Instituto GeoGebra Internacional de São Paulo",
+    "publisher": "PUC-SP",
+    "scope": "Mathematics Education and Digital Technology",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://revistas.pucsp.br/index.php/IGISP",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "coinspiracao",
+    "name": "CoInspiração — Revista de Professores que Ensinam Matemática",
+    "publisher": "SBEM-MT",
+    "scope": "Mathematics Education",
+    "country": "Brazil",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://sbemmatogrosso.com.br/publicacoes/index.php/coinspiracao",
+    "sourceCandidates": [],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "relime",
+    "name": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+    "publisher": "CLAME",
+    "scope": "Mathematics Education",
+    "country": "Mexico",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish",
+      "Portuguese",
+      "English"
+    ],
+    "url": "https://relime.org/",
+    "issns": [
+      "2007-6819",
+      "1665-2436"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2007-6819",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "educacion-matematica",
+    "name": "Educación Matemática",
+    "publisher": "Sociedad Mexicana de Investigación y Divulgación de la Educación Matemática",
+    "scope": "Mathematics Education",
+    "country": "Mexico",
+    "region": "Latin America & Caribbean",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish",
+      "English",
+      "Portuguese"
+    ],
+    "url": "https://www.revista-educacion-matematica.org.mx/",
+    "issns": [
+      "2448-8089",
+      "0187-8298"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2448-8089",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "redimat",
+    "name": "REDIMAT — Journal of Research in Mathematics Education",
+    "publisher": "Hipatia Press",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "url": "https://hipatiapress.com/hpjournals/index.php/redimat",
+    "issns": [
+      "2014-3621"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2014-3621",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "pna",
+    "name": "PNA — Revista de Investigación en Didáctica de la Matemática",
+    "publisher": "Universidad de Granada",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "url": "https://revistaseug.ugr.es/index.php/pna",
+    "issns": [
+      "1887-3987",
+      "1886-1350"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1887-3987",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "aiem",
+    "name": "AIEM — Avances de Investigación en Educación Matemática",
+    "publisher": "SEIEM",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish",
+      "English",
+      "Portuguese",
+      "French"
+    ],
+    "url": "https://aiem.es/",
+    "issns": [
+      "2254-4313"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2254-4313",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "union",
+    "name": "UNIÓN — Revista Iberoamericana de Educación Matemática",
+    "publisher": "FISEM",
+    "scope": "Mathematics Education",
+    "country": "International",
+    "region": "Ibero-America",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish",
+      "Portuguese"
+    ],
+    "url": "https://union.fespm.es/",
+    "issns": [
+      "1815-0640"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1815-0640",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "numeros",
+    "name": "Números — Revista de Didáctica de las Matemáticas",
+    "publisher": "Sociedad Canaria Isaac Newton",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish"
+    ],
+    "url": "https://sinewton.es/revista-numeros/",
+    "issns": [
+      "1887-1984"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1887-1984",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "epsilon",
+    "name": "Epsilon — Revista de Educación Matemática",
+    "publisher": "SAEM Thales",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish"
+    ],
+    "url": "https://thales.cica.es/epsilon/",
+    "issns": [
+      "2340-714X",
+      "1131-9321"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2340-714X",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "quadrante",
+    "name": "Quadrante",
+    "publisher": "APM",
+    "scope": "Mathematics Education",
+    "country": "Portugal",
+    "region": "Europe",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "url": "https://quadrante.apm.pt/",
+    "issns": [
+      "2183-2838",
+      "0872-3915"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2183-2838",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "educacao-matematica-pt",
+    "name": "Educação e Matemática",
+    "publisher": "Associação de Professores de Matemática",
+    "scope": "Mathematics Education",
+    "country": "Portugal",
+    "region": "Europe",
+    "primaryLanguage": "Portuguese",
+    "languages": [
+      "Portuguese"
+    ],
+    "url": "https://em.apm.pt/",
+    "issns": [
+      "2795-4730",
+      "0871-7222"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2795-4730",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "suma",
+    "name": "SUMA — Revista sobre Enseñanza y Aprendizaje de las Matemáticas",
+    "publisher": "Federación Española de Sociedades de Profesores de Matemáticas",
+    "scope": "Mathematics Education",
+    "country": "Spain",
+    "region": "Europe",
+    "primaryLanguage": "Spanish",
+    "languages": [
+      "Spanish"
+    ],
+    "url": "https://revistasuma.fespm.es/",
+    "issns": [
+      "1130-488X"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1130-488X",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "zdm",
+    "name": "ZDM — Mathematics Education",
+    "publisher": "Springer Nature",
+    "scope": "Mathematics Education",
+    "country": "Germany",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/11858",
+    "issns": [
+      "1863-9704",
+      "1863-9690"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1863-9704",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "esm",
+    "name": "Educational Studies in Mathematics",
+    "publisher": "Springer Nature",
+    "scope": "Mathematics Education",
+    "country": "Netherlands",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/10649",
+    "issns": [
+      "1573-0816",
+      "0013-1954"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1573-0816",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jrme",
+    "name": "Journal for Research in Mathematics Education",
+    "publisher": "NCTM",
+    "scope": "Mathematics Education",
+    "country": "United States",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
+    "issns": [
+      "1945-2306",
+      "0021-8251"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1945-2306",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jmte",
+    "name": "Journal of Mathematics Teacher Education",
+    "publisher": "Springer Nature",
+    "scope": "Mathematics Teacher Education",
+    "country": "Netherlands",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/10857",
+    "issns": [
+      "1573-1820",
+      "1386-4416"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1573-1820",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "merj",
+    "name": "Mathematics Education Research Journal",
+    "publisher": "Springer Nature / MERGA",
+    "scope": "Mathematics Education",
+    "country": "Australia",
+    "region": "Oceania",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/13394",
+    "issns": [
+      "2211-050X",
+      "1033-2170"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2211-050X",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "mtl",
+    "name": "Mathematical Thinking and Learning",
+    "publisher": "Taylor & Francis",
+    "scope": "Mathematics Education",
+    "country": "United States",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.tandfonline.com/journals/hmtl20",
+    "issns": [
+      "1532-7833",
+      "1098-6065"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1532-7833",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jmb",
+    "name": "The Journal of Mathematical Behavior",
+    "publisher": "Elsevier",
+    "scope": "Mathematics Education",
+    "country": "Netherlands",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.sciencedirect.com/journal/the-journal-of-mathematical-behavior",
+    "issns": [
+      "1873-8028",
+      "0732-3123"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1873-8028",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "rme",
+    "name": "Research in Mathematics Education",
+    "publisher": "Taylor & Francis / BSRLM",
+    "scope": "Mathematics Education",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.tandfonline.com/journals/rrme20",
+    "issns": [
+      "1754-0178",
+      "1479-4802"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1754-0178",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "flm",
+    "name": "For the Learning of Mathematics",
+    "publisher": "FLM Publishing Association",
+    "scope": "Mathematics Education",
+    "country": "Canada",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://flm-journal.org/",
+    "issns": [
+      "0228-0671"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "0228-0671",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "ijmest",
+    "name": "International Journal of Mathematical Education in Science and Technology",
+    "publisher": "Taylor & Francis",
+    "scope": "Mathematics Education",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.tandfonline.com/journals/tmes20",
+    "issns": [
+      "1464-5211",
+      "0020-739X"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1464-5211",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "iejme",
+    "name": "International Electronic Journal of Mathematics Education",
+    "publisher": "Modestum",
+    "scope": "Mathematics Education",
+    "country": "International",
+    "region": "International",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.iejme.com/",
+    "issns": [
+      "1306-3030"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1306-3030",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "tmma",
+    "name": "Teaching Mathematics and its Applications: An International Journal of the IMA",
+    "publisher": "Oxford University Press",
+    "scope": "Mathematics Education",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://academic.oup.com/teamat",
+    "issns": [
+      "1471-6976",
+      "0268-3679"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1471-6976",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "mted",
+    "name": "Mathematics Teacher Education and Development",
+    "publisher": "MERGA",
+    "scope": "Mathematics Teacher Education",
+    "country": "Australia",
+    "region": "Oceania",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://mted.merga.net.au/",
+    "issns": [
+      "2203-1499",
+      "1442-3901"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2203-1499",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jume",
+    "name": "Journal of Urban Mathematics Education",
+    "publisher": "Georgia State University",
+    "scope": "Mathematics Education",
+    "country": "United States",
+    "region": "North America",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://journals.librarypublishing.arizona.edu/jume/",
+    "issns": [
+      "2151-2612"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2151-2612",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "alm",
+    "name": "Adults Learning Mathematics: An International Journal",
+    "publisher": "Adults Learning Mathematics",
+    "scope": "Adult Mathematics Education",
+    "country": "International",
+    "region": "International",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://alm-online.net/",
+    "issns": [
+      "1744-1803"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1744-1803",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "serj",
+    "name": "Statistics Education Research Journal",
+    "publisher": "IASE",
+    "scope": "Statistics Education",
+    "country": "International",
+    "region": "International",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://iase-web.org/ojs/SERJ/",
+    "issns": [
+      "1570-1824"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1570-1824",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "jmd",
+    "name": "Journal für Mathematik-Didaktik",
+    "publisher": "Springer Nature / GDM",
+    "scope": "Mathematics Education",
+    "country": "Germany",
+    "region": "Europe",
+    "primaryLanguage": "German",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/13138",
+    "issns": [
+      "1869-2699",
+      "0173-5322"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "1869-2699",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "ijtme",
+    "name": "International Journal for Technology in Mathematics Education",
+    "publisher": "Research Information Ltd",
+    "scope": "Mathematics Education and Technology",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://www.researchinformation.co.uk/journals/ijtme/",
+    "issns": [
+      "2045-2519",
+      "1744-2710"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2045-2519",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
+  },
+  {
+    "id": "dem",
+    "name": "Digital Experiences in Mathematics Education",
+    "publisher": "Springer Nature",
+    "scope": "Mathematics Education and Digital Technology",
+    "country": "Netherlands",
+    "region": "Europe",
+    "primaryLanguage": "English",
+    "languages": [
+      "English"
+    ],
+    "url": "https://link.springer.com/journal/40751",
+    "issns": [
+      "2199-3254",
+      "2199-3246"
+    ],
+    "sourceCandidates": [
+      {
+        "type": "crossref",
+        "issn": "2199-3254",
+        "status": "candidate"
+      }
+    ],
+    "enabled": true,
+    "collectionStatus": "registered",
+    "sourceVerification": "pending"
   },
   {
     "id": "iml",
