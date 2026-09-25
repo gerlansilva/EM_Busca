@@ -1,3 +1,191 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5602",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Tutorial Autor",
+      "titleOriginal": "Tutorial Autor",
+      "titleEn": "",
+      "authors": [
+        "Abar, Celina A. A. Pereira"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5602",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5602",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-04-25T18:58:37Z",
+        "allTitles": [
+          "Tutorial Autor"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-04-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 6 No. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 Núm. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 No 1 (2004)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 6 n. 1 (2004)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.932799+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5603",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Tutorial Avaliador",
+      "titleOriginal": "Tutorial Avaliador",
+      "titleEn": "",
+      "authors": [
+        "Abar, Celina A. A. Pereira"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5603",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5603",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-04-25T18:58:37Z",
+        "allTitles": [
+          "Tutorial Avaliador"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-04-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 6 No. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 Núm. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 No 1 (2004)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 6 n. 1 (2004)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.932934+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5604",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Template autor",
+      "titleOriginal": "Template autor",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Manrique, Ana Lucia"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5604",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5604",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-04-25T22:29:38Z",
+        "allTitles": [
+          "Template autor"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-04-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 6 No. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 Núm. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 No 1 (2004)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 6 n. 1 (2004)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.933128+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    }
+  ]
 }

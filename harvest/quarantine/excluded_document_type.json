@@ -1,6 +1,1209 @@
 {
   "articles": [
     {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/460",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2007,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/460",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/460",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:54:56Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2007-12-23"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 8 No. 2 (2006)",
+            "Educação Matemática Pesquisa; Vol. 8 Núm. 2 (2006)",
+            "Educação Matemática Pesquisa; Vol. 8 No 2 (2006)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 8 n. 2 (2006)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.950962+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/518",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Ag Almouloud, Saddo",
+        "Healy, Lulu"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/518",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/518",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:55:40Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2008-03-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 8 No. 1 (2006)",
+            "Educação Matemática Pesquisa; Vol. 8 Núm. 1 (2006)",
+            "Educação Matemática Pesquisa; Vol. 8 No 1 (2006)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 8 n. 1 (2006)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.951104+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/583",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Healy, Lulu"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/583",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/583",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:53:42Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2008-03-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 9 No. 1 (2007)",
+            "Educação Matemática Pesquisa; Vol. 9 Núm. 1 (2007)",
+            "Educação Matemática Pesquisa; Vol. 9 No 1 (2007)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 9 n. 1 (2007)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.952883+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/907",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Pires, Célia Maria Carolino"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/907",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/907",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:51:47Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2008-07-21"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 9 No. 2 (2007)",
+            "Educação Matemática Pesquisa; Vol. 9 Núm. 2 (2007)",
+            "Educação Matemática Pesquisa; Vol. 9 No 2 (2007)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 9 n. 2 (2007)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.957041+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/1641",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Pires, Célia Maria Carolino"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/1641",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/1641",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:50:27Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2009-01-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 10 No. 1 (2008)",
+            "Educação Matemática Pesquisa; Vol. 10 Núm. 1 (2008)",
+            "Educação Matemática Pesquisa; Vol. 10 No 1 (2008)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 10 n. 1 (2008)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.957867+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/1747",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Pires, Célia Maria Carolino"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/1747",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/1747",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:49:27Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2009-03-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 10 No. 2 (2008)",
+            "Educação Matemática Pesquisa; Vol. 10 Núm. 2 (2008)",
+            "Educação Matemática Pesquisa; Vol. 10 No 2 (2008)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 10 n. 2 (2008)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.963715+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/2116",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Almouloud, Saddo Ag",
+        "Pires, Célia Maria Carolino"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2010,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/2116",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/2116",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:48:05Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2010-01-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 11 No. 1 (2009)",
+            "Educação Matemática Pesquisa; Vol. 11 Núm. 1 (2009)",
+            "Educação Matemática Pesquisa; Vol. 11 No 1 (2009)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 11 n. 1 (2009)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.965212+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/2771",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Traldi Junior, Armando",
+        "Pires, Celia Maria Carolino",
+        "Maranhão, Maria Cristina"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2010,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/2771",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/2771",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:46:46Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2010-03-19"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 11 No. 2 (2009)",
+            "Educação Matemática Pesquisa; Vol. 11 Núm. 2 (2009)",
+            "Educação Matemática Pesquisa; Vol. 11 No 2 (2009)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 11 n. 2 (2009)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.971693+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/3285",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Editoras, As"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2010,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/3285",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/3285",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:40:41Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2010-07-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 12 No. 1 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 Núm. 1 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 No 1 (2010)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 12 n. 1 (2010)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.977266+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/3286",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Editoras, As"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2010,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/3286",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/3286",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:40:41Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2010-07-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 12 No. 1 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 Núm. 1 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 No 1 (2010)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 12 n. 1 (2010)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:21:36.977407+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/4678",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Responsáveis, Editores"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2023,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/4678",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/4678",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-04-25T18:58:37Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-04-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 6 No. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 Núm. 1 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 No 1 (2004)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 6 n. 1 (2004)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.920828+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/4684",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Responsáveis, Editores"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/4684",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/4684",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-03-09T20:18:21Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-01-02"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 6 No. 2 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 Núm. 2 (2004)",
+            "Educação Matemática Pesquisa; Vol. 6 No 2 (2004)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 6 n. 2 (2004)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.922622+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/4690",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Responsáveis, Editores"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/4690",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/4690",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T15:08:23Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-01-02"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 7 No. 1 (2005)",
+            "Educação Matemática Pesquisa; Vol. 7 Núm. 1 (2005)",
+            "Educação Matemática Pesquisa; Vol. 7 No 1 (2005)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 7 n. 1 (2005)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.924420+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/4696",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Responsáveis, Editores"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/4696",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/4696",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T15:08:07Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-01-02"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 7 No. 2 (2005)",
+            "Educação Matemática Pesquisa; Vol. 7 Núm. 2 (2005)",
+            "Educação Matemática Pesquisa; Vol. 7 No 2 (2005)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 7 n. 2 (2005)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.926159+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/4747",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial (português - english)",
+      "titleOriginal": "Editorial (português - english)",
+      "titleEn": "",
+      "authors": [
+        "Igliori, Sonia Barbosa Camargo",
+        "Coutinho, Cileda de Queiroz e Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [
+        "editorial"
+      ],
+      "keywordsOriginal": [
+        "editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/4747",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/4747",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:42:24Z",
+        "allTitles": [
+          "Editorial (português - english)"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [
+          "editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2011-01-09"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 12 No. 2 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 Núm. 2 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 No 2 (2010)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 12 n. 2 (2010)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.928351+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5170",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial (Português)",
+      "titleOriginal": "Editorial (Português)",
+      "titleEn": "",
+      "authors": [
+        "Abar, Celina A. A. Pereira",
+        "Oliveira, Gerson Pastre de"
+      ],
+      "institutions": [],
+      "abstract": "Este segundo número temático da revista Educação Matemática Pesquisa - terceiro dos três volumes de 2010 - está organizado em torno da linha de pesquisa Tecnologias da Informação e Educação Matemática, um dos campos de estudo que evidencia o importante papel das tecnologias no ensino e aprendizagem da Matemática. Deste ponto de vista, o tema central na chamada de artigos foi Tecnologias na Educação Matemática: aportes, reflexões e estratégias. Os trabalhos apresentados procuram abarcar as diferentes possibilidades e caminhos com que este tema pode ser investigado, mas mostram também a necessidade de divulgação de novas pesquisas para que pesquisadores e professores sempre encontrem, em publicações de qualidade, o suporte para o seu trabalho.",
+      "abstractOriginal": "Este segundo número temático da revista Educação Matemática Pesquisa - terceiro dos três volumes de 2010 - está organizado em torno da linha de pesquisa Tecnologias da Informação e Educação Matemática, um dos campos de estudo que evidencia o importante papel das tecnologias no ensino e aprendizagem da Matemática. Deste ponto de vista, o tema central na chamada de artigos foi Tecnologias na Educação Matemática: aportes, reflexões e estratégias. Os trabalhos apresentados procuram abarcar as diferentes possibilidades e caminhos com que este tema pode ser investigado, mas mostram também a necessidade de divulgação de novas pesquisas para que pesquisadores e professores sempre encontrem, em publicações de qualidade, o suporte para o seu trabalho.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5170",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5170",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:44:43Z",
+        "allTitles": [
+          "Editorial (Português)"
+        ],
+        "allDescriptions": [
+          "Este segundo número temático da revista Educação Matemática Pesquisa - terceiro dos três volumes de 2010 - está organizado em torno da linha de pesquisa Tecnologias da Informação e Educação Matemática, um dos campos de estudo que evidencia o importante papel das tecnologias no ensino e aprendizagem da Matemática. Deste ponto de vista, o tema central na chamada de artigos foi Tecnologias na Educação Matemática: aportes, reflexões e estratégias. Os trabalhos apresentados procuram abarcar as diferentes possibilidades e caminhos com que este tema pode ser investigado, mas mostram também a necessidade de divulgação de novas pesquisas para que pesquisadores e professores sempre encontrem, em publicações de qualidade, o suporte para o seu trabalho."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-02-14"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 12 No. 3 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 Núm. 3 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 No 3 (2010)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 12 n. 3 (2010)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.929927+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5175",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial (English)",
+      "titleOriginal": "Editorial (English)",
+      "titleEn": "",
+      "authors": [
+        "Abar, Celina A. A. Pereira",
+        "Oliveira, Gerson Pastre de"
+      ],
+      "institutions": [],
+      "abstract": "The second themed issue of the Educação Matemática Pesquisa (Mathematics Education Research) journal - the third of three volumes in 2010 - is organized around the research line of Information Technology and Mathematics Education, a field of study that highlights the important role of technology in the teaching and learning of mathematics. From this point of view, the main subject in the call for articles was Technologies in Mathematics Education: contributions, reflexions and strategies. The presented papers aim to discuss different possibilities and ways in which this issue can be investigated, and also demonstrate the need for dissemination of new studies to allow researchers and teachers to find, in high quality publications, the support for their work.",
+      "abstractOriginal": "The second themed issue of the Educação Matemática Pesquisa (Mathematics Education Research) journal - the third of three volumes in 2010 - is organized around the research line of Information Technology and Mathematics Education, a field of study that highlights the important role of technology in the teaching and learning of mathematics. From this point of view, the main subject in the call for articles was Technologies in Mathematics Education: contributions, reflexions and strategies. The presented papers aim to discuss different possibilities and ways in which this issue can be investigated, and also demonstrate the need for dissemination of new studies to allow researchers and teachers to find, in high quality publications, the support for their work.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5175",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5175",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-02-12T13:44:43Z",
+        "allTitles": [
+          "Editorial (English)"
+        ],
+        "allDescriptions": [
+          "The second themed issue of the Educação Matemática Pesquisa (Mathematics Education Research) journal - the third of three volumes in 2010 - is organized around the research line of Information Technology and Mathematics Education, a field of study that highlights the important role of technology in the teaching and learning of mathematics. From this point of view, the main subject in the call for articles was Technologies in Mathematics Education: contributions, reflexions and strategies. The presented papers aim to discuss different possibilities and ways in which this issue can be investigated, and also demonstrate the need for dissemination of new studies to allow researchers and teachers to find, in high quality publications, the support for their work."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-02-14"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 12 No. 3 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 Núm. 3 (2010)",
+            "Educação Matemática Pesquisa; Vol. 12 No 3 (2010)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 12 n. 3 (2010)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.930145+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/5700",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial (português - english)",
+      "titleOriginal": "Editorial (português - english)",
+      "titleEn": "",
+      "authors": [
+        "Igliori, Sonia Barbosa Camargo",
+        "Coutinho, Cileda de Queiroz e Silva"
+      ],
+      "institutions": [],
+      "abstract": "Este é o número 1 do volume 13 da revista Educação Matemática Pesquisa, primeiro dos três volumes de 2011. Trata-se de publicação do Programa de Estudos Pós-graduados em Educação Matemática da PUCSP a qual tem por finalidade contribuir com o desenvolvimento da Educação Matemática no Brasil. Este volume é composto de dez artigos de autores de procedências diversas e numa classificação ampla, os artigos podem ser inseridos nos temas da formação docente; do ensino e aprendizagem; da metodologia de pesquisa e da história. This is the first edition of volume 13 of the Educação Matemática Pesquisa journal, the first of three volumes in 2011. This is a publication of PUCSP's Graduate Studies Program in Mathematics Education, the purpose of which is to contribute to the development of mathematics education in Brazil. This volume consists of ten articles written by authors from different origins and, in a broad classification, they can be ranked under issues relating to teacher training, teaching and learning, research methodology, and history.",
+      "abstractOriginal": "Este é o número 1 do volume 13 da revista Educação Matemática Pesquisa, primeiro dos três volumes de 2011. Trata-se de publicação do Programa de Estudos Pós-graduados em Educação Matemática da PUCSP a qual tem por finalidade contribuir com o desenvolvimento da Educação Matemática no Brasil. Este volume é composto de dez artigos de autores de procedências diversas e numa classificação ampla, os artigos podem ser inseridos nos temas da formação docente; do ensino e aprendizagem; da metodologia de pesquisa e da história. This is the first edition of volume 13 of the Educação Matemática Pesquisa journal, the first of three volumes in 2011. This is a publication of PUCSP's Graduate Studies Program in Mathematics Education, the purpose of which is to contribute to the development of mathematics education in Brazil. This volume consists of ten articles written by authors from different origins and, in a broad classification, they can be ranked under issues relating to teacher training, teaching and learning, research methodology, and history.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/5700",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/5700",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2011-05-11T00:51:00Z",
+        "allTitles": [
+          "Editorial (português - english)"
+        ],
+        "allDescriptions": [
+          "Este é o número 1 do volume 13 da revista Educação Matemática Pesquisa, primeiro dos três volumes de 2011. Trata-se de publicação do Programa de Estudos Pós-graduados em Educação Matemática da PUCSP a qual tem por finalidade contribuir com o desenvolvimento da Educação Matemática no Brasil. Este volume é composto de dez artigos de autores de procedências diversas e numa classificação ampla, os artigos podem ser inseridos nos temas da formação docente; do ensino e aprendizagem; da metodologia de pesquisa e da história. This is the first edition of volume 13 of the Educação Matemática Pesquisa journal, the first of three volumes in 2011. This is a publication of PUCSP's Graduate Studies Program in Mathematics Education, the purpose of which is to contribute to the development of mathematics education in Brazil. This volume consists of ten articles written by authors from different origins and, in a broad classification, they can be ranked under issues relating to teacher training, teaching and learning, research methodology, and history."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-05-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 13 No. 1 (2011)",
+            "Educação Matemática Pesquisa; Vol. 13 Núm. 1 (2011)",
+            "Educação Matemática Pesquisa; Vol. 13 No 1 (2011)",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 13 n. 1 (2011)",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.933381+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/6857",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Coutinho, Cileda de Queiroz e Silva",
+        "Igliori, Sonia Barbosa Camargo"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/6857",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/6857",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2011-09-04T18:02:37Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-09-04"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 13 No. 2 (2011); 238-241",
+            "Educação Matemática Pesquisa; Vol. 13 Núm. 2 (2011); 238-241",
+            "Educação Matemática Pesquisa; Vol. 13 No 2 (2011); 238-241",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 13 n. 2 (2011); 238-241",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-25T23:22:16.946253+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "doi:10.20396/zet.v24i2.8646516",
       "journal": "zetetike",
       "journalName": "Zetetiké",
