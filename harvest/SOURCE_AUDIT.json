@@ -1,0 +1,3437 @@
+{
+  "generatedAt": "2026-09-25T21:58:19.878337+00:00",
+  "definition": "Source verification confirms technical availability only. It does not certify complete historical coverage.",
+  "summary": {
+    "journals": 63,
+    "verified": 50,
+    "manual_review": 5,
+    "unresolved": 8,
+    "preferred_scielo": 1,
+    "preferred_oai_pmh": 29,
+    "preferred_crossref": 20,
+    "preferred_official_page": 5
+  },
+  "journals": [
+    {
+      "id": "bolema",
+      "name": "Bolema: Boletim de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.scielo.br/j/bolema/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Bolema: Boletim de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_marc",
+            "oai_dc",
+            "marcxml",
+            "oai_biblat"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [
+        {
+          "url": "https://www.scielo.br/j/bolema/",
+          "verified": true,
+          "status": 200,
+          "finalUrl": "https://www.scielo.br/j/bolema/",
+          "contentType": "text/html; charset=utf-8",
+          "error": null
+        }
+      ],
+      "crossref": [],
+      "preferredSource": "scielo",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "zetetike",
+      "name": "Zetetiké",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Zetetike",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "rfc1807",
+            "marcxml",
+            "oai_marc",
+            "oai_biblat"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emp",
+      "name": "Educação Matemática Pesquisa",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://revistas.pucsp.br/emp",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_dc",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "revemat",
+      "name": "Revista Eletrônica de Educação Matemática — REVEMAT",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.ufsc.br/index.php/revemat",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufsc.br/index.php/revemat/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista Eletrônica de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_marc",
+            "marcxml",
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "ripem",
+      "name": "Revista Internacional de Pesquisa em Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista Internacional de Pesquisa em Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_dc",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emr",
+      "name": "Educação Matemática em Revista",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Educação Matemática em Revista",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_dc",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "remat",
+      "name": "Revista de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_openaire_jats",
+            "rfc1807",
+            "marcxml",
+            "oai_marc",
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "pem",
+      "name": "Perspectivas da Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.ufms.br/index.php/pedmat",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufms.br/index.php/pedmat/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Perspectivas da Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "oai_marc",
+            "oai_dc",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "rpem",
+      "name": "Revista Paranaense de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.unespar.edu.br/index.php/rpem",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.unespar.edu.br/rpem/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista Paranaense de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_marc",
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "boem",
+      "name": "Boletim Online de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista BOEM",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_marc",
+            "oai_dc",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emteia",
+      "name": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.ufpe.br/revistas/index.php/emteia",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_marc",
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jieem",
+      "name": "Jornal Internacional de Estudos em Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://jieem.pgsscogna.com.br/jieem",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://jieem.pgsscogna.com.br/jieem/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Jornal Internacional de Estudos em Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_marc",
+            "rfc1807",
+            "oai_dc",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "rematec",
+      "name": "REMATEC — Revista de Matemática, Ensino e Cultura",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.rematec.net.br/index.php/rematec",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.rematec.net.br/index.php/rematec/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "REMATEC",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_marc",
+            "marcxml",
+            "oai_dc",
+            "rfc1807",
+            "oai_biblat"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "tangram",
+      "name": "Tangram — Revista de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://ojs.ufgd.edu.br/tangram",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://ojs.ufgd.edu.br/tangram/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "TANGRAM - Revista de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_marc",
+            "marcxml",
+            "oai_dc",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "histemat",
+      "name": "HISTEMAT — Revista de História da Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://histemat.com.br/index.php/HISTEMAT",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://histemat.com.br/index.php/HISTEMAT/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista de História da Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_dc",
+            "marcxml",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emd",
+      "name": "Educação Matemática Debate",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.periodicos.unimontes.br/index.php/emd",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.periodicos.unimontes.br/index.php/emd/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Educação Matemática Debate",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_marc",
+            "marcxml",
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emfoco",
+      "name": "Educação Matemática em Foco",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://revista.uepb.edu.br/REM/pt_BR",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://revista.uepb.edu.br/REM/pt_BR/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "REVISTA EDUCAÇÃO MATEMÁTICA EM FOCO",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "oai_dc",
+            "rfc1807",
+            "oai_marc",
+            "jats"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "capp",
+      "name": "Com a Palavra, o Professor",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "http://revista.geem.mat.br/index.php/CPP",
+        "contentType": "",
+        "error": "URLError: <urlopen error timed out>"
+      },
+      "oai": [
+        {
+          "baseUrl": "http://revista.geem.mat.br/index.php/CPP/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "http://revista.geem.mat.br/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "http://revista.geem.mat.br/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "reviem",
+      "name": "Revista de Investigação e Divulgação em Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.ufjf.br/index.php/ridema",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufjf.br/index.php/ridema/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista de Investigação e Divulgação em Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "oai_marc",
+            "rfc1807",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "revemop",
+      "name": "Revemop — Revista de Educação Matemática de Ouro Preto",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://periodicos.ufop.br/revemop/pt_BR",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufop.br/revemop/pt_BR/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revemop",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_openaire",
+            "oai_openaire_jats",
+            "marcxml",
+            "oai_marc",
+            "oai_dc",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "rsermat",
+      "name": "Revista Sergipana de Matemática e Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://periodicos.ufs.br/ReviSe",
+        "contentType": "",
+        "error": "IncompleteRead: IncompleteRead(9021 bytes read, 34872 more expected)"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufs.br/ReviSe/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista Sergipana de Matemática e Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "marcxml",
+            "oai_marc",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "baianaem",
+      "name": "Revista Baiana de Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.revistas.uneb.br/index.php/baeducmatematica",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.revistas.uneb.br/baeducmatematica/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista Baiana de Educação Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_openaire_jats",
+            "oai_dc",
+            "oai_marc",
+            "rfc1807",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "emr-rs",
+      "name": "Educação Matemática em Revista — RS",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.sbemrs.org/revista/index.php/2011_1",
+        "contentType": "text/html",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.sbemrs.org/revista/index.php/2011_1/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Response is not an OAI-PMH document"
+        },
+        {
+          "baseUrl": "https://www.sbemrs.org/index.php/2011_1/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Response is not an OAI-PMH document"
+        },
+        {
+          "baseUrl": "https://www.sbemrs.org/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Response is not an OAI-PMH document"
+        },
+        {
+          "baseUrl": "https://www.sbemrs.org/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Response is not an OAI-PMH document"
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "official-page",
+      "sourceVerification": "manual_review",
+      "notes": [
+        "Official site is online, but a structured metadata source still needs manual review."
+      ]
+    },
+    {
+      "id": "gepem",
+      "name": "Boletim GEPEM",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://periodicos.ufrrj.br/index.php/gepem",
+        "contentType": "",
+        "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ufrrj.br/index.php/gepem/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://periodicos.ufrrj.br/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://periodicos.ufrrj.br/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "caminhos-em",
+      "name": "Caminhos da Educação Matemática em Revista",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://periodicos.ifs.edu.br/periodicos/caminhos_da_educacao_matematica/",
+        "contentType": "",
+        "error": "URLError: <urlopen error timed out>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://periodicos.ifs.edu.br/periodicos/caminhos_da_educacao_matematica/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "https://periodicos.ifs.edu.br/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "https://periodicos.ifs.edu.br/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "emsf",
+      "name": "Educação Matemática Sem Fronteiras",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "",
+        "contentType": "",
+        "error": "No official URL registered"
+      },
+      "oai": [],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "modelagem-em",
+      "name": "Modelagem na Educação Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://ojsrevista.furb.br/ojs/index.php/modelagem/login",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://ojsrevista.furb.br/ojs/index.php/modelagem/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Invalid XML: mismatched tag: line 15, column 2"
+        },
+        {
+          "baseUrl": "https://ojsrevista.furb.br/index.php/modelagem/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://ojsrevista.furb.br/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://ojsrevista.furb.br/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "official-page",
+      "sourceVerification": "manual_review",
+      "notes": [
+        "Official site is online, but a structured metadata source still needs manual review."
+      ]
+    },
+    {
+      "id": "geogebra-sp",
+      "name": "Revista do Instituto GeoGebra Internacional de São Paulo",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://revistas.pucsp.br/index.php/IGISP",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://revistas.pucsp.br/index.php/IGISP/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Revista do Instituto GeoGebra Internacional de São Paulo",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "marcxml",
+            "rfc1807",
+            "oai_dc",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "coinspiracao",
+      "name": "CoInspiração — Revista de Professores que Ensinam Matemática",
+      "country": "Brazil",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://sbemmatogrosso.com.br/publicacoes/index.php/coinspiracao",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://sbemmatogrosso.com.br/publicacoes/index.php/coinspiracao/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "CoInspiração - Revista dos Professores que Ensinam Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_marc",
+            "marcxml",
+            "oai_dc",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "relime",
+      "name": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "country": "Mexico",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://relime.org/",
+        "contentType": "",
+        "error": "TimeoutError: The read operation timed out"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://relime.org/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://relime.org/index.php/index/es/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_dc",
+            "marcxml",
+            "oai_marc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2007-6819",
+          "verified": true,
+          "status": 200,
+          "title": "Revista Latinoamericana de Investigación en Matemática Educativa",
+          "publisher": "Colegio Mexicano de Matemática Educativa A. C.",
+          "issns": [
+            "1665-2436",
+            "2007-6819"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1665-2436",
+          "verified": true,
+          "status": 200,
+          "title": "Revista Latinoamericana de Investigación en Matemática Educativa",
+          "publisher": "Colegio Mexicano de Matemática Educativa A. C.",
+          "issns": [
+            "1665-2436",
+            "2007-6819"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "educacion-matematica",
+      "name": "Educación Matemática",
+      "country": "Mexico",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.revista-educacion-matematica.org.mx/",
+        "contentType": "text/html",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.revista-educacion-matematica.org.mx/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://www.revista-educacion-matematica.org.mx/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2448-8089",
+          "verified": true,
+          "status": 200,
+          "title": "Educación Matemática",
+          "publisher": "Sociedad Mexicana de Investigacion y Divulgacion de la Educacion Matematica A. C.",
+          "issns": [
+            "1665-5826",
+            "2448-7821",
+            "0187-8298",
+            "2448-8089"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0187-8298",
+          "verified": true,
+          "status": 200,
+          "title": "Educación Matemática",
+          "publisher": "Sociedad Mexicana de Investigacion y Divulgacion de la Educacion Matematica A. C.",
+          "issns": [
+            "1665-5826",
+            "2448-7821",
+            "0187-8298",
+            "2448-8089"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "redimat",
+      "name": "REDIMAT — Journal of Research in Mathematics Education",
+      "country": "Spain",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://hipatiapress.com/hpjournals/index.php/redimat",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://hipatiapress.com/hpjournals/index.php/redimat/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://hipatiapress.com/index.php/redimat/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://hipatiapress.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://hipatiapress.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2014-3621",
+          "verified": true,
+          "status": 200,
+          "title": "Journal of Research in Mathematics Education",
+          "publisher": "Hipatia Press",
+          "issns": [
+            "2014-3621"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "pna",
+      "name": "PNA — Revista de Investigación en Didáctica de la Matemática",
+      "country": "Spain",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://revistaseug.ugr.es/index.php/pna",
+        "contentType": "",
+        "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://revistaseug.ugr.es/index.php/pna/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://revistaseug.ugr.es/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://revistaseug.ugr.es/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1887-3987",
+          "verified": true,
+          "status": 200,
+          "title": "PNA Revista de Investigación en Didáctica de la Matemática",
+          "publisher": "Editorial de la Universidad de Granada",
+          "issns": [
+            "1887-3987"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1886-1350",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "aiem",
+      "name": "AIEM — Avances de Investigación en Educación Matemática",
+      "country": "Spain",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://aiem.es/aiem/es",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://aiem.es/aiem/es/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Avances de Investigación en Educación Matemática",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "oai_marc",
+            "marcxml",
+            "rfc1807",
+            "jats"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2254-4313",
+          "verified": true,
+          "status": 200,
+          "title": "Avances de Investigación en Educación Matemática",
+          "publisher": "Spanish Society of Research in Mathematics Education",
+          "issns": [
+            "2254-4313"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "union",
+      "name": "UNIÓN — Revista Iberoamericana de Educación Matemática",
+      "country": "International",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://union.fespm.es/",
+        "contentType": "",
+        "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://union.fespm.es/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "baseUrl": "https://union.fespm.es/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1815-0640",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "numeros",
+      "name": "Números — Revista de Didáctica de las Matemáticas",
+      "country": "Spain",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://sinewton.es/revista-numeros/",
+        "contentType": "",
+        "error": "URLError: <urlopen error timed out>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://sinewton.es/revista-numeros/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "https://sinewton.es/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "baseUrl": "https://sinewton.es/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error timed out>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1887-1984",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "epsilon",
+      "name": "Epsilon — Revista de Educación Matemática",
+      "country": "Spain",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://thales.cica.es/epsilon/",
+        "contentType": "",
+        "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://thales.cica.es/epsilon/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://thales.cica.es/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        },
+        {
+          "baseUrl": "https://thales.cica.es/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2340-714X",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "1131-9321",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "quadrante",
+      "name": "Quadrante",
+      "country": "Portugal",
+      "officialPage": {
+        "verified": false,
+        "status": null,
+        "finalUrl": "https://quadrante.apm.pt/",
+        "contentType": "",
+        "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://quadrante.apm.pt/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "baseUrl": "https://quadrante.apm.pt/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": null,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2183-2838",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "0872-3915",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": null,
+      "sourceVerification": "unresolved",
+      "notes": [
+        "No structured source verified automatically."
+      ]
+    },
+    {
+      "id": "educacao-matematica-pt",
+      "name": "Educação e Matemática",
+      "country": "Portugal",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://em.apm.pt/index.php/em",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://em.apm.pt/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://em.apm.pt/index.php/index/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "rfc1807",
+            "oai_marc",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2795-4730",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "0871-7222",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "suma",
+      "name": "SUMA — Revista sobre Enseñanza y Aprendizaje de las Matemáticas",
+      "country": "Spain",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://revistasuma.fespm.es/",
+        "contentType": "text/html; charset=UTF-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://revistasuma.fespm.es/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://revistasuma.fespm.es/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1130-488X",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "official-page",
+      "sourceVerification": "manual_review",
+      "notes": [
+        "Official site is online, but a structured metadata source still needs manual review."
+      ]
+    },
+    {
+      "id": "zdm",
+      "name": "ZDM — Mathematics Education",
+      "country": "Germany",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/11858?error=cookies_not_supported&code=cde657b4-7660-41d2-a124-7a534ecee0a7",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/11858/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1863-9704",
+          "verified": true,
+          "status": 200,
+          "title": "ZDM",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1863-9690",
+            "1863-9704"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1863-9690",
+          "verified": true,
+          "status": 200,
+          "title": "ZDM",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1863-9690",
+            "1863-9704"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "esm",
+      "name": "Educational Studies in Mathematics",
+      "country": "Netherlands",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/10649?error=cookies_not_supported&code=98c5340f-40b0-4c3a-ba89-aa11cc6f6b6c",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/10649/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1573-0816",
+          "verified": true,
+          "status": 200,
+          "title": "Educational Studies in Mathematics",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "0013-1954",
+            "1573-0816"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0013-1954",
+          "verified": true,
+          "status": 200,
+          "title": "Educational Studies in Mathematics",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "0013-1954",
+            "1573-0816"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jrme",
+      "name": "Journal for Research in Mathematics Education",
+      "country": "United States",
+      "officialPage": {
+        "verified": false,
+        "status": 405,
+        "finalUrl": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
+        "contentType": "",
+        "error": "HTTP 405"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml/oai",
+          "verified": false,
+          "identifyStatus": 405,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 405"
+        },
+        {
+          "baseUrl": "https://pubs.nctm.org/oai",
+          "verified": false,
+          "identifyStatus": 405,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 405"
+        },
+        {
+          "baseUrl": "https://pubs.nctm.org/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 405,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 405"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1945-2306",
+          "verified": true,
+          "status": 200,
+          "title": "Journal for Research in Mathematics Education",
+          "publisher": "National Council of Teachers of Mathematics",
+          "issns": [
+            "0021-8251",
+            "1945-2306"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0021-8251",
+          "verified": true,
+          "status": 200,
+          "title": "Journal for Research in Mathematics Education",
+          "publisher": "National Council of Teachers of Mathematics",
+          "issns": [
+            "0021-8251",
+            "1945-2306"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jmte",
+      "name": "Journal of Mathematics Teacher Education",
+      "country": "Netherlands",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/10857?error=cookies_not_supported&code=59cab63a-8a7b-4468-b5fa-7ffb950fec3d",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/10857/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1573-1820",
+          "verified": true,
+          "status": 200,
+          "title": "Journal of Mathematics Teacher Education",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1386-4416",
+            "1573-1820"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1386-4416",
+          "verified": true,
+          "status": 200,
+          "title": "Journal of Mathematics Teacher Education",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1386-4416",
+            "1573-1820"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "merj",
+      "name": "Mathematics Education Research Journal",
+      "country": "Australia",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/13394?error=cookies_not_supported&code=44dee813-9fa5-4401-b425-d7560c61ee20",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/13394/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2211-050X",
+          "verified": true,
+          "status": 200,
+          "title": "Mathematics Education Research Journal",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1033-2170",
+            "2211-050X"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1033-2170",
+          "verified": true,
+          "status": 200,
+          "title": "Mathematics Education Research Journal",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "1033-2170",
+            "2211-050X"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "mtl",
+      "name": "Mathematical Thinking and Learning",
+      "country": "United States",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://www.tandfonline.com/journals/hmtl20",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.tandfonline.com/journals/hmtl20/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1532-7833",
+          "verified": true,
+          "status": 200,
+          "title": "Mathematical Thinking and Learning",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1098-6065",
+            "1532-7833"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1098-6065",
+          "verified": true,
+          "status": 200,
+          "title": "Mathematical Thinking and Learning",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1098-6065",
+            "1532-7833"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jmb",
+      "name": "The Journal of Mathematical Behavior",
+      "country": "Netherlands",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://www.sciencedirect.com/journal/the-journal-of-mathematical-behavior",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.sciencedirect.com/journal/the-journal-of-mathematical-behavior/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.sciencedirect.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.sciencedirect.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1873-8028",
+          "verified": false,
+          "status": 429,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 429"
+        },
+        {
+          "issn": "0732-3123",
+          "verified": true,
+          "status": 200,
+          "title": "The Journal of Mathematical Behavior",
+          "publisher": "Elsevier",
+          "issns": [
+            "0732-3123"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "rme",
+      "name": "Research in Mathematics Education",
+      "country": "United Kingdom",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://www.tandfonline.com/journals/rrme20",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.tandfonline.com/journals/rrme20/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1754-0178",
+          "verified": true,
+          "status": 200,
+          "title": "Research in Mathematics Education",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1479-4802",
+            "1754-0178"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1479-4802",
+          "verified": true,
+          "status": 200,
+          "title": "Research in Mathematics Education",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1479-4802",
+            "1754-0178"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "flm",
+      "name": "For the Learning of Mathematics",
+      "country": "Canada",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://flm-journal.org/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://flm-journal.org/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Invalid XML: not well-formed (invalid token): line 52, column 60"
+        },
+        {
+          "baseUrl": "https://flm-journal.org/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 200,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Invalid XML: not well-formed (invalid token): line 52, column 60"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "0228-0671",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "official-page",
+      "sourceVerification": "manual_review",
+      "notes": [
+        "Official site is online, but a structured metadata source still needs manual review."
+      ]
+    },
+    {
+      "id": "ijmest",
+      "name": "International Journal of Mathematical Education in Science and Technology",
+      "country": "United Kingdom",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://www.tandfonline.com/journals/tmes20",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.tandfonline.com/journals/tmes20/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1464-5211",
+          "verified": true,
+          "status": 200,
+          "title": "International Journal of Mathematical Education in Science and Technology",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "0020-739X",
+            "1464-5211"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0020-739X",
+          "verified": true,
+          "status": 200,
+          "title": "International Journal of Mathematical Education in Science and Technology",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "0020-739X",
+            "1464-5211"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "iejme",
+      "name": "International Electronic Journal of Mathematics Education",
+      "country": "International",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://www.iejme.com/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.iejme.com/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "International Electronic Journal of Mathematics Education",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "no",
+          "metadataPrefixes": [
+            "oai_dc"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1306-3030",
+          "verified": true,
+          "status": 200,
+          "title": "International Electronic Journal of Mathematics Education",
+          "publisher": "Modestum Ltd",
+          "issns": [
+            "1306-3030"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "tmma",
+      "name": "Teaching Mathematics and its Applications: An International Journal of the IMA",
+      "country": "United Kingdom",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://academic.oup.com/teamat",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://academic.oup.com/teamat/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://academic.oup.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://academic.oup.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1471-6976",
+          "verified": true,
+          "status": 200,
+          "title": "Teaching Mathematics and its Applications An International Journal of the IMA",
+          "publisher": "Oxford University Press",
+          "issns": [
+            "0268-3679",
+            "1471-6976"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0268-3679",
+          "verified": true,
+          "status": 200,
+          "title": "Teaching Mathematics and its Applications An International Journal of the IMA",
+          "publisher": "Oxford University Press",
+          "issns": [
+            "0268-3679",
+            "1471-6976"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "mted",
+      "name": "Mathematics Teacher Education and Development",
+      "country": "Australia",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://mted.merga.net.au/index.php/mted",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://mted.merga.net.au/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://mted.merga.net.au/index.php/index/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "Open Journal Systems",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "oai_marc",
+            "marcxml",
+            "rfc1807"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2203-1499",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "1442-3901",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jume",
+      "name": "Journal of Urban Mathematics Education",
+      "country": "United States",
+      "officialPage": {
+        "verified": false,
+        "status": 404,
+        "finalUrl": "https://journals.librarypublishing.arizona.edu/jume/",
+        "contentType": "",
+        "error": "HTTP 404"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://journals.librarypublishing.arizona.edu/jume/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://journals.librarypublishing.arizona.edu/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://journals.librarypublishing.arizona.edu/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2151-2612",
+          "verified": true,
+          "status": 200,
+          "title": "Journal of Urban Mathematics Education",
+          "publisher": "Texas A&M University Libraries",
+          "issns": [
+            "2151-2612"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "alm",
+      "name": "Adults Learning Mathematics: An International Journal",
+      "country": "International",
+      "officialPage": {
+        "verified": true,
+        "status": 202,
+        "finalUrl": "https://alm-online.net/",
+        "contentType": "text/html",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://alm-online.net/oai",
+          "verified": false,
+          "identifyStatus": 202,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Invalid XML: not well-formed (invalid token): line 1, column 133"
+        },
+        {
+          "baseUrl": "https://alm-online.net/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 202,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "Invalid XML: not well-formed (invalid token): line 1, column 153"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1744-1803",
+          "verified": true,
+          "status": 200,
+          "title": "Adults Learning Mathematics An International Journal",
+          "publisher": "Adults Learning Mathematics - A Research Forum",
+          "issns": [
+            "1744-1803"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "serj",
+      "name": "Statistics Education Research Journal",
+      "country": "International",
+      "officialPage": {
+        "verified": false,
+        "status": 404,
+        "finalUrl": "https://iase-web.org/ojs/SERJ/",
+        "contentType": "",
+        "error": "HTTP 404"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://iase-web.org/ojs/SERJ/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://iase-web.org/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://iase-web.org/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1570-1824",
+          "verified": true,
+          "status": 200,
+          "title": "Statistics Education Research Journal",
+          "publisher": "International Association for Statistical Education",
+          "issns": [
+            "1570-1824"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "jmd",
+      "name": "Journal für Mathematik-Didaktik",
+      "country": "Germany",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/13138?error=cookies_not_supported&code=ddfe13d3-f339-4412-bf8c-37ec4dac8cc6",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/13138/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "1869-2699",
+          "verified": true,
+          "status": 200,
+          "title": "Journal für Mathematik-Didaktik",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "0173-5322",
+            "1869-2699"
+          ],
+          "error": null
+        },
+        {
+          "issn": "0173-5322",
+          "verified": true,
+          "status": 200,
+          "title": "Journal für Mathematik-Didaktik",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "0173-5322",
+            "1869-2699"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "ijtme",
+      "name": "International Journal for Technology in Mathematics Education",
+      "country": "United Kingdom",
+      "officialPage": {
+        "verified": false,
+        "status": 404,
+        "finalUrl": "https://researchinformation.co.uk/journals/ijtme/",
+        "contentType": "",
+        "error": "HTTP 404"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.researchinformation.co.uk/journals/ijtme/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://www.researchinformation.co.uk/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://www.researchinformation.co.uk/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2045-2519",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "1744-2710",
+          "verified": true,
+          "status": 200,
+          "title": "International Journal for Technology in Mathematics Education",
+          "publisher": "Research Information Ltd",
+          "issns": [
+            "1744-2710"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "dem",
+      "name": "Digital Experiences in Mathematics Education",
+      "country": "Netherlands",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://link.springer.com/journal/40751?error=cookies_not_supported&code=8620f2e5-1cb7-405c-8cbe-afbabeadd3a6",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://link.springer.com/journal/40751/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://link.springer.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2199-3254",
+          "verified": true,
+          "status": 200,
+          "title": "Digital Experiences in Mathematics Education",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "2199-3246",
+            "2199-3254"
+          ],
+          "error": null
+        },
+        {
+          "issn": "2199-3246",
+          "verified": true,
+          "status": 200,
+          "title": "Digital Experiences in Mathematics Education",
+          "publisher": "Springer-Verlag",
+          "issns": [
+            "2199-3246",
+            "2199-3254"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "iml",
+      "name": "Investigations in Mathematics Learning",
+      "country": "United States",
+      "officialPage": {
+        "verified": false,
+        "status": 403,
+        "finalUrl": "https://www.tandfonline.com/journals/uiml20",
+        "contentType": "",
+        "error": "HTTP 403"
+      },
+      "oai": [
+        {
+          "baseUrl": "https://www.tandfonline.com/journals/uiml20/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        },
+        {
+          "baseUrl": "https://www.tandfonline.com/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 403,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 403"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2472-7466",
+          "verified": true,
+          "status": 200,
+          "title": "Investigations in Mathematics Learning",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1947-7503",
+            "2472-7466"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1947-7503",
+          "verified": true,
+          "status": 200,
+          "title": "Investigations in Mathematics Learning",
+          "publisher": "Informa UK (Taylor & Francis)",
+          "issns": [
+            "1947-7503",
+            "2472-7466"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "crossref",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "tme",
+      "name": "The Mathematics Educator",
+      "country": "United States",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://openjournals.libs.uga.edu/tme/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://openjournals.libs.uga.edu/tme/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "THE MATHEMATICS EDUCATOR",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "oai_dc",
+            "oai_marc",
+            "rfc1807",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2331-4451",
+          "verified": true,
+          "status": 200,
+          "title": "THE MATHEMATICS EDUCATOR",
+          "publisher": "Department of Math, Science & Social Studies at the University of Georgia",
+          "issns": [
+            "1062-9017",
+            "2331-4451"
+          ],
+          "error": null
+        },
+        {
+          "issn": "1062-9017",
+          "verified": true,
+          "status": 200,
+          "title": "THE MATHEMATICS EDUCATOR",
+          "publisher": "Department of Math, Science & Social Studies at the University of Georgia",
+          "issns": [
+            "1062-9017",
+            "2331-4451"
+          ],
+          "error": null
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "mathematica-didactica",
+      "name": "mathematica didactica",
+      "country": "Germany",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://journals.ub.uni-koeln.de/index.php/mathematica_didactica/de/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://journals.ub.uni-koeln.de/index.php/mathematica_didactica/de/oai",
+          "verified": true,
+          "identifyStatus": 200,
+          "repositoryName": "mathematica didactica",
+          "protocolVersion": "2.0",
+          "granularity": "YYYY-MM-DDThh:mm:ssZ",
+          "deletedRecord": "persistent",
+          "metadataPrefixes": [
+            "rfc1807",
+            "oai_marc",
+            "oai_dc",
+            "marcxml"
+          ],
+          "error": null
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2750-3755",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        },
+        {
+          "issn": "0172-8407",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "oai-pmh",
+      "sourceVerification": "verified",
+      "notes": []
+    },
+    {
+      "id": "zmfp",
+      "name": "Zeitschrift für Mathematikdidaktik in Forschung und Praxis",
+      "country": "Germany",
+      "officialPage": {
+        "verified": true,
+        "status": 200,
+        "finalUrl": "https://zmfp.de/",
+        "contentType": "text/html; charset=utf-8",
+        "error": null
+      },
+      "oai": [
+        {
+          "baseUrl": "https://zmfp.de/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        },
+        {
+          "baseUrl": "https://zmfp.de/index.php/index/oai",
+          "verified": false,
+          "identifyStatus": 404,
+          "repositoryName": "",
+          "protocolVersion": "",
+          "granularity": "",
+          "deletedRecord": "",
+          "metadataPrefixes": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "scielo": [],
+      "crossref": [
+        {
+          "issn": "2701-9012",
+          "verified": false,
+          "status": 404,
+          "title": "",
+          "publisher": "",
+          "issns": [],
+          "error": "HTTP 404"
+        }
+      ],
+      "preferredSource": "official-page",
+      "sourceVerification": "manual_review",
+      "notes": [
+        "Official site is online, but a structured metadata source still needs manual review."
+      ]
+    }
+  ]
+}
