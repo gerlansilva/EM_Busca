@@ -1,45 +1,136 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>BuscaEM</title>
+  <title>BuscaEM — Educação Matemática</title>
+  <meta name="description" content="Busca integrada em periódicos especializados em Educação Matemática.">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-<header>
-  <div class="brand">BuscaEM</div>
-  <nav><a href="#buscar">Search</a><a href="#revistas">Journals</a><a href="#sobre">About</a></nav>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#inicio" aria-label="BuscaEM">
+      <span class="brand-busca">Busca</span><span class="brand-em">EM</span>
+      <span class="brand-line" aria-hidden="true"></span>
+    </a>
+    <nav class="nav">
+      <a class="active" href="#buscar">⌕ <span>Busca</span></a>
+      <a href="#revistas">▥ <span>Revistas</span></a>
+      <a href="#acervo">▤ <span>Acervo</span></a>
+      <a href="#sobre">ⓘ <span>Sobre</span></a>
+    </nav>
+  </div>
 </header>
-<main>
-  <section class="hero">
-    <span class="eyebrow">MATHEMATICS EDUCATION</span>
-    <h1>Search specialized journals</h1>
-    <p>Clean, curated and source-auditable metadata.</p>
-    <form id="searchForm">
-      <input id="query" placeholder='e.g. "teacher education" AND probability'>
-      <button>Search</button>
+
+<main id="inicio">
+  <section class="hero" id="buscar">
+    <div class="hero-topline">
+      <div>
+        <div class="eyebrow">BUSCA INTEGRADA EM PERIÓDICOS</div>
+        <h1>Pesquise em Educação Matemática<span>.</span></h1>
+      </div>
+      <div class="journal-total">
+        <span class="journal-total-icon">▥</span>
+        <strong id="journalTotal">0</strong>
+        <span>revistas reunidas</span>
+      </div>
+    </div>
+
+    <form id="searchForm" class="searchbox">
+      <span class="search-icon">⌕</span>
+      <input id="query" autocomplete="off" placeholder='Título, autoria, assunto, DOI ou busca booleana'>
+      <button type="submit"><span>⌕</span> Buscar artigos</button>
     </form>
-    <div id="summary">Loading…</div>
+
+    <div class="hero-stats">
+      <span>▧ <strong id="articleTotal">0</strong> publicações para explorar</span>
+      <span>▣ Atualizado em <strong id="updatedDate">—</strong></span>
+      <span class="boolean-help">AND · OR · NOT · "frase exata"</span>
+    </div>
   </section>
-  <section class="content">
-    <aside>
-      <label>Journal<select id="journal"><option value="">All journals</option></select></label>
-      <label>Language<select id="language"><option value="">All languages</option></select></label>
-      <label>Year from<input id="yearFrom" type="number"></label>
-      <label>Year to<input id="yearTo" type="number"></label>
-      <button id="clear">Clear</button>
+
+  <section class="workspace">
+    <aside class="filters" id="revistas">
+      <div class="filters-head">
+        <h2>☷ Filtros</h2>
+        <button id="clear" class="link-button" type="button">Limpar</button>
+      </div>
+
+      <section class="filter-group">
+        <button class="filter-group-title" type="button" data-toggle="journalsPanel">
+          <span>▥ Revistas</span><span>⌄</span>
+        </button>
+        <div id="journalsPanel" class="journal-checks"></div>
+      </section>
+
+      <section class="filter-group">
+        <label class="filter-label" for="language">Idioma</label>
+        <select id="language">
+          <option value="">Todos os idiomas</option>
+        </select>
+      </section>
+
+      <section class="filter-group two-cols">
+        <label>
+          <span class="filter-label">Ano inicial</span>
+          <input id="yearFrom" type="number" min="1800" max="2100" placeholder="Ex.: 2015">
+        </label>
+        <label>
+          <span class="filter-label">Ano final</span>
+          <input id="yearTo" type="number" min="1800" max="2100" placeholder="Ex.: 2026">
+        </label>
+      </section>
     </aside>
-    <section>
-      <div class="resultbar"><strong id="count">0 results</strong></div>
-      <div id="results"></div>
+
+    <section class="results-area">
+      <div class="result-toolbar">
+        <div class="result-title">
+          <h2>Resultados da busca</h2>
+          <span id="count">0 resultados</span>
+        </div>
+
+        <div class="result-controls">
+          <label class="sort-wrap">
+            <span>↕</span>
+            <select id="sort">
+              <option value="relevance">Relevância</option>
+              <option value="title-asc">Título: A–Z</option>
+              <option value="title-desc">Título: Z–A</option>
+              <option value="year-desc">Ano: mais recente</option>
+              <option value="year-asc">Ano: mais antigo</option>
+            </select>
+          </label>
+          <div class="view-switch" aria-label="Modo de visualização">
+            <button id="gridView" type="button" title="Grade">▦</button>
+            <button id="listView" class="active" type="button" title="Lista">☷</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="results" class="results-list"></div>
+      <button id="loadMore" class="load-more" type="button" hidden>Mostrar mais resultados</button>
     </section>
   </section>
+
+  <section class="about" id="sobre">
+    <div>
+      <span class="eyebrow">SOBRE O BUSCAEM</span>
+      <h2>Um buscador especializado em Educação Matemática.</h2>
+      <p>Ferramenta construída por Gerlan Silva da Silva, doutorando em Educação na UFSCar, para reunir, organizar e tornar pesquisáveis metadados de periódicos especializados da área.</p>
+    </div>
+    <div class="about-links">
+      <a href="https://orcid.org/0000-0002-9996-9983" target="_blank" rel="noopener">ORCID ↗</a>
+      <a href="http://lattes.cnpq.br/2364822008221312" target="_blank" rel="noopener">Currículo Lattes ↗</a>
+    </div>
+  </section>
 </main>
+
 <footer>
-  <p>BuscaEM — developed by Gerlan Silva da Silva, PhD candidate in Education at UFSCar.</p>
-  <p><a href="https://orcid.org/0000-0002-9996-9983">ORCID</a> · <a href="http://lattes.cnpq.br/2364822008221312">Lattes</a></p>
+  <div>BuscaEM</div>
+  <div>Metadados curados, rastreáveis e vinculados às fontes originais.</div>
 </footer>
+
 <script src="./app.js"></script>
 </body>
 </html>
