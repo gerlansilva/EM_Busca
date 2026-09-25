@@ -1,0 +1,29 @@
+name: BuscaEM — Build curated catalogue
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Curate and publish
+        run: |
+          python scripts/curate.py
+          python scripts/publish.py
+          python scripts/validate.py
+      - name: Commit public catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/data harvest/quarantine harvest/normalized/catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "build: curated BuscaEM catalogue"
+            git push
+          fi
