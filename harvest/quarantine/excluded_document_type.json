@@ -66,6 +66,1320 @@
       "corpusReason": "editorial"
     },
     {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/4169",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Mulazani dos Santos, Luciane"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/4169",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/4169",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2013-12-10T08:57:00Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-12-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 1 n. 1 (2013): BoEM",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.161340+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/4925",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/4925",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/4925",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2015-07-09T09:38:55Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-08-06"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 2 (2014): BoEM; 1",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.162400+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/4926",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "Sumário",
+      "abstractOriginal": "Sumário",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/4926",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/4926",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-08-06T17:19:18Z",
+        "allTitles": [
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "Sumário"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-08-06"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 2 (2014): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.162531+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/4927",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Nominata",
+      "titleOriginal": "Nominata",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "Nominata",
+      "abstractOriginal": "Nominata",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/4927",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/4927",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-08-06T17:19:18Z",
+        "allTitles": [
+          "Nominata"
+        ],
+        "allDescriptions": [
+          "Nominata"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-08-06"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 2 (2014): BoEM; ii",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.162656+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "nominata"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/5789",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/5789",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5789",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-12-08T18:19:42Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-12-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 3 (2014): BoEM; 1",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.163520+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/5790",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/5790",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5790",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-12-08T18:19:42Z",
+        "allTitles": [
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-12-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 3 (2014): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.163655+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/5791",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Nominata",
+      "titleOriginal": "Nominata",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/5791",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5791",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-12-08T18:19:42Z",
+        "allTitles": [
+          "Nominata"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-12-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 2 n. 3 (2014): BoEM; ii",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.163790+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "nominata"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/6450",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Nominata",
+      "titleOriginal": "Nominata",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "Nominata",
+      "abstractOriginal": "Nominata",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/6450",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6450",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2015-08-04T13:49:43Z",
+        "allTitles": [
+          "Nominata"
+        ],
+        "allDescriptions": [
+          "Nominata"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 3 n. 4 (2015): BoEM; ii",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.167342+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "nominata"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/6451",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumario",
+      "titleOriginal": "Sumario",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "Sumario",
+      "abstractOriginal": "Sumario",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/6451",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6451",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2015-08-04T13:49:43Z",
+        "allTitles": [
+          "Sumario"
+        ],
+        "allDescriptions": [
+          "Sumario"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 3 n. 4 (2015): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.167486+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumario"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/6452",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Mandler, Marnei Luis"
+      ],
+      "institutions": [],
+      "abstract": "Editorial",
+      "abstractOriginal": "Editorial",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/6452",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6452",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2015-08-04T13:49:43Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 3 n. 4 (2015): BoEM; 1",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.167630+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/7253",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/7253",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/7253",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-01-14T10:51:53Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-12-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 3 n. 5 (2015): BoEM; 1",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.168638+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/7254",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "Sumário",
+      "abstractOriginal": "Sumário",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/7254",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/7254",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-01-14T10:51:53Z",
+        "allTitles": [
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "Sumário"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-12-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 3 n. 5 (2015): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.168780+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/8315",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Nominata",
+      "titleOriginal": "Nominata",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "Nominata",
+      "abstractOriginal": "Nominata",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/8315",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8315",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-07-29T15:03:01Z",
+        "allTitles": [
+          "Nominata"
+        ],
+        "allDescriptions": [
+          "Nominata"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-07-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 4 n. 6 (2016): BoEM; ii",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.170820+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "nominata"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/8316",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "Sumário",
+      "abstractOriginal": "Sumário",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/8316",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8316",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-07-29T15:03:01Z",
+        "allTitles": [
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "Sumário"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-07-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 4 n. 6 (2016): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.170948+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/8991",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Kistemann Jr., Marco Aurélio",
+        "Coutinho, Cileda de Queiroz e Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/8991",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8991",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-12-12T14:16:35Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-12-09"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 1-6",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.174834+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/8992",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Sumário",
+      "titleOriginal": "Sumário",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/8992",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8992",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2016-12-12T14:16:35Z",
+        "allTitles": [
+          "Sumário"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-12-09"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; i-ii",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:08.174964+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "sumário"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/10091",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "DAMAZIO JUNIOR, VALDIR"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/10091",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/10091",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2017-08-01T13:30:12Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-08-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 5 n. 8 (2017): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:12.053971+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/11218",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Damázio Júnior, Valdir"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/11218",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/11218",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-08-23T09:31:29Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-12-04"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 5 n. 9 (2017): BoEM; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:12.055820+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/13494",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial Dossiê Temático - Parte 1",
+      "titleOriginal": "Editorial Dossiê Temático - Parte 1",
+      "titleEn": "",
+      "authors": [
+        "Kistemann Jr., Marco Aurélio",
+        "Silva, Guilherme Henrique Gomes da",
+        "Santos, Luciane Mulazani dos"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/13494",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/13494",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-08-28T11:20:23Z",
+        "allTitles": [
+          "Editorial Dossiê Temático - Parte 1"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-08-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 6 n. 10 (2018): Dossiê Temático: Produtos Educacionais e Educação Matemática - Parte 1; i",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:12.066754+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/13915",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial Dossiê Temático - Parte 2",
+      "titleOriginal": "Editorial Dossiê Temático - Parte 2",
+      "titleEn": "",
+      "authors": [
+        "Kistemann Jr., Marco Aurélio",
+        "Silva, Guilherme Henrique Gomes da",
+        "Santos, Luciane Mulazani dos"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/13915",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/13915",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-10-15T07:59:03Z",
+        "allTitles": [
+          "Editorial Dossiê Temático - Parte 2"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-10-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 6 n. 11 (2018): Dossiê Temático: Produtos Educacionais e Educação Matemática - Parte 2",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:12.067692+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs.pkp.sfu.ca:article/14554",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Mulazani dos Santos, Luciane"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/14554",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/14554",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-12-28T13:30:33Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-12-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 6 n. 12 (2018): BoEM",
+            "2357-724X"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:12.068334+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.5965/2357724x12222024e0001",
+      "journal": "boem",
+      "journalName": "Boletim Online de Educação Matemática",
+      "title": "Editorial: Volume 12, Número 22 (2024)",
+      "titleOriginal": "Editorial: Volume 12, Número 22 (2024)",
+      "titleEn": "",
+      "authors": [
+        "Kistemann Junior, Marco Aurélio",
+        "Canedo Junior, Neil da Rocha",
+        "Santos, Luciane Mulazani dos"
+      ],
+      "institutions": [],
+      "abstract": "Edição Temática: “O uso de vídeos digitais em educação matemática: possibilidades e desafios”.",
+      "abstractOriginal": "Edição Temática: “O uso de vídeos digitais em educação matemática: possibilidades e desafios”.",
+      "abstractEn": "",
+      "keywords": [
+        "Editorial"
+      ],
+      "keywordsOriginal": [
+        "Editorial"
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2024,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.5965/2357724x12222024e0001",
+      "url": "https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0001",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/26393",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistas.udesc.br/index.php/boem/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-10-15T15:50:47Z",
+        "allTitles": [
+          "Editorial: Volume 12, Número 22 (2024)"
+        ],
+        "allDescriptions": [
+          "Edição Temática: “O uso de vídeos digitais em educação matemática: possibilidades e desafios”."
+        ],
+        "allSubjects": [
+          "Editorial"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2024-10-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0001",
+            "2357-724X",
+            "10.5965/2357724X12222024"
+          ],
+          "publishers": [
+            "Universidade do Estado de Santa Catarina"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:50:18.269702+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "oai:oai:ojs.revistas.pucsp.br:article/460",
       "journal": "emp",
       "journalName": "Educação Matemática Pesquisa",
