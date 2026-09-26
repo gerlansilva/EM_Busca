@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "doi:10.20396/zet.v3i4.8646880",
+    "journal": "zetetike",
+    "title": "Resolucion de problemas, evaluacion y enseñanza del calculo",
+    "titleOriginal": "Resolucion de problemas, evaluacion y enseñanza del calculo",
+    "titleEn": "",
+    "authors": [
+      "Diaz, M. Vérónica",
+      "Poblete, Alvaro"
+    ],
+    "institutions": [],
+    "abstract": "En este artculo nos referimos a la importância dada al proceso de resolución de problemas que contempla su clasificación y la evaluación a través de modelos que permiten determinar la habilidad de los estudiantes. Preseta además, diversos hallazgos relacionados com el área del Cálculo Diferecial, como también, lãs preocupacioes por la enseñanza de la Matemática actual y su relación com los estándares curriculares.",
+    "abstractOriginal": "En este artculo nos referimos a la importância dada al proceso de resolución de problemas que contempla su clasificación y la evaluación a través de modelos que permiten determinar la habilidad de los estudiantes. Preseta además, diversos hallazgos relacionados com el área del Cálculo Diferecial, como también, lãs preocupacioes por la enseñanza de la Matemática actual y su relación com los estándares curriculares.",
+    "abstractEn": "This article refers to the importance given to solving problems which involves its classification and evaluation through models which permit developing the students ability. In addition, various findings in relation to Differential Calculus as well as concerns about mathematics teaching at present and it is relations to curricular standards are present.",
+    "keywords": [
+      "Avaliação",
+      "Ensino de Cálculo",
+      "Resolução de problemas"
+    ],
+    "keywordsOriginal": [
+      "Avaliação",
+      "Ensino de Cálculo",
+      "Resolução de problemas"
+    ],
+    "keywordsEn": [
+      "Problem Solving; Assesment; Calculus Teaching"
+    ],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i4.8646880",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646880",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646880",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:45:50Z",
+      "allTitles": [
+        "Resolucion de problemas, evaluacion y enseñanza del calculo",
+        "Resolucion de problemas, evaluacion y enseñanza del calculo"
+      ],
+      "allDescriptions": [
+        "This article refers to the importance given to solving problems which involves its classification and evaluation through models which permit developing the students ability. In addition, various findings in relation to Differential Calculus as well as concerns about mathematics teaching at present and it is relations to curricular standards are present.",
+        "En este artculo nos referimos a la importância dada al proceso de resolución de problemas que contempla su clasificación y la evaluación a través de modelos que permiten determinar la habilidad de los estudiantes. Preseta además, diversos hallazgos relacionados com el área del Cálculo Diferecial, como también, lãs preocupacioes por la enseñanza de la Matemática actual y su relación com los estándares curriculares."
+      ],
+      "allSubjects": [
+        "Avaliação",
+        "Ensino de Cálculo",
+        "Resolução de problemas",
+        "Problem Solving; Assesment; Calculus Teaching"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-11-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Text",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 1 (1995): jan./jun. [3]; 51-60",
+          "Zetetike; Vol. 3 Núm. 1 (1995): jan./jun. [3]; 51-60",
+          "Zetetike; v. 3 n. 1 (1995): jan./jun. [3]; 51-60",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.883965+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i4.8646879",
+    "journal": "zetetike",
+    "title": "Retrospectiva histórica e perspectiva atuais da análise de erros em Educação Matemática",
+    "titleOriginal": "Retrospectiva histórica e perspectiva atuais da análise de erros em Educação Matemática",
+    "titleEn": "",
+    "authors": [
+      "Cury, Helena Noronha"
+    ],
+    "institutions": [],
+    "abstract": "O presente antigo apresenta uma retrospectiva histórica da análise de erros em Educação Matemática, apontadas as diversas fases, a saber: as investigações apoiadas no behaviorismo, no processamento da informação e no construtivismo. Na primeira fase, as pesquisas procuravam, principalmente, classificar os tipos de erros cometidos por alunos dos primeiros anos escolares. Sob a ótica do processamento da informação, foram desenvolvidos programas de computador para detectar padrões de erros. Já sob a perspectiva construtivista, os investigadores destacam o papel do erro na construção do conhecimento. Entre os pesquisadores que se dedicam, atualmente, à análise de erros, encontramos Raffaella Borasi, que apresenta várias alternativas para o uso dos erros, segundo o objetivo didático e o foco de interesse do investigador. A partir do esquema de Borasi, são apresentados exemplos de uso dos erros no ensino de Cálculo Diferencial e Integral.",
+    "abstractOriginal": "O presente antigo apresenta uma retrospectiva histórica da análise de erros em Educação Matemática, apontadas as diversas fases, a saber: as investigações apoiadas no behaviorismo, no processamento da informação e no construtivismo. Na primeira fase, as pesquisas procuravam, principalmente, classificar os tipos de erros cometidos por alunos dos primeiros anos escolares. Sob a ótica do processamento da informação, foram desenvolvidos programas de computador para detectar padrões de erros. Já sob a perspectiva construtivista, os investigadores destacam o papel do erro na construção do conhecimento. Entre os pesquisadores que se dedicam, atualmente, à análise de erros, encontramos Raffaella Borasi, que apresenta várias alternativas para o uso dos erros, segundo o objetivo didático e o foco de interesse do investigador. A partir do esquema de Borasi, são apresentados exemplos de uso dos erros no ensino de Cálculo Diferencial e Integral.",
+    "abstractEn": "The presente article offers a historical retrospective of error analysis in Mathematics Education, pointing out different phases, which are: investigations based on behaviorism, on information processing and on constructivism. In the first phase, the research aimed, mainly, to classify the types of errors made by students in the early school years. Computer programs have been developed to detect patterns of errors under the information processing point of view. According to the constructive approach researches enhance the role of the error in the building of knowledge. Among the researchers that are nowadays dedicated to Error analysis we find Raffaella Borasi, presents several Alternatives for the use of errors, according to the researcher’s Didactic poupose and focus of interest. From Borasi’s scheme, examples of use errors in the teaching of differential and Integral calculus are discussed.",
+    "keywords": [
+      "Análise de erros",
+      "Avaliação",
+      "Ensino de Matemática"
+    ],
+    "keywordsOriginal": [
+      "Análise de erros",
+      "Avaliação",
+      "Ensino de Matemática"
+    ],
+    "keywordsEn": [
+      "Error analysis; Assessment; Mathematics teaching"
+    ],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i4.8646879",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646879",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646879",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:45:50Z",
+      "allTitles": [
+        "Retrospectiva histórica e perspectiva atuais da análise de erros em Educação Matemática",
+        "Retrospectiva histórica e perspectiva atuais da análise de erros em Educação Matemática"
+      ],
+      "allDescriptions": [
+        "The presente article offers a historical retrospective of error analysis in Mathematics Education, pointing out different phases, which are: investigations based on behaviorism, on information processing and on constructivism. In the first phase, the research aimed, mainly, to classify the types of errors made by students in the early school years. Computer programs have been developed to detect patterns of errors under the information processing point of view. According to the constructive approach researches enhance the role of the error in the building of knowledge. Among the researchers that are nowadays dedicated to Error analysis we find Raffaella Borasi, presents several Alternatives for the use of errors, according to the researcher’s Didactic poupose and focus of interest. From Borasi’s scheme, examples of use errors in the teaching of differential and Integral calculus are discussed.",
+        "O presente antigo apresenta uma retrospectiva histórica da análise de erros em Educação Matemática, apontadas as diversas fases, a saber: as investigações apoiadas no behaviorismo, no processamento da informação e no construtivismo. Na primeira fase, as pesquisas procuravam, principalmente, classificar os tipos de erros cometidos por alunos dos primeiros anos escolares. Sob a ótica do processamento da informação, foram desenvolvidos programas de computador para detectar padrões de erros. Já sob a perspectiva construtivista, os investigadores destacam o papel do erro na construção do conhecimento. Entre os pesquisadores que se dedicam, atualmente, à análise de erros, encontramos Raffaella Borasi, que apresenta várias alternativas para o uso dos erros, segundo o objetivo didático e o foco de interesse do investigador. A partir do esquema de Borasi, são apresentados exemplos de uso dos erros no ensino de Cálculo Diferencial e Integral."
+      ],
+      "allSubjects": [
+        "Error analysis; Assessment; Mathematics teaching",
+        "Análise de erros",
+        "Avaliação",
+        "Ensino de Matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-11-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Text",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 1 (1995): jan./jun. [3]; 39-50",
+          "Zetetike; Vol. 3 Núm. 1 (1995): jan./jun. [3]; 39-50",
+          "Zetetike; v. 3 n. 1 (1995): jan./jun. [3]; 39-50",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.883528+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i4.8646877",
+    "journal": "zetetike",
+    "title": "Alguns modos de ver e conceber o ensino da matemática no Brasil",
+    "titleOriginal": "Alguns modos de ver e conceber o ensino da matemática no Brasil",
+    "titleEn": "",
+    "authors": [
+      "Fiorentini, Dario"
+    ],
+    "institutions": [],
+    "abstract": "Este artigo pretende descrever alguns modos, historicamente produzidos, de ver e conceber o ensino da Matemática no Brasil. As categorias descritivas utilizadas neste estudo foram: a concepção de Matemática; a concepção do modo como se processa a obtenção/produção do conhecimento matemático; os fins e os valores atribuídos ao ensino da Matemática; as concepções de ensino e de aprendizagem; a cosmovisão subjacente; a relação professor-aluno e a perspectiva de estudo/pesquisa visando à melhoria do ensino da matemática. Com base nessas categorias identificamos e descrevemos seis tendências: a formalista clássica; a empírico-ativista; a formalista modera tecnicista e suas variações; a construtivistas e a sócioetnoculturalista.",
+    "abstractOriginal": "Este artigo pretende descrever alguns modos, historicamente produzidos, de ver e conceber o ensino da Matemática no Brasil. As categorias descritivas utilizadas neste estudo foram: a concepção de Matemática; a concepção do modo como se processa a obtenção/produção do conhecimento matemático; os fins e os valores atribuídos ao ensino da Matemática; as concepções de ensino e de aprendizagem; a cosmovisão subjacente; a relação professor-aluno e a perspectiva de estudo/pesquisa visando à melhoria do ensino da matemática. Com base nessas categorias identificamos e descrevemos seis tendências: a formalista clássica; a empírico-ativista; a formalista modera tecnicista e suas variações; a construtivistas e a sócioetnoculturalista.",
+    "abstractEn": "",
+    "keywords": [
+      "Tendências em educação matemática",
+      "Concepções em educação matemática",
+      "Filosofia da educação matemática",
+      "História do ensino da matemática"
+    ],
+    "keywordsOriginal": [
+      "Tendências em educação matemática",
+      "Concepções em educação matemática",
+      "Filosofia da educação matemática",
+      "História do ensino da matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i4.8646877",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646877",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646877",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:45:50Z",
+      "allTitles": [
+        "Alguns modos de ver e conceber o ensino da matemática no Brasil",
+        "Alguns modos de ver e conceber o ensino da matemática no Brasil"
+      ],
+      "allDescriptions": [
+        "Este artigo pretende descrever alguns modos, historicamente produzidos, de ver e conceber o ensino da Matemática no Brasil. As categorias descritivas utilizadas neste estudo foram: a concepção de Matemática; a concepção do modo como se processa a obtenção/produção do conhecimento matemático; os fins e os valores atribuídos ao ensino da Matemática; as concepções de ensino e de aprendizagem; a cosmovisão subjacente; a relação professor-aluno e a perspectiva de estudo/pesquisa visando à melhoria do ensino da matemática. Com base nessas categorias identificamos e descrevemos seis tendências: a formalista clássica; a empírico-ativista; a formalista modera tecnicista e suas variações; a construtivistas e a sócioetnoculturalista.",
+        "Este artigo pretende descrever alguns modos, historicamente produzidos, de ver e conceber o ensino da Matemática no Brasil. As categorias descritivas utilizadas neste estudo foram: a concepção de Matemática; a concepção do modo como se processa a obtenção/produção do conhecimento matemático; os fins e os valores atribuídos ao ensino da Matemática; as concepções de ensino e de aprendizagem; a cosmovisão subjacente; a relação professor-aluno e a perspectiva de estudo/pesquisa visando à melhoria do ensino da matemática. Com base nessas categorias identificamos e descrevemos seis tendências: a formalista clássica; a empírico-ativista; a formalista modera tecnicista e suas variações; a construtivistas e a sócioetnoculturalista."
+      ],
+      "allSubjects": [
+        "Tendências em educação matemática",
+        "Concepções em educação matemática",
+        "Filosofia da educação matemática",
+        "História do ensino da matemática",
+        "Tendências em educação matemática",
+        "Filosofia da educação matemática",
+        "Concepções em educação matemática",
+        "História do ensino da matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-11-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 1 (1995): jan./jun. [3]; 1-38",
+          "Zetetike; Vol. 3 Núm. 1 (1995): jan./jun. [3]; 1-38",
+          "Zetetike; v. 3 n. 1 (1995): jan./jun. [3]; 1-38",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.883009+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646915",
+    "journal": "zetetike",
+    "title": "Normas e Assinatura",
+    "titleOriginal": "Normas e Assinatura",
+    "titleEn": "",
+    "authors": [
+      "CEMPEM, Centro de Estudos Memória e Pesquisa em Educação Matemática"
+    ],
+    "institutions": [],
+    "abstract": "Normas gerais de publicação de trabalho.",
+    "abstractOriginal": "Normas gerais de publicação de trabalho.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática",
+      "Normas e assinaturas"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Normas e assinaturas"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646915",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646915",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646915",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Normas e Assinatura",
+        "Normas e Assinatura"
+      ],
+      "allDescriptions": [
+        "Normas gerais de publicação de trabalho.",
+        "Normas gerais de publicação de trabalho."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Normas e assinaturas",
+        "Educação matemática",
+        "Normas e assinaturas"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Artigo avaliado pelos Pares",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.030311+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646913",
+    "journal": "zetetike",
+    "title": "Reconstrução de conceitos: uso de disparadores no estudo de funções",
+    "titleOriginal": "Reconstrução de conceitos: uso de disparadores no estudo de funções",
+    "titleEn": "",
+    "authors": [
+      "Carneiro, Vera Clotilde Garcia"
+    ],
+    "institutions": [],
+    "abstract": "Este texto apresenta um relato de experiência no ensino dos conceitos básicos do pré-cálculo para alunos de 1º semestre do curso de Licenciatura em Matemática. O objetivo foi reconstruir tais conceitos, de forma justificada. Para isso, foram propostos problemas de aplicação, chamados de “disparadores do ensino”, que poderiam ser resolvidos pelos alunos com conhecimento já possuído e que serviram para introduzir temas. Paralelamente, relatamos o uso de outros recursos didáticos para favorecer o interesse e a participação dos estudantes, tais como visitas a laboratório e bibliotecas das outras ciências, entrevistas com profissionais de outras áreas, exposições orais e em posters de trabalhos de pesquisa, uso de softwares, materiais concretos e jogos etc. A experiência foi construída e cresceu em sala de aula à medida que ocorriam as observações diárias e se faziam a análise das respostas e dos erros dos sujeitos. O resultado foi proveitoso não só pelos conteúdos aprendidos mas também pela contribuição dada à formação de um futuro professor de Matemática mais dinâmico, criativo e interdisciplinar.",
+    "abstractOriginal": "Este texto apresenta um relato de experiência no ensino dos conceitos básicos do pré-cálculo para alunos de 1º semestre do curso de Licenciatura em Matemática. O objetivo foi reconstruir tais conceitos, de forma justificada. Para isso, foram propostos problemas de aplicação, chamados de “disparadores do ensino”, que poderiam ser resolvidos pelos alunos com conhecimento já possuído e que serviram para introduzir temas. Paralelamente, relatamos o uso de outros recursos didáticos para favorecer o interesse e a participação dos estudantes, tais como visitas a laboratório e bibliotecas das outras ciências, entrevistas com profissionais de outras áreas, exposições orais e em posters de trabalhos de pesquisa, uso de softwares, materiais concretos e jogos etc. A experiência foi construída e cresceu em sala de aula à medida que ocorriam as observações diárias e se faziam a análise das respostas e dos erros dos sujeitos. O resultado foi proveitoso não só pelos conteúdos aprendidos mas também pela contribuição dada à formação de um futuro professor de Matemática mais dinâmico, criativo e interdisciplinar.",
+    "abstractEn": "This paper reports to na experience on teachig the basic pré-calculus concepts to future mathematics teacher on the beginning of their course. The intention was to (re)construct these concepts in a justified manner. In order to do that we propose application problems, called “teaching shootigs”, that could be solved by the own students based on their previous knowledge and were used to introduce new themes. Simultaneously we relate the usage of parallel didactics recourses to favor the student’s interest and participation, such as visits to other science laboratories an libraries, enterviews with other areas professionals, use of computational softwares, concrete materials ad games, oral and visual public expositions etc. Here we explain how the experience was built and grew up inside the classroom as consequence of the diary observations ad from the answers ad mistakes analysis. It had a good result not only because the amount of subjects learned but also because the contribution given to this future teacher apprendiceship, which can help him to be dynamic, creative and interdisciplinarian mathematics teacher.",
+    "keywords": [
+      "Educação matemática",
+      "Funções"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Funções"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646913",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646913",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646913",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Reconstrução de conceitos: uso de disparadores no estudo de funções",
+        "Reconstrução de conceitos: uso de disparadores no estudo de funções"
+      ],
+      "allDescriptions": [
+        "This paper reports to na experience on teachig the basic pré-calculus concepts to future mathematics teacher on the beginning of their course. The intention was to (re)construct these concepts in a justified manner. In order to do that we propose application problems, called “teaching shootigs”, that could be solved by the own students based on their previous knowledge and were used to introduce new themes. Simultaneously we relate the usage of parallel didactics recourses to favor the student’s interest and participation, such as visits to other science laboratories an libraries, enterviews with other areas professionals, use of computational softwares, concrete materials ad games, oral and visual public expositions etc. Here we explain how the experience was built and grew up inside the classroom as consequence of the diary observations ad from the answers ad mistakes analysis. It had a good result not only because the amount of subjects learned but also because the contribution given to this future teacher apprendiceship, which can help him to be dynamic, creative and interdisciplinarian mathematics teacher.",
+        "Este texto apresenta um relato de experiência no ensino dos conceitos básicos do pré-cálculo para alunos de 1º semestre do curso de Licenciatura em Matemática. O objetivo foi reconstruir tais conceitos, de forma justificada. Para isso, foram propostos problemas de aplicação, chamados de “disparadores do ensino”, que poderiam ser resolvidos pelos alunos com conhecimento já possuído e que serviram para introduzir temas. Paralelamente, relatamos o uso de outros recursos didáticos para favorecer o interesse e a participação dos estudantes, tais como visitas a laboratório e bibliotecas das outras ciências, entrevistas com profissionais de outras áreas, exposições orais e em posters de trabalhos de pesquisa, uso de softwares, materiais concretos e jogos etc. A experiência foi construída e cresceu em sala de aula à medida que ocorriam as observações diárias e se faziam a análise das respostas e dos erros dos sujeitos. O resultado foi proveitoso não só pelos conteúdos aprendidos mas também pela contribuição dada à formação de um futuro professor de Matemática mais dinâmico, criativo e interdisciplinar."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Funções",
+        "Educação matemática",
+        "Funções"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 105-113",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 105-113",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 105-113",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.029850+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646912",
+    "journal": "zetetike",
+    "title": "Algumas considerações sobre um processo de pesquisa coletiva em educação matemática",
+    "titleOriginal": "Algumas considerações sobre um processo de pesquisa coletiva em educação matemática",
+    "titleEn": "",
+    "authors": [
+      "Pais, Luis Carlos"
+    ],
+    "institutions": [],
+    "abstract": "O artigo relata a experiência de um grupo de professores franceses que desenvolve pesquisa na área de Educação Matemática. Sua metodologia de trabalho se fundamenta numa ação coletiva da equipe e é concebida com base num princípio de existência de uma forte relação dialética entre a pesquisa educacional e o processo de formação continuada de professores continuada de professores de Matemática.",
+    "abstractOriginal": "O artigo relata a experiência de um grupo de professores franceses que desenvolve pesquisa na área de Educação Matemática. Sua metodologia de trabalho se fundamenta numa ação coletiva da equipe e é concebida com base num princípio de existência de uma forte relação dialética entre a pesquisa educacional e o processo de formação continuada de professores continuada de professores de Matemática.",
+    "abstractEn": "This paper describes the experience of a group of french who carries research in Mathematical Education. The methodology is based in a collective action of the team and is conceive from the existence of a strong dialects relation between the research and the continuous training of secondary school teachers of Mathematics.",
+    "keywords": [
+      "Educação matemática",
+      "Formação continuada de professores"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Formação continuada de professores"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646912",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646912",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646912",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Algumas considerações sobre um processo de pesquisa coletiva em educação matemática",
+        "Algumas considerações sobre um processo de pesquisa coletiva em educação matemática"
+      ],
+      "allDescriptions": [
+        "This paper describes the experience of a group of french who carries research in Mathematical Education. The methodology is based in a collective action of the team and is conceive from the existence of a strong dialects relation between the research and the continuous training of secondary school teachers of Mathematics.",
+        "O artigo relata a experiência de um grupo de professores franceses que desenvolve pesquisa na área de Educação Matemática. Sua metodologia de trabalho se fundamenta numa ação coletiva da equipe e é concebida com base num princípio de existência de uma forte relação dialética entre a pesquisa educacional e o processo de formação continuada de professores continuada de professores de Matemática."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Formação continuada de professores",
+        "Educação matemática",
+        "Formação continuada de professores"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 97-104",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 97-104",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 97-104",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.029355+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646911",
+    "journal": "zetetike",
+    "title": "Ensino remedial em recuperação paralela",
+    "titleOriginal": "Ensino remedial em recuperação paralela",
+    "titleEn": "",
+    "authors": [
+      "Baldino, Roberto Ribeiro"
+    ],
+    "institutions": [],
+    "abstract": "O objetivo deste artigo é utilizar a teoria psicanalítica para sustentar as seguintes teses: 1. As dificuldades especiais dos alunos em cálculo não podem ser explicadas nem resolvidas considerando-se apenas os registros imaginário (crenças) e simbólico (afirmações enquanto enunciados), mas exigem que se leve em conta, no registro real, a organização do gozo que rege a escolha das justificações enquanto enunciações. 2. A psicanálise fornece elementos para orientar o ensino remedial. 3.O relato da prática e a teorização disponível do ensino remedial são suficientes para incluí-lo como objeto de estudo na formação do professor. Como conteúdo de sustentação dessa tese apresentamos o relato de uma sessão de recuperação paralela de cálculo I, na qual o ensino remedial que se fez necessário terminou mostrando um fenômeno de repetição na passagem de um campo semântico a outro. Como colorários, mostramos: 1) Um contrato de trabalho adequado pode trazer para a recuperação paralela alunos com dificuldades especiais em número compatível com a capacidade de atendimento da Instituição. 2) As dificuldades especiais de alunos em cálculo são mais graves e a tarefa docente de orientação de ensino remedial é mais difícil do que a Instituição reconhece. 3) A orientação do ensino remedial não precisa ser feita por docente que esteja ministrando disciplina ao aluno.",
+    "abstractOriginal": "O objetivo deste artigo é utilizar a teoria psicanalítica para sustentar as seguintes teses: 1. As dificuldades especiais dos alunos em cálculo não podem ser explicadas nem resolvidas considerando-se apenas os registros imaginário (crenças) e simbólico (afirmações enquanto enunciados), mas exigem que se leve em conta, no registro real, a organização do gozo que rege a escolha das justificações enquanto enunciações. 2. A psicanálise fornece elementos para orientar o ensino remedial. 3.O relato da prática e a teorização disponível do ensino remedial são suficientes para incluí-lo como objeto de estudo na formação do professor. Como conteúdo de sustentação dessa tese apresentamos o relato de uma sessão de recuperação paralela de cálculo I, na qual o ensino remedial que se fez necessário terminou mostrando um fenômeno de repetição na passagem de um campo semântico a outro. Como colorários, mostramos: 1) Um contrato de trabalho adequado pode trazer para a recuperação paralela alunos com dificuldades especiais em número compatível com a capacidade de atendimento da Instituição. 2) As dificuldades especiais de alunos em cálculo são mais graves e a tarefa docente de orientação de ensino remedial é mais difícil do que a Instituição reconhece. 3) A orientação do ensino remedial não precisa ser feita por docente que esteja ministrando disciplina ao aluno.",
+    "abstractEn": "In this paper we seek to use Lacan’s theory of desire in order to justify the following thesis: 1. Special difficulties of students in calculus courses can neither be explained or solved by only considering the imaginary (beliefs) and symbolic (statements) registers. They require taking into account the juissance organization in the real register that regulates the choice of justifications. 2. Psychoanlysis provides elements for effective organization of remedial teaching. 3. The theorectical elements and reports from classroom practices already available, are sufficient in order to include remedial teaching as an object of study in teacher’s formation courses. As a method for sustaining these thesis we present the report of a tutorial session for freshmen calculus student where remendial teaching indicates a phenomenon of repetition in the passage from one semantic field to another. As corollaries we show: 1) an adequate work contract can bring a number of students to tutorial sessions, compatible with the available teaching facilities. 2) Special difficulties of calculus students are ore serious and the teaching task is more difficult than it is generally admitted by the Istitution. 3) The tutorial teaching does not have to be carried out by the same teacher of the regular curse",
+    "keywords": [
+      "Educação matemática",
+      "Ensino remedial"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Ensino remedial"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646911",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646911",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646911",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Ensino remedial em recuperação paralela",
+        "Ensino remedial em recuperação paralela"
+      ],
+      "allDescriptions": [
+        "In this paper we seek to use Lacan’s theory of desire in order to justify the following thesis: 1. Special difficulties of students in calculus courses can neither be explained or solved by only considering the imaginary (beliefs) and symbolic (statements) registers. They require taking into account the juissance organization in the real register that regulates the choice of justifications. 2. Psychoanlysis provides elements for effective organization of remedial teaching. 3. The theorectical elements and reports from classroom practices already available, are sufficient in order to include remedial teaching as an object of study in teacher’s formation courses. As a method for sustaining these thesis we present the report of a tutorial session for freshmen calculus student where remendial teaching indicates a phenomenon of repetition in the passage from one semantic field to another. As corollaries we show: 1) an adequate work contract can bring a number of students to tutorial sessions, compatible with the available teaching facilities. 2) Special difficulties of calculus students are ore serious and the teaching task is more difficult than it is generally admitted by the Istitution. 3) The tutorial teaching does not have to be carried out by the same teacher of the regular curse",
+        "O objetivo deste artigo é utilizar a teoria psicanalítica para sustentar as seguintes teses: 1. As dificuldades especiais dos alunos em cálculo não podem ser explicadas nem resolvidas considerando-se apenas os registros imaginário (crenças) e simbólico (afirmações enquanto enunciados), mas exigem que se leve em conta, no registro real, a organização do gozo que rege a escolha das justificações enquanto enunciações. 2. A psicanálise fornece elementos para orientar o ensino remedial. 3.O relato da prática e a teorização disponível do ensino remedial são suficientes para incluí-lo como objeto de estudo na formação do professor. Como conteúdo de sustentação dessa tese apresentamos o relato de uma sessão de recuperação paralela de cálculo I, na qual o ensino remedial que se fez necessário terminou mostrando um fenômeno de repetição na passagem de um campo semântico a outro. Como colorários, mostramos: 1) Um contrato de trabalho adequado pode trazer para a recuperação paralela alunos com dificuldades especiais em número compatível com a capacidade de atendimento da Instituição. 2) As dificuldades especiais de alunos em cálculo são mais graves e a tarefa docente de orientação de ensino remedial é mais difícil do que a Instituição reconhece. 3) A orientação do ensino remedial não precisa ser feita por docente que esteja ministrando disciplina ao aluno."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Ensino remedial",
+        "Educação matemática",
+        "Ensino remedial"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 73-96",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 73-96",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 73-96",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.028909+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646910",
+    "journal": "zetetike",
+    "title": "Formalização e intuição no contexto do conhecimento, do ensino e da atuação social",
+    "titleOriginal": "Formalização e intuição no contexto do conhecimento, do ensino e da atuação social",
+    "titleEn": "",
+    "authors": [
+      "Soares, Eliana Maria do Sacramento"
+    ],
+    "institutions": [],
+    "abstract": "Pode-se traçar alguns paralelos entre a formalização e a intuição. A intuição é um ponto de partida para o acesso à realidade. No entanto, é desejável fazer uso do raciocínio dedutivo da formalização para fundamentar e complementar as conclusões de um pensamento intuitivo. O ensino das bases do método dedutivo e a valorização das idéias intuitivas são, dessa maneira, fundamentais em qualquer grau de ensino.",
+    "abstractOriginal": "Pode-se traçar alguns paralelos entre a formalização e a intuição. A intuição é um ponto de partida para o acesso à realidade. No entanto, é desejável fazer uso do raciocínio dedutivo da formalização para fundamentar e complementar as conclusões de um pensamento intuitivo. O ensino das bases do método dedutivo e a valorização das idéias intuitivas são, dessa maneira, fundamentais em qualquer grau de ensino.",
+    "abstractEn": "Some parallel lines may be drawn between formalization and intuition. Intuition is a starting point for accessing reality. However, it is desirable to make use of the deductive reasoning of formalization to base and complement the conclusions of intuitive thought. The teaching of the bases of the bases of the deductive method and evaluation of intuitive ideas are, thus, fundamental I every education level.",
+    "keywords": [
+      "Educação matemática",
+      "Intuição"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Intuição"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646910",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646910",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646910",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Formalização e intuição no contexto do conhecimento, do ensino e da atuação social",
+        "Formalização e intuição no contexto do conhecimento, do ensino e da atuação social"
+      ],
+      "allDescriptions": [
+        "Some parallel lines may be drawn between formalization and intuition. Intuition is a starting point for accessing reality. However, it is desirable to make use of the deductive reasoning of formalization to base and complement the conclusions of intuitive thought. The teaching of the bases of the bases of the deductive method and evaluation of intuitive ideas are, thus, fundamental I every education level.",
+        "Pode-se traçar alguns paralelos entre a formalização e a intuição. A intuição é um ponto de partida para o acesso à realidade. No entanto, é desejável fazer uso do raciocínio dedutivo da formalização para fundamentar e complementar as conclusões de um pensamento intuitivo. O ensino das bases do método dedutivo e a valorização das idéias intuitivas são, dessa maneira, fundamentais em qualquer grau de ensino."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Intuição",
+        "Educação matemática",
+        "Intuição"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 63-72",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 63-72",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 63-72",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.028390+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646909",
+    "journal": "zetetike",
+    "title": "História, sensos matemáticos e constructos reflexivos matemáticos: questões sobre educação matemática",
+    "titleOriginal": "História, sensos matemáticos e constructos reflexivos matemáticos: questões sobre educação matemática",
+    "titleEn": "",
+    "authors": [
+      "Souza, Antonio Carlos Carrera de"
+    ],
+    "institutions": [],
+    "abstract": "Este artigo busca na História da Matemática, Psicologia e Antropologia os fundamentos para estabelecer um paradigma epistemológico para a Educação Matemática. Propõe que, através dos Sensos Matemáticos e dos Constructos Reflexivos Matemáticos, recupera-se historicamente a abordagem externalista em contraposição à abordagem internalista da Matemática. Para tanto, indica que a ciência é entendida como a sensata experiência acompanhada da matematização necessária.",
+    "abstractOriginal": "Este artigo busca na História da Matemática, Psicologia e Antropologia os fundamentos para estabelecer um paradigma epistemológico para a Educação Matemática. Propõe que, através dos Sensos Matemáticos e dos Constructos Reflexivos Matemáticos, recupera-se historicamente a abordagem externalista em contraposição à abordagem internalista da Matemática. Para tanto, indica que a ciência é entendida como a sensata experiência acompanhada da matematização necessária.",
+    "abstractEn": "This paper seeks for the foundations in the History of Mathematics, Psycology and Antropology in order to establish an epistemological paradigm for Mathematical Education. The purpose is to show that it’s possible to restore historically the external approach in contraposition to the internal approach, by using the Mathematical Senses and Mathematical Reflexive Constructs. Therefore, we indicate that science should be taken as the sober experience followed by the necessary “mathematization”.",
+    "keywords": [
+      "Educação matemática",
+      "Constructos Reflexivos Matemáticos"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Constructos Reflexivos Matemáticos"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646909",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646909",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646909",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "História, sensos matemáticos e constructos reflexivos matemáticos: questões sobre educação matemática",
+        "História, sensos matemáticos e constructos reflexivos matemáticos: questões sobre educação matemática"
+      ],
+      "allDescriptions": [
+        "This paper seeks for the foundations in the History of Mathematics, Psycology and Antropology in order to establish an epistemological paradigm for Mathematical Education. The purpose is to show that it’s possible to restore historically the external approach in contraposition to the internal approach, by using the Mathematical Senses and Mathematical Reflexive Constructs. Therefore, we indicate that science should be taken as the sober experience followed by the necessary “mathematization”.",
+        "Este artigo busca na História da Matemática, Psicologia e Antropologia os fundamentos para estabelecer um paradigma epistemológico para a Educação Matemática. Propõe que, através dos Sensos Matemáticos e dos Constructos Reflexivos Matemáticos, recupera-se historicamente a abordagem externalista em contraposição à abordagem internalista da Matemática. Para tanto, indica que a ciência é entendida como a sensata experiência acompanhada da matematização necessária."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Constructos Reflexivos Matemáticos",
+        "Educação matemática",
+        "Constructos reflexivos matemáticos"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 41-62",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 41-62",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 41-62",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.027928+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646908",
+    "journal": "zetetike",
+    "title": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleOriginal": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleEn": "",
+    "authors": [
+      "Miguel, Antonio"
+    ],
+    "institutions": [],
+    "abstract": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractOriginal": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractEn": "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646908",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646908",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646908",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática"
+      ],
+      "allDescriptions": [
+        "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+        "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 7-40",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.027459+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646907",
+    "journal": "zetetike",
+    "title": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleOriginal": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleEn": "",
+    "authors": [
+      "Miguel, Antonio"
+    ],
+    "institutions": [],
+    "abstract": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractOriginal": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractEn": "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646907",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646907",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646907",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática"
+      ],
+      "allDescriptions": [
+        "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+        "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 7-40",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.026998+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v3i3.8646906",
+    "journal": "zetetike",
+    "title": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleOriginal": "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+    "titleEn": "",
+    "authors": [
+      "Miguel, Antonio"
+    ],
+    "institutions": [],
+    "abstract": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractOriginal": "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática.",
+    "abstractEn": "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_provided",
+    "year": 1995,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v3i3.8646906",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646906",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646906",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:46:39Z",
+      "allTitles": [
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática",
+        "Constituição do Paradigma do Formalismo Pedagógico Clássico em Educação Matemática"
+      ],
+      "allDescriptions": [
+        "The aim of this paper is to show the classical pedagogic formalism paradigm has been constituted in the light of four analytic categories as fallows: the conception of mathematics underlying the paradigm; the conception of the aims of mathematical education and of the values it is supposed to promote; the conception of the way the learner can acquire mathematical knowledge and the conception of the teaching method in mathematics.",
+        "O propósito deste artigo é mostrar o modo como se constituí o Paradigma do Formalismo Pedagógico Clássico em Educação Matemática, à luz das quatro categorias seguintes de análise: a concepção de matemática subjacente ao paradigma; a concepção dos fins da Educação Matemática e dos valores por ela a serem promovidos; a concepção do modo como o aprendiz te acesso ao conhecimento matemático e a concepção do método de Ensino de Matemática."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1995-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 3 No. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; Vol. 3 Núm. 2 (1995): jul./dez. [4]; 7-40",
+          "Zetetike; v. 3 n. 2 (1995): jul./dez. [4]; 7-40",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.026527+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646928",
+    "journal": "zetetike",
+    "title": "Uma aplicação do conceito de simetria axial plana visando um ensino interdisciplinar",
+    "titleOriginal": "Uma aplicação do conceito de simetria axial plana visando um ensino interdisciplinar",
+    "titleEn": "",
+    "authors": [
+      "Kaleff, Ana Maria Martesen Roland"
+    ],
+    "institutions": [],
+    "abstract": "h",
+    "abstractOriginal": "h",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646928",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646928",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646928",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Uma aplicação do conceito de simetria axial plana visando um ensino interdisciplinar",
+        "Uma aplicação do conceito de simetria axial plana visando um ensino interdisciplinar"
+      ],
+      "allDescriptions": [
+        "h"
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 85-91",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 85-91",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 85-91",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.035390+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646927",
+    "journal": "zetetike",
+    "title": "A concepção de matemática de Augusto Comte",
+    "titleOriginal": "A concepção de matemática de Augusto Comte",
+    "titleEn": "",
+    "authors": [
+      "Silva, Circe Mary Silva da"
+    ],
+    "institutions": [],
+    "abstract": "Uma análise da concepção de Matemática segundo Comte só é possível dentro do contexto de sua Filosofia. Comte não pensa em Matemática de forma dissociada de sua concepção filosófica. Ele tentou realizar e sua obra Filosofia Positiva (1830-1842) a síntese dos conhecimentos positivos de sua época. Estudando cada ciência em seus princípios, regras e artifícios particulares, sistematizou o que havia em comum entre os métodos e os princípios. A maioria dos autores que analisam a obra de Comte esquecem que ou não levam em conta um aspecto fundamental desta obra, que é o fato de que Comte tinha em vista uma meta social. A Filosofia Positiva é uma resposta à pergunta - qual é o princípio que deve orientar uma sociedade organizada? A Filosofia Positiva é considerada por Comte como a única base sólida da reorganização social. Para ele, a divulgação e propagação da Filosofia P´ositiva deveria servir para uma radical renovação do conjunto do sistema de ensino, do qual a formação científica constituiria a base.",
+    "abstractOriginal": "Uma análise da concepção de Matemática segundo Comte só é possível dentro do contexto de sua Filosofia. Comte não pensa em Matemática de forma dissociada de sua concepção filosófica. Ele tentou realizar e sua obra Filosofia Positiva (1830-1842) a síntese dos conhecimentos positivos de sua época. Estudando cada ciência em seus princípios, regras e artifícios particulares, sistematizou o que havia em comum entre os métodos e os princípios. A maioria dos autores que analisam a obra de Comte esquecem que ou não levam em conta um aspecto fundamental desta obra, que é o fato de que Comte tinha em vista uma meta social. A Filosofia Positiva é uma resposta à pergunta - qual é o princípio que deve orientar uma sociedade organizada? A Filosofia Positiva é considerada por Comte como a única base sólida da reorganização social. Para ele, a divulgação e propagação da Filosofia P´ositiva deveria servir para uma radical renovação do conjunto do sistema de ensino, do qual a formação científica constituiria a base.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646927",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646927",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646927",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "A concepção de matemática de Augusto Comte",
+        "A concepção de matemática de Augusto Comte"
+      ],
+      "allDescriptions": [
+        "Uma análise da concepção de Matemática segundo Comte só é possível dentro do contexto de sua Filosofia. Comte não pensa em Matemática de forma dissociada de sua concepção filosófica. Ele tentou realizar e sua obra Filosofia Positiva (1830-1842) a síntese dos conhecimentos positivos de sua época. Estudando cada ciência em seus princípios, regras e artifícios particulares, sistematizou o que havia em comum entre os métodos e os princípios. A maioria dos autores que analisam a obra de Comte esquecem que ou não levam em conta um aspecto fundamental desta obra, que é o fato de que Comte tinha em vista uma meta social. A Filosofia Positiva é uma resposta à pergunta - qual é o princípio que deve orientar uma sociedade organizada? A Filosofia Positiva é considerada por Comte como a única base sólida da reorganização social. Para ele, a divulgação e propagação da Filosofia P´ositiva deveria servir para uma radical renovação do conjunto do sistema de ensino, do qual a formação científica constituiria a base.",
+        "Uma análise da concepção de Matemática segundo Comte só é possível dentro do contexto de sua Filosofia. Comte não pensa em Matemática de forma dissociada de sua concepção filosófica. Ele tentou realizar e sua obra Filosofia Positiva (1830-1842) a síntese dos conhecimentos positivos de sua época. Estudando cada ciência em seus princípios, regras e artifícios particulares, sistematizou o que havia em comum entre os métodos e os princípios. A maioria dos autores que analisam a obra de Comte esquecem que ou não levam em conta um aspecto fundamental desta obra, que é o fato de que Comte tinha em vista uma meta social. A Filosofia Positiva é uma resposta à pergunta - qual é o princípio que deve orientar uma sociedade organizada? A Filosofia Positiva é considerada por Comte como a única base sólida da reorganização social. Para ele, a divulgação e propagação da Filosofia P´ositiva deveria servir para uma radical renovação do conjunto do sistema de ensino, do qual a formação científica constituiria a base."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 71-84",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 71-84",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 71-84",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.034966+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646926",
+    "journal": "zetetike",
+    "title": "Compreendendo e interpretando as dificuldades sentidas pelos alunos ao estarem com a matemática",
+    "titleOriginal": "Compreendendo e interpretando as dificuldades sentidas pelos alunos ao estarem com a matemática",
+    "titleEn": "",
+    "authors": [
+      "Bicudo, Maria Aparecida Viggiani",
+      "Chamie, Luciana Mancini Stella"
+    ],
+    "institutions": [],
+    "abstract": "Este artigo relata uma pesquisa realizada sobre as dificuldades que estudantes da 1° série do 2° grau percebem ao estarem com a Matemática, tal como ela apresenta-se a eles no seu cotidiano escolar (Chamie, 1990). Vai além do relato em si e interpreta as dificuldades mais características por eles apontadas, evidenciando a perspectiva da linguagem matemática e procurando compreender as especificidades das experiências vividas nessa região.",
+    "abstractOriginal": "Este artigo relata uma pesquisa realizada sobre as dificuldades que estudantes da 1° série do 2° grau percebem ao estarem com a Matemática, tal como ela apresenta-se a eles no seu cotidiano escolar (Chamie, 1990). Vai além do relato em si e interpreta as dificuldades mais características por eles apontadas, evidenciando a perspectiva da linguagem matemática e procurando compreender as especificidades das experiências vividas nessa região.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646926",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646926",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646926",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Compreendendo e interpretando as dificuldades sentidas pelos alunos ao estarem com a matemática",
+        "Compreendendo e interpretando as dificuldades sentidas pelos alunos ao estarem com a matemática"
+      ],
+      "allDescriptions": [
+        "Este artigo relata uma pesquisa realizada sobre as dificuldades que estudantes da 1° série do 2° grau percebem ao estarem com a Matemática, tal como ela apresenta-se a eles no seu cotidiano escolar (Chamie, 1990). Vai além do relato em si e interpreta as dificuldades mais características por eles apontadas, evidenciando a perspectiva da linguagem matemática e procurando compreender as especificidades das experiências vividas nessa região.",
+        "Este artigo relata uma pesquisa realizada sobre as dificuldades que estudantes da 1° série do 2° grau percebem ao estarem com a Matemática, tal como ela apresenta-se a eles no seu cotidiano escolar (Chamie, 1990). Vai além do relato em si e interpreta as dificuldades mais características por eles apontadas, evidenciando a perspectiva da linguagem matemática e procurando compreender as especificidades das experiências vividas nessa região."
+      ],
+      "allSubjects": [
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 61-70",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 61-70",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 61-70",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.034274+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646925",
+    "journal": "zetetike",
+    "title": "Critérios norteadores para a adoção da modelagem matemática no ensino secundário e fundamental",
+    "titleOriginal": "Critérios norteadores para a adoção da modelagem matemática no ensino secundário e fundamental",
+    "titleEn": "",
+    "authors": [
+      "Baruk, Dionísio"
+    ],
+    "institutions": [],
+    "abstract": "Em cursos de atualização ministrados recentemente, foi solicitado aos professores participantes que escrevessem como veem o Ensino de Matemática atualmente.",
+    "abstractOriginal": "Em cursos de atualização ministrados recentemente, foi solicitado aos professores participantes que escrevessem como veem o Ensino de Matemática atualmente.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646925",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646925",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646925",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Critérios norteadores para a adoção da modelagem matemática no ensino secundário e fundamental",
+        "Critérios norteadores para a adoção da modelagem matemática no ensino secundário e fundamental"
+      ],
+      "allDescriptions": [
+        "Em cursos de atualização ministrados recentemente, foi solicitado aos professores participantes que escrevessem como veem o Ensino de Matemática atualmente.",
+        "Em cursos de atualização ministrados recentemente, foi solicitado aos professores participantes que escrevessem como veem o Ensino de Matemática atualmente."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 47-60",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 47-60",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 47-60",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.033694+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646924",
+    "journal": "zetetike",
+    "title": "Ensino da matemática: reflexões para uma aprendizagem significativa",
+    "titleOriginal": "Ensino da matemática: reflexões para uma aprendizagem significativa",
+    "titleEn": "",
+    "authors": [
+      "Rabelo, Edmar H.",
+      "Lorenzato, Sérgio A."
+    ],
+    "institutions": [],
+    "abstract": "A melhoria da qualidade do ensino da matemática tem constituído um desafio constante para todos que vêm se preocupando com o ensino deste conhecimento, mas via de regra as buscas têm se limitado apenas a mudanças de métodos, de técnicas ou de sequências curriculares. Não descartamos a possibilidade de que métodos, técnicas e protestos curriculares possam ter influências positivas na melhoria da qualidade, mas acreditamos que uma mudança significativa só se concretizará através de uma mudança efetiva de postura, uma mudança de filosofia pedagógica que atinja, em última instância, o âmbito social. E, no nosso entender, o início de tal mudança deverá ter lugar na prática da sala de aula, pois neste labor está a possibilidade da busca de atitudes mais positivas tanto de alunos como de professores, não só com relação ao conhecimento matemático como também com relação ao seu ensino e a sua aprendizagem.",
+    "abstractOriginal": "A melhoria da qualidade do ensino da matemática tem constituído um desafio constante para todos que vêm se preocupando com o ensino deste conhecimento, mas via de regra as buscas têm se limitado apenas a mudanças de métodos, de técnicas ou de sequências curriculares. Não descartamos a possibilidade de que métodos, técnicas e protestos curriculares possam ter influências positivas na melhoria da qualidade, mas acreditamos que uma mudança significativa só se concretizará através de uma mudança efetiva de postura, uma mudança de filosofia pedagógica que atinja, em última instância, o âmbito social. E, no nosso entender, o início de tal mudança deverá ter lugar na prática da sala de aula, pois neste labor está a possibilidade da busca de atitudes mais positivas tanto de alunos como de professores, não só com relação ao conhecimento matemático como também com relação ao seu ensino e a sua aprendizagem.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646924",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646924",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646924",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Ensino da matemática: reflexões para uma aprendizagem significativa",
+        "Ensino da matemática: reflexões para uma aprendizagem significativa"
+      ],
+      "allDescriptions": [
+        "A melhoria da qualidade do ensino da matemática tem constituído um desafio constante para todos que vêm se preocupando com o ensino deste conhecimento, mas via de regra as buscas têm se limitado apenas a mudanças de métodos, de técnicas ou de sequências curriculares. Não descartamos a possibilidade de que métodos, técnicas e protestos curriculares possam ter influências positivas na melhoria da qualidade, mas acreditamos que uma mudança significativa só se concretizará através de uma mudança efetiva de postura, uma mudança de filosofia pedagógica que atinja, em última instância, o âmbito social. E, no nosso entender, o início de tal mudança deverá ter lugar na prática da sala de aula, pois neste labor está a possibilidade da busca de atitudes mais positivas tanto de alunos como de professores, não só com relação ao conhecimento matemático como também com relação ao seu ensino e a sua aprendizagem.",
+        "A melhoria da qualidade do ensino da matemática tem constituído um desafio constante para todos que vêm se preocupando com o ensino deste conhecimento, mas via de regra as buscas têm se limitado apenas a mudanças de métodos, de técnicas ou de sequências curriculares. Não descartamos a possibilidade de que métodos, técnicas e protestos curriculares possam ter influências positivas na melhoria da qualidade, mas acreditamos que uma mudança significativa só se concretizará através de uma mudança efetiva de postura, uma mudança de filosofia pedagógica que atinja, em última instância, o âmbito social. E, no nosso entender, o início de tal mudança deverá ter lugar na prática da sala de aula, pois neste labor está a possibilidade da busca de atitudes mais positivas tanto de alunos como de professores, não só com relação ao conhecimento matemático como também com relação ao seu ensino e a sua aprendizagem."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 37-46",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 37-46",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 37-46",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.033239+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646923",
+    "journal": "zetetike",
+    "title": "Logo-tridimensional como estratégia para a exploração de geometria espacial",
+    "titleOriginal": "Logo-tridimensional como estratégia para a exploração de geometria espacial",
+    "titleEn": "",
+    "authors": [
+      "Baranauskas, Maria Cecília C.",
+      "Miskulin, Rosana G. S."
+    ],
+    "institutions": [],
+    "abstract": "Logo Geométrico é um subconjunto da linguagem de programação Logo, proposta por S. Papert, cuja ideia principal é a de um objeto (tartaruga) que pode mover-se em um plano, representado, por exemplo, pela tela do monitor. Os movimentos possíveis para esse objeto são o de deslocamento - para a frente e para trás - para a direita e para a esquerda - sobre uma superfície plana. Dessa maneira o movimentos desse objeto, sob comando de um usuário podem definir figuras geométricas.",
+    "abstractOriginal": "Logo Geométrico é um subconjunto da linguagem de programação Logo, proposta por S. Papert, cuja ideia principal é a de um objeto (tartaruga) que pode mover-se em um plano, representado, por exemplo, pela tela do monitor. Os movimentos possíveis para esse objeto são o de deslocamento - para a frente e para trás - para a direita e para a esquerda - sobre uma superfície plana. Dessa maneira o movimentos desse objeto, sob comando de um usuário podem definir figuras geométricas.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática",
+      "Geometria"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Geometria"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646923",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646923",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646923",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Logo-tridimensional como estratégia para a exploração de geometria espacial",
+        "Logo-tridimensional como estratégia para a exploração de geometria espacial"
+      ],
+      "allDescriptions": [
+        "Logo Geométrico é um subconjunto da linguagem de programação Logo, proposta por S. Papert, cuja ideia principal é a de um objeto (tartaruga) que pode mover-se em um plano, representado, por exemplo, pela tela do monitor. Os movimentos possíveis para esse objeto são o de deslocamento - para a frente e para trás - para a direita e para a esquerda - sobre uma superfície plana. Dessa maneira o movimentos desse objeto, sob comando de um usuário podem definir figuras geométricas.",
+        "Logo Geométrico é um subconjunto da linguagem de programação Logo, proposta por S. Papert, cuja ideia principal é a de um objeto (tartaruga) que pode mover-se em um plano, representado, por exemplo, pela tela do monitor. Os movimentos possíveis para esse objeto são o de deslocamento - para a frente e para trás - para a direita e para a esquerda - sobre uma superfície plana. Dessa maneira o movimentos desse objeto, sob comando de um usuário podem definir figuras geométricas."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Geometria",
+        "Educação matemática",
+        "Geometria"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 25-36",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 25-36",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 25-36",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.032537+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646922",
+    "journal": "zetetike",
+    "title": "A representação de corpos redondos no ensino da geometria",
+    "titleOriginal": "A representação de corpos redondos no ensino da geometria",
+    "titleEn": "",
+    "authors": [
+      "Pais, Luis Carlos"
+    ],
+    "institutions": [],
+    "abstract": "Este artigo tem sua origem nos trabalhos do Grupo de Pesquisa sobre Ensino de Geometria do IREM de Montpellier. Esta equipe é coordenada pelo professor Gérard AUDIBERT e composta por cerca de quinze professores envolvidos na pesquisa em Didática da Matemática. Um certo número de experiências realizadas por esse grupo constatou que o ensino e a aprendizagem da geometria euclidiana e espacial são inseparáveis do desenho. O desenho e mais particularmente o desenho preciso feito com o uso de instrumentos desempenha um papel importante na aprendizagem geométrica, sobretudo na resolução de problemas. Foi a partir desta perspectiva que se desenvolveu a ideia de reservar, ao longo de todo o ensino do primeiro e segundo graus, a possibilidade de uma utilização mais diferenciada do recurso gráfico em que consiste o desenho geométrico. Nesta utilização pode-se destacar, de início, pelo menos duas dificuldades maiores por parte dos alunos: a leitura do desenho em perspectiva e a sua própria produção representando um objeto do espaço.",
+    "abstractOriginal": "Este artigo tem sua origem nos trabalhos do Grupo de Pesquisa sobre Ensino de Geometria do IREM de Montpellier. Esta equipe é coordenada pelo professor Gérard AUDIBERT e composta por cerca de quinze professores envolvidos na pesquisa em Didática da Matemática. Um certo número de experiências realizadas por esse grupo constatou que o ensino e a aprendizagem da geometria euclidiana e espacial são inseparáveis do desenho. O desenho e mais particularmente o desenho preciso feito com o uso de instrumentos desempenha um papel importante na aprendizagem geométrica, sobretudo na resolução de problemas. Foi a partir desta perspectiva que se desenvolveu a ideia de reservar, ao longo de todo o ensino do primeiro e segundo graus, a possibilidade de uma utilização mais diferenciada do recurso gráfico em que consiste o desenho geométrico. Nesta utilização pode-se destacar, de início, pelo menos duas dificuldades maiores por parte dos alunos: a leitura do desenho em perspectiva e a sua própria produção representando um objeto do espaço.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática",
+      "Didática da matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática",
+      "Didática da matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646922",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646922",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646922",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "A representação de corpos redondos no ensino da geometria",
+        "A representação de corpos redondos no ensino da geometria"
+      ],
+      "allDescriptions": [
+        "Este artigo tem sua origem nos trabalhos do Grupo de Pesquisa sobre Ensino de Geometria do IREM de Montpellier. Esta equipe é coordenada pelo professor Gérard AUDIBERT e composta por cerca de quinze professores envolvidos na pesquisa em Didática da Matemática. Um certo número de experiências realizadas por esse grupo constatou que o ensino e a aprendizagem da geometria euclidiana e espacial são inseparáveis do desenho. O desenho e mais particularmente o desenho preciso feito com o uso de instrumentos desempenha um papel importante na aprendizagem geométrica, sobretudo na resolução de problemas. Foi a partir desta perspectiva que se desenvolveu a ideia de reservar, ao longo de todo o ensino do primeiro e segundo graus, a possibilidade de uma utilização mais diferenciada do recurso gráfico em que consiste o desenho geométrico. Nesta utilização pode-se destacar, de início, pelo menos duas dificuldades maiores por parte dos alunos: a leitura do desenho em perspectiva e a sua própria produção representando um objeto do espaço.",
+        "Este artigo tem sua origem nos trabalhos do Grupo de Pesquisa sobre Ensino de Geometria do IREM de Montpellier. Esta equipe é coordenada pelo professor Gérard AUDIBERT e composta por cerca de quinze professores envolvidos na pesquisa em Didática da Matemática. Um certo número de experiências realizadas por esse grupo constatou que o ensino e a aprendizagem da geometria euclidiana e espacial são inseparáveis do desenho. O desenho e mais particularmente o desenho preciso feito com o uso de instrumentos desempenha um papel importante na aprendizagem geométrica, sobretudo na resolução de problemas. Foi a partir desta perspectiva que se desenvolveu a ideia de reservar, ao longo de todo o ensino do primeiro e segundo graus, a possibilidade de uma utilização mais diferenciada do recurso gráfico em que consiste o desenho geométrico. Nesta utilização pode-se destacar, de início, pelo menos duas dificuldades maiores por parte dos alunos: a leitura do desenho em perspectiva e a sua própria produção representando um objeto do espaço."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Didática da matemática",
+        "Educação matemática",
+        "Didática da matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 13-24",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 13-24",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 13-24",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.031938+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v2i2.8646921",
+    "journal": "zetetike",
+    "title": "Noigrandes, Nonada, Zetetiké",
+    "titleOriginal": "Noigrandes, Nonada, Zetetiké",
+    "titleEn": "",
+    "authors": [
+      "Fontes, Joaquim Brasil"
+    ],
+    "institutions": [],
+    "abstract": "Quem pronuncia esta frase, numa tragédia de Sófocles, é Édipo, que está a procura do assassino de Laio, filho de Lâmbdakos. Para expressar a ideia de \"investigar\", \"fazer uma pesquisa\", \"partir em busca de\", ele usa o verbo grego dzetéo, cognato de nosso dzetetiké. Conhecemos, todos nós, o resultado da sinistra enquete: examinando pistas, interrogando signos e seguindo índices, Édipo descobre que Laio é seu pai, do qual ele próprio é o assassino.",
+    "abstractOriginal": "Quem pronuncia esta frase, numa tragédia de Sófocles, é Édipo, que está a procura do assassino de Laio, filho de Lâmbdakos. Para expressar a ideia de \"investigar\", \"fazer uma pesquisa\", \"partir em busca de\", ele usa o verbo grego dzetéo, cognato de nosso dzetetiké. Conhecemos, todos nós, o resultado da sinistra enquete: examinando pistas, interrogando signos e seguindo índices, Édipo descobre que Laio é seu pai, do qual ele próprio é o assassino.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1994,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v2i2.8646921",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646921",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646921",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-26T11:44:38Z",
+      "allTitles": [
+        "Noigrandes, Nonada, Zetetiké",
+        "Noigrandes, Nonada, Zetetiké"
+      ],
+      "allDescriptions": [
+        "Quem pronuncia esta frase, numa tragédia de Sófocles, é Édipo, que está a procura do assassino de Laio, filho de Lâmbdakos. Para expressar a ideia de \"investigar\", \"fazer uma pesquisa\", \"partir em busca de\", ele usa o verbo grego dzetéo, cognato de nosso dzetetiké. Conhecemos, todos nós, o resultado da sinistra enquete: examinando pistas, interrogando signos e seguindo índices, Édipo descobre que Laio é seu pai, do qual ele próprio é o assassino.",
+        "Quem pronuncia esta frase, numa tragédia de Sófocles, é Édipo, que está a procura do assassino de Laio, filho de Lâmbdakos. Para expressar a ideia de \"investigar\", \"fazer uma pesquisa\", \"partir em busca de\", ele usa o verbo grego dzetéo, cognato de nosso dzetetiké. Conhecemos, todos nós, o resultado da sinistra enquete: examinando pistas, interrogando signos e seguindo índices, Édipo descobre que Laio é seu pai, do qual ele próprio é o assassino."
+      ],
+      "allSubjects": [
+        "Educação matemática",
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1994-03-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 2 No. 1 (1994): jan./dez. [2]; 9-12",
+          "Zetetike; Vol. 2 Núm. 1 (1994): jan./dez. [2]; 9-12",
+          "Zetetike; v. 2 n. 1 (1994): jan./dez. [2]; 9-12",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:18.031238+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v1i1.8646827",
+    "journal": "zetetike",
+    "title": "Memória e análise da pesquisa acadêmica em educação matemática no BrasiL: o banco de teses do CEMPEM/FE - UNICAMP",
+    "titleOriginal": "Memória e análise da pesquisa acadêmica em educação matemática no BrasiL: o banco de teses do CEMPEM/FE - UNICAMP",
+    "titleEn": "",
+    "authors": [
+      "Fiorentini, Dario"
+    ],
+    "institutions": [],
+    "abstract": "O objetivo principal deste artigo é divulgar aos educadores em educação matemática o \"Banco de Teses EDUMAT\" que vem sendo organizado pelo CEMPEM na Faculdade de Educação da Unicamp.",
+    "abstractOriginal": "O objetivo principal deste artigo é divulgar aos educadores em educação matemática o \"Banco de Teses EDUMAT\" que vem sendo organizado pelo CEMPEM na Faculdade de Educação da Unicamp.",
+    "abstractEn": "",
+    "keywords": [
+      "Educação matemática"
+    ],
+    "keywordsOriginal": [
+      "Educação matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1993,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v1i1.8646827",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646827",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646827",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-05T11:35:52Z",
+      "allTitles": [
+        "Memória e análise da pesquisa acadêmica em educação matemática no BrasiL: o banco de teses do CEMPEM/FE - UNICAMP",
+        "Memória e análise da pesquisa acadêmica em educação matemática no BrasiL: o banco de teses do CEMPEM/FE - UNICAMP"
+      ],
+      "allDescriptions": [
+        "O objetivo principal deste artigo é divulgar aos educadores em educação matemática o \"Banco de Teses EDUMAT\" que vem sendo organizado pelo CEMPEM na Faculdade de Educação da Unicamp.",
+        "O objetivo principal deste artigo é divulgar aos educadores em educação matemática o \"Banco de Teses EDUMAT\" que vem sendo organizado pelo CEMPEM na Faculdade de Educação da Unicamp."
+      ],
+      "allSubjects": [
+        "Educação matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1993-09-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 1 No. 1 (1993): jan./dez. [1]; 55-76",
+          "Zetetike; Vol. 1 Núm. 1 (1993): jan./dez. [1]; 55-76",
+          "Zetetike; v. 1 n. 1 (1993): jan./dez. [1]; 55-76",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.866789+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v1i1.8646826",
+    "journal": "zetetike",
+    "title": "De aluno a professor: a redescoberta da escola",
+    "titleOriginal": "De aluno a professor: a redescoberta da escola",
+    "titleEn": "",
+    "authors": [
+      "Sampaio, Fausto Arnaud"
+    ],
+    "institutions": [],
+    "abstract": "Uma descida em passos lentos, trêmulos de dúvidas, sob o sol do meio dia, forte, sufocante como o curto trajeto, ora interminável. A sensação do tempo parece dilatar-se, ao imaginar outros alunos em igual circunstância, a formular as mesmas perguntas e depois comparar as impressões com aquelas comunicadas por estudantes veteranos. Como será minha professora? Brava? Bonita? Será que grita como a do meu irmão? Quantos alunos seremos na sala de aula? O suor vai pingar do meu rosto, de nervosismo, se a professora falar comigo? Ela vai me deixar ir ao banheiro?...",
+    "abstractOriginal": "Uma descida em passos lentos, trêmulos de dúvidas, sob o sol do meio dia, forte, sufocante como o curto trajeto, ora interminável. A sensação do tempo parece dilatar-se, ao imaginar outros alunos em igual circunstância, a formular as mesmas perguntas e depois comparar as impressões com aquelas comunicadas por estudantes veteranos. Como será minha professora? Brava? Bonita? Será que grita como a do meu irmão? Quantos alunos seremos na sala de aula? O suor vai pingar do meu rosto, de nervosismo, se a professora falar comigo? Ela vai me deixar ir ao banheiro?...",
+    "abstractEn": "",
+    "keywords": [
+      "Educação",
+      "Professor",
+      "Aluno"
+    ],
+    "keywordsOriginal": [
+      "Educação",
+      "Professor",
+      "Aluno"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1993,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v1i1.8646826",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646826",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646826",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2023-10-05T11:21:31Z",
+      "allTitles": [
+        "De aluno a professor: a redescoberta da escola",
+        "De aluno a professor: a redescoberta da escola"
+      ],
+      "allDescriptions": [
+        "Uma descida em passos lentos, trêmulos de dúvidas, sob o sol do meio dia, forte, sufocante como o curto trajeto, ora interminável. A sensação do tempo parece dilatar-se, ao imaginar outros alunos em igual circunstância, a formular as mesmas perguntas e depois comparar as impressões com aquelas comunicadas por estudantes veteranos. Como será minha professora? Brava? Bonita? Será que grita como a do meu irmão? Quantos alunos seremos na sala de aula? O suor vai pingar do meu rosto, de nervosismo, se a professora falar comigo? Ela vai me deixar ir ao banheiro?...",
+        "Uma descida em passos lentos, trêmulos de dúvidas, sob o sol do meio dia, forte, sufocante como o curto trajeto, ora interminável. A sensação do tempo parece dilatar-se, ao imaginar outros alunos em igual circunstância, a formular as mesmas perguntas e depois comparar as impressões com aquelas comunicadas por estudantes veteranos. Como será minha professora? Brava? Bonita? Será que grita como a do meu irmão? Quantos alunos seremos na sala de aula? O suor vai pingar do meu rosto, de nervosismo, se a professora falar comigo? Ela vai me deixar ir ao banheiro?..."
+      ],
+      "allSubjects": [
+        "Educação",
+        "Professor",
+        "Aluno",
+        "Educação",
+        "Professor",
+        "Aluno"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1993-09-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 1 No. 1 (1993): jan./dez. [1]; 51-54",
+          "Zetetike; Vol. 1 Núm. 1 (1993): jan./dez. [1]; 51-54",
+          "Zetetike; v. 1 n. 1 (1993): jan./dez. [1]; 51-54",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.866321+00:00"
+  },
+  {
+    "id": "doi:10.20396/zet.v1i1.8646825",
+    "journal": "zetetike",
+    "title": "Século XXI: qual matemática é recomendável?",
+    "titleOriginal": "Século XXI: qual matemática é recomendável?",
+    "titleEn": "",
+    "authors": [
+      "Lorenzato, Sérgio",
+      "Vila, Maria do Carmo"
+    ],
+    "institutions": [],
+    "abstract": "Nossa sociedade tecnológica passa por contínuas transformações, numa velocidade surpreendente. Fazendo parte de uma sociedade em mudança, nós, professores de Matemática, sentimos muitas vezes angústia e preocupação, pois temos dificuldade em definir os conteúdos mínimos básicos de Matemática de que nossos alunos necessitarão em suas atividades futuras para melhor atuarem na sociedade em mudança no próximo milênio.",
+    "abstractOriginal": "Nossa sociedade tecnológica passa por contínuas transformações, numa velocidade surpreendente. Fazendo parte de uma sociedade em mudança, nós, professores de Matemática, sentimos muitas vezes angústia e preocupação, pois temos dificuldade em definir os conteúdos mínimos básicos de Matemática de que nossos alunos necessitarão em suas atividades futuras para melhor atuarem na sociedade em mudança no próximo milênio.",
+    "abstractEn": "",
+    "keywords": [
+      "Matemática"
+    ],
+    "keywordsOriginal": [
+      "Matemática"
+    ],
+    "keywordsEn": [],
+    "metadataEnglishStatus": "source_only",
+    "year": 1993,
+    "language": "pt",
+    "languageCode": "pt",
+    "type": "article",
+    "doi": "10.20396/zet.v1i1.8646825",
+    "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/article/view/8646825",
+    "pdf": "",
+    "openAccess": null,
+    "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8646825",
+    "source": "oai-pmh",
+    "provenance": {
+      "baseUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+      "metadataPrefix": "oai_dc",
+      "datestamp": "2025-09-02T13:11:42Z",
+      "allTitles": [
+        "Século XXI: qual matemática é recomendável?",
+        "Século XXI: qual matemática é recomendável?",
+        "Século XXI: qual matemática é recomendável?"
+      ],
+      "allDescriptions": [
+        "Nossa sociedade tecnológica passa por contínuas transformações, numa velocidade surpreendente. Fazendo parte de uma sociedade em mudança, nós, professores de Matemática, sentimos muitas vezes angústia e preocupação, pois temos dificuldade em definir os conteúdos mínimos básicos de Matemática de que nossos alunos necessitarão em suas atividades futuras para melhor atuarem na sociedade em mudança no próximo milênio.",
+        "Nossa sociedade tecnológica passa por contínuas transformações, numa velocidade surpreendente. Fazendo parte de uma sociedade em mudança, nós, professores de Matemática, sentimos muitas vezes angústia e preocupação, pois temos dificuldade em definir os conteúdos mínimos básicos de Matemática de que nossos alunos necessitarão em suas atividades futuras para melhor atuarem na sociedade em mudança no próximo milênio.",
+        "Nossa sociedade tecnológica passa por contínuas transformações, numa velocidade surpreendente. Fazendo parte de uma sociedade em mudança, nós, professores de Matemática, sentimos muitas vezes angústia e preocupação, pois temos dificuldade em definir os conteúdos mínimos básicos de Matemática de que nossos alunos necessitarão em suas atividades futuras para melhor atuarem na sociedade em mudança no próximo milênio."
+      ],
+      "allSubjects": [
+        "Matemática",
+        "Matemática",
+        "Matemática"
+      ],
+      "sourceValues": {
+        "dates": [
+          "1993-09-30"
+        ],
+        "types": [
+          "info:eu-repo/semantics/article",
+          "info:eu-repo/semantics/publishedVersion",
+          "Texto"
+        ],
+        "sources": [
+          "Zetetike; Vol. 1 No. 1 (1993): jan./dez. [1]; 41-50",
+          "Zetetike; Vol. 1 Núm. 1 (1993): jan./dez. [1]; 41-50",
+          "Zetetike; v. 1 n. 1 (1993): jan./dez. [1]; 41-50",
+          "2176-1744"
+        ],
+        "publishers": [
+          "Universidade Estadual de Campinas"
+        ]
+      }
+    },
+    "corpusStatus": "included",
+    "corpusReason": "meets_minimum_metadata",
+    "harvestedAt": "2026-09-25T23:11:11.865719+00:00"
+  }
+]

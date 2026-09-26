@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "doi:10.35763/aiem.v1i11.214",
+      "journal": "aiem",
+      "journalName": "AIEM — Avances de Investigación en Educación Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "en Educación Matemática, Avances de Investigación",
+        "Batanero Bernabeu, Carmen"
+      ],
+      "institutions": [],
+      "abstract": "-",
+      "abstractOriginal": "-",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.35763/aiem.v1i11.214",
+      "url": "https://aiem.es/aiem/article/view/3932",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs_aiem.aiem.es:article/3932",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://aiem.es/aiem/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-09-06T08:53:08Z",
+        "allTitles": [
+          "Editorial",
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "-"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-07-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "editorial"
+          ],
+          "sources": [
+            "Advances of Research in Mathematics Education; No. 11 (2017); 3-4",
+            "Avances de Investigación en Educación Matemática; Núm. 11 (2017); 3-4",
+            "2254-4313",
+            "10.35763/aiem.v1i11"
+          ],
+          "publishers": [
+            "Sociedad Española de Investigación en Educación Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:30:34.099840+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "oai:oai:ojs.revistas.pucsp.br:article/460",
       "journal": "emp",
       "journalName": "Educação Matemática Pesquisa",
