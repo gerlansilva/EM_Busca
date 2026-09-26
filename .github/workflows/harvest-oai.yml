@@ -30,6 +30,7 @@ jobs:
   harvest:
     runs-on: ubuntu-latest
     timeout-minutes: 180
+
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -40,6 +41,9 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Install XML recovery dependency
+        run: python -m pip install "lxml>=5,<7"
 
       - name: Harvest OAI-PMH
         shell: bash
