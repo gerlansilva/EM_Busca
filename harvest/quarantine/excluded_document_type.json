@@ -6648,6 +6648,676 @@
       "corpusReason": "editorial"
     },
     {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2149",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "EDITORIAL V.2, N.2",
+      "titleOriginal": "EDITORIAL V.2, N.2",
+      "titleEn": "",
+      "authors": [
+        "Abranches, Sérgio Paulino"
+      ],
+      "institutions": [],
+      "abstract": "A educação matemática e tecnológica, como campo de conhecimento, se desdobra em áreas específicas, aprofundando aspectos determinados, advindos tanto da prática educativa como da teorização crescente. Deste modo, novos desafios são colocados para pesquisadores e estudiosos no esforço de analisar uma realidade complexa, multifacetada.",
+      "abstractOriginal": "A educação matemática e tecnológica, como campo de conhecimento, se desdobra em áreas específicas, aprofundando aspectos determinados, advindos tanto da prática educativa como da teorização crescente. Deste modo, novos desafios são colocados para pesquisadores e estudiosos no esforço de analisar uma realidade complexa, multifacetada.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2149",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2149",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:34:14Z",
+        "allTitles": [
+          "EDITORIAL V.2, N.2"
+        ],
+        "allDescriptions": [
+          "A educação matemática e tecnológica, como campo de conhecimento, se desdobra em áreas específicas, aprofundando aspectos determinados, advindos tanto da prática educativa como da teorização crescente. Deste modo, novos desafios são colocados para pesquisadores e estudiosos no esforço de analisar uma realidade complexa, multifacetada."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-11-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 2 n. 2 (2011)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:23.192776+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2164",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial, V.3, n.1, 2012",
+      "titleOriginal": "Editorial, V.3, n.1, 2012",
+      "titleEn": "",
+      "authors": [
+        "Abranches, Sérgio Paulino"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2012,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2164",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2164",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:35:01Z",
+        "allTitles": [
+          "Editorial, V.3, n.1, 2012"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2012-08-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 3 n. 1 (2012)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:23.199332+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2174",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Abranches, Sérgio Paulino"
+      ],
+      "institutions": [],
+      "abstract": "Editorial do terceiro número do volume 2.",
+      "abstractOriginal": "Editorial do terceiro número do volume 2.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2012,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2174",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2174",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:34:37Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "Editorial do terceiro número do volume 2."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2012-03-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 2 n. 3 (2011)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:23.205386+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2204",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "EDITORIAL V.5, N.1 - EDUCAÇÃO DO CAMPO: CONTRIBUIÇÕES DA EDUCAÇÃO MATEMÁTICA E DA TECNOLÓGICA",
+      "titleOriginal": "EDITORIAL V.5, N.1 - EDUCAÇÃO DO CAMPO: CONTRIBUIÇÕES DA EDUCAÇÃO MATEMÁTICA E DA TECNOLÓGICA",
+      "titleEn": "",
+      "authors": [
+        "MONTEIRO, Carlos Eduardo Ferreira",
+        "CARVALHO, Liliane"
+      ],
+      "institutions": [],
+      "abstract": "A edição n. 1, v. 5, 2014 da Revista EM TEIA traz a público um conjunto de textos que objetiva contribuir para ampliação e aprofundamento da discussão de pesquisas que investigam aspectos dos processos de Educação Matemática e Tecnológica desenvolvidas no âmbito da Educação do Campo. FIELD EDUCATION: CONTRIBUTIONS FROM MATHEMATICS AND TECHNOLOGICAL EDUCATIONThe Iberoamerican Journal of Mathematics and Technological Education - EM TEIA (n. 1, v. 5, 2014) brings to the public a set of texts that aims to contribute to broadening and deepening the discussion of studies that investigate aspects of mathematics education and technological education developed within Field Education.",
+      "abstractOriginal": "A edição n. 1, v. 5, 2014 da Revista EM TEIA traz a público um conjunto de textos que objetiva contribuir para ampliação e aprofundamento da discussão de pesquisas que investigam aspectos dos processos de Educação Matemática e Tecnológica desenvolvidas no âmbito da Educação do Campo. FIELD EDUCATION: CONTRIBUTIONS FROM MATHEMATICS AND TECHNOLOGICAL EDUCATIONThe Iberoamerican Journal of Mathematics and Technological Education - EM TEIA (n. 1, v. 5, 2014) brings to the public a set of texts that aims to contribute to broadening and deepening the discussion of studies that investigate aspects of mathematics education and technological education developed within Field Education.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2204",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2204",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:37:16Z",
+        "allTitles": [
+          "EDITORIAL V.5, N.1 - EDUCAÇÃO DO CAMPO: CONTRIBUIÇÕES DA EDUCAÇÃO MATEMÁTICA E DA TECNOLÓGICA"
+        ],
+        "allDescriptions": [
+          "A edição n. 1, v. 5, 2014 da Revista EM TEIA traz a público um conjunto de textos que objetiva contribuir para ampliação e aprofundamento da discussão de pesquisas que investigam aspectos dos processos de Educação Matemática e Tecnológica desenvolvidas no âmbito da Educação do Campo. FIELD EDUCATION: CONTRIBUTIONS FROM MATHEMATICS AND TECHNOLOGICAL EDUCATIONThe Iberoamerican Journal of Mathematics and Technological Education - EM TEIA (n. 1, v. 5, 2014) brings to the public a set of texts that aims to contribute to broadening and deepening the discussion of studies that investigate aspects of mathematics education and technological education developed within Field Education."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-06-09"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 5 n. 1 (2014): Educação do Campo: contribuições da Educação Matemática e da Tecnológica",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:23.220104+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2228",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial do Volume 4, número 2",
+      "titleOriginal": "Editorial do Volume 4, número 2",
+      "titleEn": "",
+      "authors": [
+        "Guimarães, Gilda Lisbôa"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2228",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2228",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:36:34Z",
+        "allTitles": [
+          "Editorial do Volume 4, número 2"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 4 n. 2 (2013)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:23.231764+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/2276",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "EDITORIAL V.2, N.1",
+      "titleOriginal": "EDITORIAL V.2, N.1",
+      "titleEn": "",
+      "authors": [
+        "Abranches, Sérgio Paulino"
+      ],
+      "institutions": [],
+      "abstract": "O segundo número da Revista EM TEIA, mesclando autores convidados e artigos submetidos à avaliação, aprofunda as discussões em torno da educação matemática e tecnológica, apresentando novos estudos e pesquisas que apontam a riqueza deste campo do saber seja pela amplitude de suas questões como pela complexidade das abordagens presentes.",
+      "abstractOriginal": "O segundo número da Revista EM TEIA, mesclando autores convidados e artigos submetidos à avaliação, aprofunda as discussões em torno da educação matemática e tecnológica, apresentando novos estudos e pesquisas que apontam a riqueza deste campo do saber seja pela amplitude de suas questões como pela complexidade das abordagens presentes.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/2276",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/2276",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-17T16:33:34Z",
+        "allTitles": [
+          "EDITORIAL V.2, N.1"
+        ],
+        "allDescriptions": [
+          "O segundo número da Revista EM TEIA, mesclando autores convidados e artigos submetidos à avaliação, aprofunda as discussões em torno da educação matemática e tecnológica, apresentando novos estudos e pesquisas que apontam a riqueza deste campo do saber seja pela amplitude de suas questões como pela complexidade das abordagens presentes."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-07-11"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 2 n. 1 (2011)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:47.163635+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/5000",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Guimarães, Gilda Lisbôa",
+        "Borba, Rute Elizabete Souza de Rosa"
+      ],
+      "institutions": [],
+      "abstract": "Este número especial da Revista EM TEIA tem como objetivo contribuir para ampliação e aprofundamento da discussão de pesquisas apresentadas no Encontro de Combinatória, Estatística e Probabilidade dos Anos Iniciais – Encepai, realizado em março de 2016 na Universidade Federal de Pernambuco - UFPE.",
+      "abstractOriginal": "Este número especial da Revista EM TEIA tem como objetivo contribuir para ampliação e aprofundamento da discussão de pesquisas apresentadas no Encontro de Combinatória, Estatística e Probabilidade dos Anos Iniciais – Encepai, realizado em março de 2016 na Universidade Federal de Pernambuco - UFPE.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/5000",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/5000",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-04-11T19:10:05Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "Este número especial da Revista EM TEIA tem como objetivo contribuir para ampliação e aprofundamento da discussão de pesquisas apresentadas no Encontro de Combinatória, Estatística e Probabilidade dos Anos Iniciais – Encepai, realizado em março de 2016 na Universidade Federal de Pernambuco - UFPE."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-09-17"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 7 n. 1 (2016): COMBINATÓRIA, ESTATÍSTICA E PROBABILIDADE NOS ANOS INICIAIS",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:47.178241+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.36397/emteia.v8i3.230797",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Valente, Wagner Rodrigues"
+      ],
+      "institutions": [],
+      "abstract": "editorial",
+      "abstractOriginal": "editorial",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.36397/emteia.v8i3.230797",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/230797",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/230797",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2017-11-11T17:29:06Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "editorial"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-11-11"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 8 n. 3 (2017): História da Educação Matemática",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:34:47.193482+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.51359/2177-9309.2021.251007",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial - Educação Financeira Escolar: construções, caminhos, pesquisas e potencialidades para o século XXI",
+      "titleOriginal": "Editorial - Educação Financeira Escolar: construções, caminhos, pesquisas e potencialidades para o século XXI",
+      "titleEn": "",
+      "authors": [
+        "Pessoa, Cristiane Azevêdo dos Santos",
+        "Muniz Junior, Ivail"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2021,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.51359/2177-9309.2021.251007",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/251007",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/251007",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-07-14T11:53:42Z",
+        "allTitles": [
+          "Editorial - Educação Financeira Escolar: construções, caminhos, pesquisas e potencialidades para o século XXI"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2021-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 12 n. 2 (2021): Educação Financeira Escolar",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:35:32.311982+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:oai.periodicos.ufpe.br:article/251016",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial - Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais",
+      "titleOriginal": "Editorial - Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais",
+      "titleEn": "",
+      "authors": [
+        "Guimarães, Gilda Lisbôa",
+        "Borba, Rute Elizabete de Souza Rosa"
+      ],
+      "institutions": [],
+      "abstract": "O número temático Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais é uma iniciativa do Grupo de Trabalho 01 (GT01) da Sociedade Brasileira de Educação Matemática – SBEM.O GT01 tem como foco a Matemática na Educação Infantil e nos Anos Iniciais do Ensino Fundamental e encontra-se, atualmente, sob a coordenação da Profa. Dra. Edda Curi (Unicsul) e do Prof. Dr. João Alberto da Silva (FURG).Nesse número temático há artigos de membros do GT01 de diferentes instituições em distintas regiões brasileiras e também de outros pesquisadores que se interessam pelo ensino e aprendizagem da Matemática nos anos iniciais de escolarização.Essa edição especial da revista Em Teia tem como objetivo central: tornar resultados de pesquisa acessíveis a professores de início de escolarização e a formadores desses professores, a pesquisadores dos níveis iniciais de ensino, bem como a responsáveis por propostas curriculares – seja em documentos oficiais, seja em materiais e livros textos para estudantes e professores.Os artigos desse número tratam das cinco unidades temáticas na Matemática que orientam a formulação de habilidades a serem desenvolvidas ao longo do Ensino Fundamental, como indicado pela Base Nacional Comum Curricular (BNCC): Números, Álgebra, Geometria, Grandezas e Medidas e Probabilidade e Estatística. Descrevemos, a seguir, o que abordam os textos desse número especial, com indicação (entre parêntesis) dos autores que pesquisaram questões dentro de cada unidade temática.Na unidade temática Números, têm-se artigos que tratam dos papéis desempenhados pelo professor e pelos alunos no desenvolvimento do raciocínio matemático (Serrazina), do reconhecimento e da produção de notações linguísticas e numéricas por crianças de quatro a seis anos de idade (Sousa, Silva e Spinillo), do ensino de operações no campo aditivo (Etcheverria, Silva e Campos), da análise do raciocínio de alunos de operações no campo multiplicativo (Vieira e Abrahão); e de formação de professores na análise de tarefas sobre números e operações (Maggioni e Goldoni). Os textos dessa temática buscam contribuir para novos olhares para os números e as operações aritméticas – o que por muito tempo foi praticamente o foco exclusivo da Matemática nos anos iniciais de escolarização.Em Álgebra – unidade temática mais recentemente inserida em currículos de anos iniciais de escolarização – constam artigos referentes a tarefas algébricas prescritas (Oliveira e Farias), ao pensamento funcional (Souza e Carneiro) e ao que pensam professores sobre o ensino antecipado da álgebra (Oliveira e Paulo) e ao discurso instrucional de igualdade (Luna, Merlini e Ferreira). Esses textos defendem o movimento mundial da Early Algebra, ou seja, o início do desenvolvimento do raciocínio algébrico desde os primeiros anos escolares.Na terceira unidade temática – Geometria – encontram-se textos tratando de modo mais amplo de pensamento geométrico no currículo (Curi), referenciais espaciais (Costa, Verrengia e Pavanello) e ensino de figuras espaciais (Borelli e Martins). Os artigos dessa unidade visam reforçar a importância de tratar aspectos variados do conhecimento geométrico desde o início da escolarização.Em Grandezas e Medidas tem-se artigo sobre estimativas (Braz, Silva e Cardoso) e conteúdos dessa unidade temática associados à literatura infantil (Cidreira e Faustino). Trata-se, portanto, como nas outras unidades temáticas, de habilidades a serem desenvolvidas pelas crianças desde cedo.Na quinta unidade temática - Probabilidade e Estatística - os artigos tratam de crianças realizando pesquisas (Vilas Bôas e Mendes), da compreensão do conceito de amostragem (Gomes e Guimarães), da complexidade dos diferentes tipos de representação de tabelas (Pallauta, Batanero e Gea), de aprendizagens dos estudantes sobre essas representações (Evangelista e Pontes), da aprendizagem de medidas de tendência central (Cazorla, Magina e Santana), da aprendizagem de Combinatória (Gadelha e Borba), o qual consideramos incluso nesse eixo pela proximidade com a Probabilidade e, finalmente, práticas investigativas com modelagem na sala de aula (Tortola e Silva). Esses estudos evidenciam a possibilidade de aprendizagem pelas crianças de conceitos estatísticos e combinatórios, tendo a pesquisa como objeto de ensino e aprendizagem.Por fim, perpassando as unidades temáticas, há um artigo que faz uma revisão sistemática de estudos que tratam da Modelagem nos anos iniciais (Teodoro e Kato). Essa é uma perspectiva teórica relevante, dentre as diversas teorias importantes nas quais os textos desse número especial são embasados. No conjunto dos artigos têm-se pesquisas realizadas com estudantes e com professores e as investigações tratam de perspectivas variadas: Análises de materiais curriculares e recursos didáticos, como livros didáticos, literatura infantil e recursos tecnológicos;Perspectivas teóricas que ajudam a compreender a complexidade da prática em sala de aula (tais como a Teoria dos Campos Conceituais, a Teoria da Atividade, a Modelagem Matemática, o Estudo de Aula (Lesson Study), a Teoria dos Registros de Representação Semiótica e a Comunidade de Prática Profissional de Professores, dentre outras). A partir da publicação desse número temático, esperamos contribuir para o atendimento dos objetivos do GT01 da SBEM: discutir e divulgar investigações referentes ao ensino e à aprendizagem da Matemática na Educação Infantil e nos anos iniciais do Ensino Fundamental, a partir dos focos de pesquisa desse grupo de trabalho, quais sejam: a) formação inicial e continuada de professores de anos iniciais de escolarização; b) conhecimento de estudantes, deste nível de ensino, de conceitos matemáticos desenvolvidos dentro e fora da sala de aula; c) recursos didáticos para o ensino de Matemática na Educação Infantil e anos iniciais do Ensino Fundamental; d) inclusão e aprendizado de Matemática nestes anos de ensino. Desejamos a todos uma boa leitura e muitas reflexões que possam auxiliar o desenvolvimento matemático de nossos estudantes de início de escolarização.",
+      "abstractOriginal": "O número temático Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais é uma iniciativa do Grupo de Trabalho 01 (GT01) da Sociedade Brasileira de Educação Matemática – SBEM.O GT01 tem como foco a Matemática na Educação Infantil e nos Anos Iniciais do Ensino Fundamental e encontra-se, atualmente, sob a coordenação da Profa. Dra. Edda Curi (Unicsul) e do Prof. Dr. João Alberto da Silva (FURG).Nesse número temático há artigos de membros do GT01 de diferentes instituições em distintas regiões brasileiras e também de outros pesquisadores que se interessam pelo ensino e aprendizagem da Matemática nos anos iniciais de escolarização.Essa edição especial da revista Em Teia tem como objetivo central: tornar resultados de pesquisa acessíveis a professores de início de escolarização e a formadores desses professores, a pesquisadores dos níveis iniciais de ensino, bem como a responsáveis por propostas curriculares – seja em documentos oficiais, seja em materiais e livros textos para estudantes e professores.Os artigos desse número tratam das cinco unidades temáticas na Matemática que orientam a formulação de habilidades a serem desenvolvidas ao longo do Ensino Fundamental, como indicado pela Base Nacional Comum Curricular (BNCC): Números, Álgebra, Geometria, Grandezas e Medidas e Probabilidade e Estatística. Descrevemos, a seguir, o que abordam os textos desse número especial, com indicação (entre parêntesis) dos autores que pesquisaram questões dentro de cada unidade temática.Na unidade temática Números, têm-se artigos que tratam dos papéis desempenhados pelo professor e pelos alunos no desenvolvimento do raciocínio matemático (Serrazina), do reconhecimento e da produção de notações linguísticas e numéricas por crianças de quatro a seis anos de idade (Sousa, Silva e Spinillo), do ensino de operações no campo aditivo (Etcheverria, Silva e Campos), da análise do raciocínio de alunos de operações no campo multiplicativo (Vieira e Abrahão); e de formação de professores na análise de tarefas sobre números e operações (Maggioni e Goldoni). Os textos dessa temática buscam contribuir para novos olhares para os números e as operações aritméticas – o que por muito tempo foi praticamente o foco exclusivo da Matemática nos anos iniciais de escolarização.Em Álgebra – unidade temática mais recentemente inserida em currículos de anos iniciais de escolarização – constam artigos referentes a tarefas algébricas prescritas (Oliveira e Farias), ao pensamento funcional (Souza e Carneiro) e ao que pensam professores sobre o ensino antecipado da álgebra (Oliveira e Paulo) e ao discurso instrucional de igualdade (Luna, Merlini e Ferreira). Esses textos defendem o movimento mundial da Early Algebra, ou seja, o início do desenvolvimento do raciocínio algébrico desde os primeiros anos escolares.Na terceira unidade temática – Geometria – encontram-se textos tratando de modo mais amplo de pensamento geométrico no currículo (Curi), referenciais espaciais (Costa, Verrengia e Pavanello) e ensino de figuras espaciais (Borelli e Martins). Os artigos dessa unidade visam reforçar a importância de tratar aspectos variados do conhecimento geométrico desde o início da escolarização.Em Grandezas e Medidas tem-se artigo sobre estimativas (Braz, Silva e Cardoso) e conteúdos dessa unidade temática associados à literatura infantil (Cidreira e Faustino). Trata-se, portanto, como nas outras unidades temáticas, de habilidades a serem desenvolvidas pelas crianças desde cedo.Na quinta unidade temática - Probabilidade e Estatística - os artigos tratam de crianças realizando pesquisas (Vilas Bôas e Mendes), da compreensão do conceito de amostragem (Gomes e Guimarães), da complexidade dos diferentes tipos de representação de tabelas (Pallauta, Batanero e Gea), de aprendizagens dos estudantes sobre essas representações (Evangelista e Pontes), da aprendizagem de medidas de tendência central (Cazorla, Magina e Santana), da aprendizagem de Combinatória (Gadelha e Borba), o qual consideramos incluso nesse eixo pela proximidade com a Probabilidade e, finalmente, práticas investigativas com modelagem na sala de aula (Tortola e Silva). Esses estudos evidenciam a possibilidade de aprendizagem pelas crianças de conceitos estatísticos e combinatórios, tendo a pesquisa como objeto de ensino e aprendizagem.Por fim, perpassando as unidades temáticas, há um artigo que faz uma revisão sistemática de estudos que tratam da Modelagem nos anos iniciais (Teodoro e Kato). Essa é uma perspectiva teórica relevante, dentre as diversas teorias importantes nas quais os textos desse número especial são embasados. No conjunto dos artigos têm-se pesquisas realizadas com estudantes e com professores e as investigações tratam de perspectivas variadas: Análises de materiais curriculares e recursos didáticos, como livros didáticos, literatura infantil e recursos tecnológicos;Perspectivas teóricas que ajudam a compreender a complexidade da prática em sala de aula (tais como a Teoria dos Campos Conceituais, a Teoria da Atividade, a Modelagem Matemática, o Estudo de Aula (Lesson Study), a Teoria dos Registros de Representação Semiótica e a Comunidade de Prática Profissional de Professores, dentre outras). A partir da publicação desse número temático, esperamos contribuir para o atendimento dos objetivos do GT01 da SBEM: discutir e divulgar investigações referentes ao ensino e à aprendizagem da Matemática na Educação Infantil e nos anos iniciais do Ensino Fundamental, a partir dos focos de pesquisa desse grupo de trabalho, quais sejam: a) formação inicial e continuada de professores de anos iniciais de escolarização; b) conhecimento de estudantes, deste nível de ensino, de conceitos matemáticos desenvolvidos dentro e fora da sala de aula; c) recursos didáticos para o ensino de Matemática na Educação Infantil e anos iniciais do Ensino Fundamental; d) inclusão e aprendizado de Matemática nestes anos de ensino. Desejamos a todos uma boa leitura e muitas reflexões que possam auxiliar o desenvolvimento matemático de nossos estudantes de início de escolarização.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2021,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/251016",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/251016",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2021-08-05T09:50:36Z",
+        "allTitles": [
+          "Editorial - Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais"
+        ],
+        "allDescriptions": [
+          "O número temático Articulações entre Ensino e Pesquisa em Educação Matemática nos Anos Iniciais é uma iniciativa do Grupo de Trabalho 01 (GT01) da Sociedade Brasileira de Educação Matemática – SBEM.O GT01 tem como foco a Matemática na Educação Infantil e nos Anos Iniciais do Ensino Fundamental e encontra-se, atualmente, sob a coordenação da Profa. Dra. Edda Curi (Unicsul) e do Prof. Dr. João Alberto da Silva (FURG).Nesse número temático há artigos de membros do GT01 de diferentes instituições em distintas regiões brasileiras e também de outros pesquisadores que se interessam pelo ensino e aprendizagem da Matemática nos anos iniciais de escolarização.Essa edição especial da revista Em Teia tem como objetivo central: tornar resultados de pesquisa acessíveis a professores de início de escolarização e a formadores desses professores, a pesquisadores dos níveis iniciais de ensino, bem como a responsáveis por propostas curriculares – seja em documentos oficiais, seja em materiais e livros textos para estudantes e professores.Os artigos desse número tratam das cinco unidades temáticas na Matemática que orientam a formulação de habilidades a serem desenvolvidas ao longo do Ensino Fundamental, como indicado pela Base Nacional Comum Curricular (BNCC): Números, Álgebra, Geometria, Grandezas e Medidas e Probabilidade e Estatística. Descrevemos, a seguir, o que abordam os textos desse número especial, com indicação (entre parêntesis) dos autores que pesquisaram questões dentro de cada unidade temática.Na unidade temática Números, têm-se artigos que tratam dos papéis desempenhados pelo professor e pelos alunos no desenvolvimento do raciocínio matemático (Serrazina), do reconhecimento e da produção de notações linguísticas e numéricas por crianças de quatro a seis anos de idade (Sousa, Silva e Spinillo), do ensino de operações no campo aditivo (Etcheverria, Silva e Campos), da análise do raciocínio de alunos de operações no campo multiplicativo (Vieira e Abrahão); e de formação de professores na análise de tarefas sobre números e operações (Maggioni e Goldoni). Os textos dessa temática buscam contribuir para novos olhares para os números e as operações aritméticas – o que por muito tempo foi praticamente o foco exclusivo da Matemática nos anos iniciais de escolarização.Em Álgebra – unidade temática mais recentemente inserida em currículos de anos iniciais de escolarização – constam artigos referentes a tarefas algébricas prescritas (Oliveira e Farias), ao pensamento funcional (Souza e Carneiro) e ao que pensam professores sobre o ensino antecipado da álgebra (Oliveira e Paulo) e ao discurso instrucional de igualdade (Luna, Merlini e Ferreira). Esses textos defendem o movimento mundial da Early Algebra, ou seja, o início do desenvolvimento do raciocínio algébrico desde os primeiros anos escolares.Na terceira unidade temática – Geometria – encontram-se textos tratando de modo mais amplo de pensamento geométrico no currículo (Curi), referenciais espaciais (Costa, Verrengia e Pavanello) e ensino de figuras espaciais (Borelli e Martins). Os artigos dessa unidade visam reforçar a importância de tratar aspectos variados do conhecimento geométrico desde o início da escolarização.Em Grandezas e Medidas tem-se artigo sobre estimativas (Braz, Silva e Cardoso) e conteúdos dessa unidade temática associados à literatura infantil (Cidreira e Faustino). Trata-se, portanto, como nas outras unidades temáticas, de habilidades a serem desenvolvidas pelas crianças desde cedo.Na quinta unidade temática - Probabilidade e Estatística - os artigos tratam de crianças realizando pesquisas (Vilas Bôas e Mendes), da compreensão do conceito de amostragem (Gomes e Guimarães), da complexidade dos diferentes tipos de representação de tabelas (Pallauta, Batanero e Gea), de aprendizagens dos estudantes sobre essas representações (Evangelista e Pontes), da aprendizagem de medidas de tendência central (Cazorla, Magina e Santana), da aprendizagem de Combinatória (Gadelha e Borba), o qual consideramos incluso nesse eixo pela proximidade com a Probabilidade e, finalmente, práticas investigativas com modelagem na sala de aula (Tortola e Silva). Esses estudos evidenciam a possibilidade de aprendizagem pelas crianças de conceitos estatísticos e combinatórios, tendo a pesquisa como objeto de ensino e aprendizagem.Por fim, perpassando as unidades temáticas, há um artigo que faz uma revisão sistemática de estudos que tratam da Modelagem nos anos iniciais (Teodoro e Kato). Essa é uma perspectiva teórica relevante, dentre as diversas teorias importantes nas quais os textos desse número especial são embasados. No conjunto dos artigos têm-se pesquisas realizadas com estudantes e com professores e as investigações tratam de perspectivas variadas: Análises de materiais curriculares e recursos didáticos, como livros didáticos, literatura infantil e recursos tecnológicos;Perspectivas teóricas que ajudam a compreender a complexidade da prática em sala de aula (tais como a Teoria dos Campos Conceituais, a Teoria da Atividade, a Modelagem Matemática, o Estudo de Aula (Lesson Study), a Teoria dos Registros de Representação Semiótica e a Comunidade de Prática Profissional de Professores, dentre outras). A partir da publicação desse número temático, esperamos contribuir para o atendimento dos objetivos do GT01 da SBEM: discutir e divulgar investigações referentes ao ensino e à aprendizagem da Matemática na Educação Infantil e nos anos iniciais do Ensino Fundamental, a partir dos focos de pesquisa desse grupo de trabalho, quais sejam: a) formação inicial e continuada de professores de anos iniciais de escolarização; b) conhecimento de estudantes, deste nível de ensino, de conceitos matemáticos desenvolvidos dentro e fora da sala de aula; c) recursos didáticos para o ensino de Matemática na Educação Infantil e anos iniciais do Ensino Fundamental; d) inclusão e aprendizado de Matemática nestes anos de ensino. Desejamos a todos uma boa leitura e muitas reflexões que possam auxiliar o desenvolvimento matemático de nossos estudantes de início de escolarização."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2021-08-03"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 12 n. 3 (2021): Articulações entre Ensino e Pesquisa em Educação Matemática nos anos iniciais",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:35:32.313140+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.51359/2177-9309.2022.256297",
+      "journal": "emteia",
+      "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Giordano, Cassio Cristiano",
+        "Kistemann, Marco Aurélio"
+      ],
+      "institutions": [],
+      "abstract": "Editorial do número temático.",
+      "abstractOriginal": "Editorial do número temático.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.51359/2177-9309.2022.256297",
+      "url": "https://periodicos.ufpe.br/revistas/emteia/article/view/256297",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/256297",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufpe.br/revistas/emteia/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-03-11T11:04:18Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "Editorial do número temático."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-10-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Artigo avaliado pelos Pares"
+          ],
+          "sources": [
+            "Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 13 n. 3 (2022)",
+            "2177-9309"
+          ],
+          "publishers": [
+            "Universidade Federal de Pernambuco"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:35:55.960071+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "doi:10.12802/relime.17.2030",
       "journal": "relime",
       "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
