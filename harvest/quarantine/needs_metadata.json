@@ -58,7 +58,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T23:22:16.932799+00:00",
+      "harvestedAt": "2026-09-26T00:10:34.939457+00:00",
       "corpusStatus": "needs_metadata",
       "corpusReason": "missing_abstract_and_keywords"
     },
@@ -120,7 +120,7 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T23:22:16.932934+00:00",
+      "harvestedAt": "2026-09-26T00:10:34.939614+00:00",
       "corpusStatus": "needs_metadata",
       "corpusReason": "missing_abstract_and_keywords"
     },
@@ -183,7 +183,133 @@
           ]
         }
       },
-      "harvestedAt": "2026-09-25T23:22:16.933128+00:00",
+      "harvestedAt": "2026-09-26T00:10:34.939832+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/31473",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Book Revew: \"Statistics and Probability in High School\" (Eng)",
+      "titleOriginal": "Book Revew: \"Statistics and Probability in High School\" (Eng)",
+      "titleEn": "",
+      "authors": [
+        "Coutinho, Cileda de Queiroz e Silva",
+        "Samá, Suzi"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/31473",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/31473",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-06-03T20:07:28Z",
+        "allTitles": [
+          "Book Revew: \"Statistics and Probability in High School\" (Eng)"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-01-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 18 No. 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa; Vol. 18 Núm. 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa; Vol. 18 No 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 18 n. 3 (2016): Número temático: Educação Estatística",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:11:08.986664+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs.revistas.pucsp.br:article/31474",
+      "journal": "emp",
+      "journalName": "Educação Matemática Pesquisa",
+      "title": "Resenha do livro \"Statistics and Probability in High School\" (Port)",
+      "titleOriginal": "Resenha do livro \"Statistics and Probability in High School\" (Port)",
+      "titleEn": "",
+      "authors": [
+        "Coutinho, Cileda de Queiroz e Silva",
+        "Samá, Suzi"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://revistas.pucsp.br/index.php/emp/article/view/31474",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/31474",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://revistas.pucsp.br/index.php/emp/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2018-06-03T20:07:28Z",
+        "allTitles": [
+          "Resenha do livro \"Statistics and Probability in High School\" (Port)"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-01-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática Pesquisa; Vol. 18 No. 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa; Vol. 18 Núm. 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa; Vol. 18 No 3 (2016): Número temático: Educação Estatística",
+            "Educação Matemática Pesquisa: Revista do Programa de Estudos Pós-Graduados em Educação Matemática; v. 18 n. 3 (2016): Número temático: Educação Estatística",
+            "1983-3156",
+            "1516-5388"
+          ],
+          "publishers": [
+            "Pontifícia Universidade Católica de São Paulo"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:11:08.986840+00:00",
       "corpusStatus": "needs_metadata",
       "corpusReason": "missing_abstract_and_keywords"
     },
