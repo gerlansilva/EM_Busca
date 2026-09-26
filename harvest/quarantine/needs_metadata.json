@@ -314,6 +314,3479 @@
       "corpusReason": "missing_abstract_and_keywords"
     },
     {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/14",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/14",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/14",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:15:33Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 26 - Março, 2009; 51",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.310611+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/27",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/27",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/27",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:15:00Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 27 - Agosto, 2009; 44",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.313537+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/75",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais.",
+      "titleOriginal": "Diretorias Regionais.",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/75",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/75",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:14:32Z",
+        "allTitles": [
+          "Diretorias Regionais."
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 28 - Novembro, 2009; 29",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.316610+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/167",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011-2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011-2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/167",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/167",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:14:32Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011-2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 28 - Novembro, 2009; -",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.317462+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/168",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado(a) Sócio(a),",
+      "titleOriginal": "Estimado(a) Sócio(a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Neves, Regina da Silva Pina"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/168",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/168",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:14:05Z",
+        "allTitles": [
+          "Estimado(a) Sócio(a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 29 - Março, 2010; 03",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.317633+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/175",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado (a) Sócio (a),",
+      "titleOriginal": "Estimado (a) Sócio (a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Bittar, Marilena"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/175",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/175",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:44Z",
+        "allTitles": [
+          "Estimado (a) Sócio (a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 30 - Agosto, 2010; 03",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.318698+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/177",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Peculiaridades da Matemática Escolar",
+      "titleOriginal": "Peculiaridades da Matemática Escolar",
+      "titleEn": "",
+      "authors": [
+        "Lucas, Anderson B."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/177",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/177",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:44Z",
+        "allTitles": [
+          "Peculiaridades da Matemática Escolar"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 30 - Agosto, 2010; 13-16",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.319200+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/198",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado (a) Sócio (a),",
+      "titleOriginal": "Estimado (a) Sócio (a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Bittar, Marilena"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/198",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/198",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:23Z",
+        "allTitles": [
+          "Estimado (a) Sócio (a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 31 - Novembro, 2010; 03",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.322830+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/201",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado (a) Sócio (a),",
+      "titleOriginal": "Estimado (a) Sócio (a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Pina Neves, Regina da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/201",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/201",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:57Z",
+        "allTitles": [
+          "Estimado (a) Sócio (a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 32 - Março, 2011; 03",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.323003+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/208",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/208",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/208",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:58Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 32 - Março, 2011; 61",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.325141+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/209",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/209",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/209",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:23Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 31 - Novembro, 2010; 43",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.325319+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/212",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011 -2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011 -2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/212",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/212",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:14:05Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011 -2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 29 - Março, 2010; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.326067+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/213",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011 -2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011 -2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/213",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/213",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:44Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011 -2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 30 - Agosto, 2010; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.326241+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/216",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/216",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/216",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:13:23Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011 - 2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 31 - Novembro, 2010; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.326401+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/217",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/217",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/217",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:57Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011 - 2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 32 - Março, 2011; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.326557+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/219",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado (a) Sócio (a),",
+      "titleOriginal": "Estimado (a) Sócio (a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Pina Neves, Regina da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/219",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/219",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:36Z",
+        "allTitles": [
+          "Estimado (a) Sócio (a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 33 - Agosto, 2011; 03",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.326727+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/225",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/225",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/225",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:36Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 33 - Agosto, 2011; 57",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.328486+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/226",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleOriginal": "Diretoria Nacional Executiva - Gestão 2011 - 2013",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/226",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/226",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:36Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva - Gestão 2011 - 2013"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-07-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 33 - Agosto, 2011; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.328647+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/227",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/227",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/227",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:09Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 34 - Novembro, 2011; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.328804+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/228",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado (a) Sócio (a),",
+      "titleOriginal": "Estimado (a) Sócio (a),",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional",
+        "Pina Neves, Regina da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/228",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/228",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:09Z",
+        "allTitles": [
+          "Estimado (a) Sócio (a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 34 - Novembro, 2011; 03 - 04",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.328972+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/235",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental",
+      "titleOriginal": "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental",
+      "titleEn": "",
+      "authors": [
+        "Oliveira, Luana Pedrita Fernandes de"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/235",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/235",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:09Z",
+        "allTitles": [
+          "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 34 - Novembro, 2011; 62 - 65",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.331207+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/236",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/236",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/236",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:12:09Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 34 - Novembro, 2011; 66",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.331373+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/237",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/237",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/237",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:41Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 35 - Março, 2012; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.331533+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/238",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado(a) Sócio(a),",
+      "titleOriginal": "Estimado(a) Sócio(a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Bittar, Marilena"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/238",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/238",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:41Z",
+        "allTitles": [
+          "Estimado(a) Sócio(a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 35 - Março, 2012; 03 - 04",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.331701+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/245",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Práticas de Modelagem Matemática na Educação Matemática",
+      "titleOriginal": "Práticas de Modelagem Matemática na Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Tambarussi, Carla Melli"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/245",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/245",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:41Z",
+        "allTitles": [
+          "Práticas de Modelagem Matemática na Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 35 - Março, 2012; 59 - 62",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.334089+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/246",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/246",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/246",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:41Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 35 - Março, 2012; 63",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.334247+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/247",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado(a) Sócio(a),",
+      "titleOriginal": "Estimado(a) Sócio(a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/247",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/247",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:18Z",
+        "allTitles": [
+          "Estimado(a) Sócio(a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 36 - Agosto, 2012; 03 - 04",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.334407+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/248",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/248",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/248",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:18Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 36 - Agosto, 2012; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:41.334564+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/255",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Discurso, Interação e Aprendizagem Matemática em Ambientes Virtuais a Distância",
+      "titleOriginal": "Discurso, Interação e Aprendizagem Matemática em Ambientes Virtuais a Distância",
+      "titleEn": "",
+      "authors": [
+        "Izar, Soraya"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/255",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/255",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:19Z",
+        "allTitles": [
+          "Discurso, Interação e Aprendizagem Matemática em Ambientes Virtuais a Distância"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 36 - Agosto, 2012; 54 - 59",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.935631+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/256",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/256",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/256",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:11:19Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 36 - Agosto, 2012; 60",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.935882+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/257",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/257",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/257",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:10:55Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 37 - Novembro, 2012; 02",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.936192+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/258",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estimado(a) Sócio(a),",
+      "titleOriginal": "Estimado(a) Sócio(a),",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Bittar, Marilena"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/258",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/258",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:10:55Z",
+        "allTitles": [
+          "Estimado(a) Sócio(a),"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 37 - Novembro, 2012; 03 - 04",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.936597+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/264",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Formação do Professor de Matemática: Reflexões e Propostas",
+      "titleOriginal": "Formação do Professor de Matemática: Reflexões e Propostas",
+      "titleEn": "",
+      "authors": [
+        "Leivas, Prof. Dr. José Carlos Pinto",
+        "Bianchini, Profª. Drª. Barbara Lutaif"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/264",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/264",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:10:56Z",
+        "allTitles": [
+          "Formação do Professor de Matemática: Reflexões e Propostas"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 37 - Novembro, 2012; 51 - 55",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.939885+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/265",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretorias Regionais",
+      "titleOriginal": "Diretorias Regionais",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/265",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/265",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2014-05-26T23:10:56Z",
+        "allTitles": [
+          "Diretorias Regionais"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-08-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; Número 37 - Novembro, 2012; 56",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.940070+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/274",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Muniz, Cristiano Alberto",
+        "Neves, Regina da Silva Pina"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/274",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/274",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:39:52Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-05-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 3",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.942071+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/282",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/282",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/282",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:39:52Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-05-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 63",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.944796+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/292",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/292",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/292",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:38:47Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-05-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 175",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.947623+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/304",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Diretoria Nacional Executiva",
+      "titleOriginal": "Diretoria Nacional Executiva",
+      "titleEn": "",
+      "authors": [
+        "Executiva, Diretoria Nacional"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/304",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/304",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:38:11Z",
+        "allTitles": [
+          "Diretoria Nacional Executiva"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-05-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 78",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.951441+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/334",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Avaliar para Aprender",
+      "titleOriginal": "Avaliar para Aprender",
+      "titleEn": "",
+      "authors": [
+        "Ferreira, Paula Ramos",
+        "Ortigão, Maria Isabel Ramalho"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/334",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/334",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:35:36Z",
+        "allTitles": [
+          "Avaliar para Aprender"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-08-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 63-66",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.953692+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/364",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental",
+      "titleOriginal": "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental",
+      "titleEn": "",
+      "authors": [
+        "Batista, Paulo Soares"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/364",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/364",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:35:57Z",
+        "allTitles": [
+          "O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-10-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 57-60",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.956735+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/397",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Psicologia e Conhecimento Subsídios da Psicologia do Desenvolvimento para a Análise do Ensinar e Aprender",
+      "titleOriginal": "Psicologia e Conhecimento Subsídios da Psicologia do Desenvolvimento para a Análise do Ensinar e Aprender",
+      "titleEn": "",
+      "authors": [
+        "Chiesa, Aline de Amorim Pinto",
+        "Lopes, Maria Juliana de Freitas Carvalho"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/397",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/397",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:34:24Z",
+        "allTitles": [
+          "Psicologia e Conhecimento Subsídios da Psicologia do Desenvolvimento para a Análise do Ensinar e Aprender"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-02-13"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 59-62",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.958806+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/433",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica",
+      "titleOriginal": "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica",
+      "abstractOriginal": "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/433",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/433",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:33:08Z",
+        "allTitles": [
+          "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica"
+        ],
+        "allDescriptions": [
+          "As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-06-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 39-48",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.960108+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/435",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Currículo, Cultura e Educação Matemática: Uma Aproximação Possível?",
+      "titleOriginal": "Currículo, Cultura e Educação Matemática: Uma Aproximação Possível?",
+      "titleEn": "",
+      "authors": [
+        "Godoy, Elenilton Vieira"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/435",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/435",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:33:08Z",
+        "allTitles": [
+          "Currículo, Cultura e Educação Matemática: Uma Aproximação Possível?"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-06-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 58-61",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.960470+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/454",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem",
+      "titleOriginal": "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem",
+      "abstractOriginal": "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/454",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/454",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:32:29Z",
+        "allTitles": [
+          "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem"
+        ],
+        "allDescriptions": [
+          "O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-08-15"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 05-11",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:43.960971+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/504",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática",
+      "titleOriginal": "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática",
+      "abstractOriginal": "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/504",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/504",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:31:53Z",
+        "allTitles": [
+          "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática"
+        ],
+        "allDescriptions": [
+          "Estágio Docente: Sobre a Formação de Professores em Modelagem Matemática na Educação Matemática"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-09-16"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 63-71",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:46.663068+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/545",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função",
+      "titleOriginal": "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função",
+      "abstractOriginal": "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/545",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/545",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-26T15:31:20Z",
+        "allTitles": [
+          "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função"
+        ],
+        "allDescriptions": [
+          "Álgebra para a Formação do Professor: explorando os conceitos de equação e de função"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-12-17"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 20 n. 47 (2015): out./dez.; 83-84",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:46.665829+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/764",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Números Complexos: interação e aprendizagem",
+      "titleOriginal": "Números Complexos: interação e aprendizagem",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Este artigo apresenta um objeto de aprendizagem (OA), denominado Números Complexos: interação e aprendizagem, que foi construído durante o mestrado profissional. O OA tem o objetivo de desenvolver uma aprendizagem ativa e significativa, por meio de interações com aplicativos desenvolvidos no GeoGebra, que estão disponíveis em http://matematicacomplexa.hol.es/. Por meio dos aplicativos, apresentam-se os números complexos numa perspectiva geométrica, diferente da abordagem algébrica que é proposta pelos livros didáticos. Os públicos alvos desse recurso são os professores e os estudantes do Ensino Médio. A teoria de David Ausubel, de aprendizagem significativa, fundamentou a construção do OA, que propõe também promover o estudante como sujeito ativo, por meio da sua interação nos aplicativos do Geogebra, momentos de reflexão e, consequentemente, a construção da sua aprendizagem. Este artigo apresenta os dez ambientes de aprendizagens desenvolvidos no OA, pensados e criados conforme as necessidades e a diversidade de estudantes que estão presentes nas escolas. O OA já aplicado e analisado propiciou trocas de conhecimentos entre os estudantes, principalmente durante as interações no GeoGebra.",
+      "abstractOriginal": "Este artigo apresenta um objeto de aprendizagem (OA), denominado Números Complexos: interação e aprendizagem, que foi construído durante o mestrado profissional. O OA tem o objetivo de desenvolver uma aprendizagem ativa e significativa, por meio de interações com aplicativos desenvolvidos no GeoGebra, que estão disponíveis em http://matematicacomplexa.hol.es/. Por meio dos aplicativos, apresentam-se os números complexos numa perspectiva geométrica, diferente da abordagem algébrica que é proposta pelos livros didáticos. Os públicos alvos desse recurso são os professores e os estudantes do Ensino Médio. A teoria de David Ausubel, de aprendizagem significativa, fundamentou a construção do OA, que propõe também promover o estudante como sujeito ativo, por meio da sua interação nos aplicativos do Geogebra, momentos de reflexão e, consequentemente, a construção da sua aprendizagem. Este artigo apresenta os dez ambientes de aprendizagens desenvolvidos no OA, pensados e criados conforme as necessidades e a diversidade de estudantes que estão presentes nas escolas. O OA já aplicado e analisado propiciou trocas de conhecimentos entre os estudantes, principalmente durante as interações no GeoGebra.",
+      "abstractEn": "",
+      "keywords": [
+        "Objeto de aprendizagem. Números Complexos. Aprendizagem Significativa. Ensino Médio."
+      ],
+      "keywordsOriginal": [
+        "Objeto de aprendizagem. Números Complexos. Aprendizagem Significativa. Ensino Médio."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/764",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/764",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:56:24Z",
+        "allTitles": [
+          "Números Complexos: interação e aprendizagem"
+        ],
+        "allDescriptions": [
+          "Este artigo apresenta um objeto de aprendizagem (OA), denominado Números Complexos: interação e aprendizagem, que foi construído durante o mestrado profissional. O OA tem o objetivo de desenvolver uma aprendizagem ativa e significativa, por meio de interações com aplicativos desenvolvidos no GeoGebra, que estão disponíveis em http://matematicacomplexa.hol.es/. Por meio dos aplicativos, apresentam-se os números complexos numa perspectiva geométrica, diferente da abordagem algébrica que é proposta pelos livros didáticos. Os públicos alvos desse recurso são os professores e os estudantes do Ensino Médio. A teoria de David Ausubel, de aprendizagem significativa, fundamentou a construção do OA, que propõe também promover o estudante como sujeito ativo, por meio da sua interação nos aplicativos do Geogebra, momentos de reflexão e, consequentemente, a construção da sua aprendizagem. Este artigo apresenta os dez ambientes de aprendizagens desenvolvidos no OA, pensados e criados conforme as necessidades e a diversidade de estudantes que estão presentes nas escolas. O OA já aplicado e analisado propiciou trocas de conhecimentos entre os estudantes, principalmente durante as interações no GeoGebra."
+        ],
+        "allSubjects": [
+          "Objeto de aprendizagem. Números Complexos. Aprendizagem Significativa. Ensino Médio."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2017-10-23"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 22 n. 55 (2017): jul./set.; 139-151",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:49.523445+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/851",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Alguns Apontamentos sobre a Avaliação no Curso de Licenciatura em Matemática a partir de uma Experiência",
+      "titleOriginal": "Alguns Apontamentos sobre a Avaliação no Curso de Licenciatura em Matemática a partir de uma Experiência",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Partindo da premissa de que os processos avaliativos pelos quais passam os futuros professores influenciam o seu modo de avaliar, quando docentes, o presente artigo objetiva discutir uma experiência em avaliação na disciplina de Introdução à Lógica, ministrada no curso de Licenciatura em Matemática, e compreendê-la como um instrumento orientador da atividade de ensino e de aprendizagem. Para isso, este trabalho discute a avaliação desenvolvida a partir das percepções de 18 estudantes que responderam a um questionário. Os resultados trazem indícios da possível relação da melhoria da aprendizagem com o modo de organização da disciplina e, em especial, da avaliação. Assim, oportunizar momentos de discussões coletivas durante as aulas e antes da prova escrita, incentivar diferentes formas de desenvolver e expressar situações-problema relativas ao conteúdo estudado e deixar claro aos alunos em que se constituirá a prova escrita são encaminhamentos possíveis para a constituição de uma avaliação formativa.",
+      "abstractOriginal": "Partindo da premissa de que os processos avaliativos pelos quais passam os futuros professores influenciam o seu modo de avaliar, quando docentes, o presente artigo objetiva discutir uma experiência em avaliação na disciplina de Introdução à Lógica, ministrada no curso de Licenciatura em Matemática, e compreendê-la como um instrumento orientador da atividade de ensino e de aprendizagem. Para isso, este trabalho discute a avaliação desenvolvida a partir das percepções de 18 estudantes que responderam a um questionário. Os resultados trazem indícios da possível relação da melhoria da aprendizagem com o modo de organização da disciplina e, em especial, da avaliação. Assim, oportunizar momentos de discussões coletivas durante as aulas e antes da prova escrita, incentivar diferentes formas de desenvolver e expressar situações-problema relativas ao conteúdo estudado e deixar claro aos alunos em que se constituirá a prova escrita são encaminhamentos possíveis para a constituição de uma avaliação formativa.",
+      "abstractEn": "",
+      "keywords": [
+        "Avaliação. Licenciatura em Matemática. Formação de Professores."
+      ],
+      "keywordsOriginal": [
+        "Avaliação. Licenciatura em Matemática. Formação de Professores."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/851",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/851",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:55:53Z",
+        "allTitles": [
+          "Alguns Apontamentos sobre a Avaliação no Curso de Licenciatura em Matemática a partir de uma Experiência"
+        ],
+        "allDescriptions": [
+          "Partindo da premissa de que os processos avaliativos pelos quais passam os futuros professores influenciam o seu modo de avaliar, quando docentes, o presente artigo objetiva discutir uma experiência em avaliação na disciplina de Introdução à Lógica, ministrada no curso de Licenciatura em Matemática, e compreendê-la como um instrumento orientador da atividade de ensino e de aprendizagem. Para isso, este trabalho discute a avaliação desenvolvida a partir das percepções de 18 estudantes que responderam a um questionário. Os resultados trazem indícios da possível relação da melhoria da aprendizagem com o modo de organização da disciplina e, em especial, da avaliação. Assim, oportunizar momentos de discussões coletivas durante as aulas e antes da prova escrita, incentivar diferentes formas de desenvolver e expressar situações-problema relativas ao conteúdo estudado e deixar claro aos alunos em que se constituirá a prova escrita são encaminhamentos possíveis para a constituição de uma avaliação formativa."
+        ],
+        "allSubjects": [
+          "Avaliação. Licenciatura em Matemática. Formação de Professores."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2018-01-21"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Método e ponto de vista"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 22 n. 56 (2017): out./dez.; 289-303",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:49.536664+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/855",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Prova em Duas Fases na formação inicial: da avaliação como prática de investigação a uma estratégia de formação",
+      "titleOriginal": "Prova em Duas Fases na formação inicial: da avaliação como prática de investigação a uma estratégia de formação",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "O presente artigo tem como objetivo apresentar resultados de uma investigação realizada a partir da aplicação de uma Prova em Duas Fases no contexto de formação inicial de professores de Matemática. Pretende-se apresentar a utilização de um instrumento de avaliação Prova em Duas Fases como um processo de avaliação como prática de investigação e argumentar que a Prova em Fases, no contexto da formação inicial, subsidia práticas de ensino, de aprendizagem, de investigação e de formação. A amostra coletada para este estudo contou com a participação de 25 estudantes de um curso de Licenciatura em Matemática, que argumentaram a respeito do que entendiam por “pensamento algébrico”. A partir da análise realizada, foi possível identificar: que a maioria dos estudantes vincula o pensamento algébrico à capacidade de generalizar; que a intervenção promovida se caracterizou como um processo simultâneo de avaliação e de aprendizagem; e que a prova em duas fases pode se configurar como uma estratégia de formação.",
+      "abstractOriginal": "O presente artigo tem como objetivo apresentar resultados de uma investigação realizada a partir da aplicação de uma Prova em Duas Fases no contexto de formação inicial de professores de Matemática. Pretende-se apresentar a utilização de um instrumento de avaliação Prova em Duas Fases como um processo de avaliação como prática de investigação e argumentar que a Prova em Fases, no contexto da formação inicial, subsidia práticas de ensino, de aprendizagem, de investigação e de formação. A amostra coletada para este estudo contou com a participação de 25 estudantes de um curso de Licenciatura em Matemática, que argumentaram a respeito do que entendiam por “pensamento algébrico”. A partir da análise realizada, foi possível identificar: que a maioria dos estudantes vincula o pensamento algébrico à capacidade de generalizar; que a intervenção promovida se caracterizou como um processo simultâneo de avaliação e de aprendizagem; e que a prova em duas fases pode se configurar como uma estratégia de formação.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação Matemática. Avaliação como prática de Investigação. Prova em Duas Fases. Avaliação como oportunidade de aprendizagem. Formação de professor."
+      ],
+      "keywordsOriginal": [
+        "Educação Matemática. Avaliação como prática de Investigação. Prova em Duas Fases. Avaliação como oportunidade de aprendizagem. Formação de professor."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/855",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/855",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:55:53Z",
+        "allTitles": [
+          "Prova em Duas Fases na formação inicial: da avaliação como prática de investigação a uma estratégia de formação"
+        ],
+        "allDescriptions": [
+          "O presente artigo tem como objetivo apresentar resultados de uma investigação realizada a partir da aplicação de uma Prova em Duas Fases no contexto de formação inicial de professores de Matemática. Pretende-se apresentar a utilização de um instrumento de avaliação Prova em Duas Fases como um processo de avaliação como prática de investigação e argumentar que a Prova em Fases, no contexto da formação inicial, subsidia práticas de ensino, de aprendizagem, de investigação e de formação. A amostra coletada para este estudo contou com a participação de 25 estudantes de um curso de Licenciatura em Matemática, que argumentaram a respeito do que entendiam por “pensamento algébrico”. A partir da análise realizada, foi possível identificar: que a maioria dos estudantes vincula o pensamento algébrico à capacidade de generalizar; que a intervenção promovida se caracterizou como um processo simultâneo de avaliação e de aprendizagem; e que a prova em duas fases pode se configurar como uma estratégia de formação."
+        ],
+        "allSubjects": [
+          "Educação Matemática. Avaliação como prática de Investigação. Prova em Duas Fases. Avaliação como oportunidade de aprendizagem. Formação de professor."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2018-01-21"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 22 n. 56 (2017): out./dez.; 334-349",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:49.537023+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/870",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Avaliação na sala de aula de matemática e a constituição de Zona de Desenvolvimento Iminente",
+      "titleOriginal": "Avaliação na sala de aula de matemática e a constituição de Zona de Desenvolvimento Iminente",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "O artigo apresenta a tessitura do processo de ensino e aprendizagem de conceitos geométricos, tendo como base fundante a concepção histórico-cultural e a avaliação como processo inerente à constituição de Zona de Desenvolvimento Iminente. Nele se ressalta a importância de uma avaliação diagnóstica e prioriza a relação dialógica de apropriação de conceitos matemáticos no contexto de uma turma do 5º ano do Ensino Fundamental, quando estudantes, em ações colaborativas, buscam resolver problemas geométricos com o auxílio de applets. Apresenta-se como uma pesquisa de campo-qualitativa com enfoque sócio-histórico, tendo como principal resultado que a essência dos mecanismos avaliativos escolares não segue roteiros fixos e pré-estabelecidos, mas constitui-se no movimento dialético e contraditório de trocas e ações, por meio de relações dialógicas, mediadas pelo professor.",
+      "abstractOriginal": "O artigo apresenta a tessitura do processo de ensino e aprendizagem de conceitos geométricos, tendo como base fundante a concepção histórico-cultural e a avaliação como processo inerente à constituição de Zona de Desenvolvimento Iminente. Nele se ressalta a importância de uma avaliação diagnóstica e prioriza a relação dialógica de apropriação de conceitos matemáticos no contexto de uma turma do 5º ano do Ensino Fundamental, quando estudantes, em ações colaborativas, buscam resolver problemas geométricos com o auxílio de applets. Apresenta-se como uma pesquisa de campo-qualitativa com enfoque sócio-histórico, tendo como principal resultado que a essência dos mecanismos avaliativos escolares não segue roteiros fixos e pré-estabelecidos, mas constitui-se no movimento dialético e contraditório de trocas e ações, por meio de relações dialógicas, mediadas pelo professor.",
+      "abstractEn": "",
+      "keywords": [
+        "Avaliação Diagnóstica. Zona de Desenvolvimento Iminente. Conceitos geométricos."
+      ],
+      "keywordsOriginal": [
+        "Avaliação Diagnóstica. Zona de Desenvolvimento Iminente. Conceitos geométricos."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/870",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/870",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:55:53Z",
+        "allTitles": [
+          "Avaliação na sala de aula de matemática e a constituição de Zona de Desenvolvimento Iminente"
+        ],
+        "allDescriptions": [
+          "O artigo apresenta a tessitura do processo de ensino e aprendizagem de conceitos geométricos, tendo como base fundante a concepção histórico-cultural e a avaliação como processo inerente à constituição de Zona de Desenvolvimento Iminente. Nele se ressalta a importância de uma avaliação diagnóstica e prioriza a relação dialógica de apropriação de conceitos matemáticos no contexto de uma turma do 5º ano do Ensino Fundamental, quando estudantes, em ações colaborativas, buscam resolver problemas geométricos com o auxílio de applets. Apresenta-se como uma pesquisa de campo-qualitativa com enfoque sócio-histórico, tendo como principal resultado que a essência dos mecanismos avaliativos escolares não segue roteiros fixos e pré-estabelecidos, mas constitui-se no movimento dialético e contraditório de trocas e ações, por meio de relações dialógicas, mediadas pelo professor."
+        ],
+        "allSubjects": [
+          "Avaliação Diagnóstica. Zona de Desenvolvimento Iminente. Conceitos geométricos."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2018-01-21"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Qualitativo, com enfoque sócio-histórico"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 22 n. 56 (2017): out./dez.; 246-260",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:49.539430+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1039",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Construção de novos espaços de aprendizagem com a inserção dos dispositivos móveis",
+      "titleOriginal": "Construção de novos espaços de aprendizagem com a inserção dos dispositivos móveis",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "O presente artigo tem por objetivo identificar de que forma os alunos se apropriam da construção de conhecimentos matemáticos mediados pelo uso das tecnologias digitais como um recurso didático-pedagógico. Apresentam-se as fases do desenvolvimento tecnológico em Educação Matemática, no Brasil, destacando aspectos da quarta fase, como GeoGebra, Facebook, WhatsApp, smartphones e netbooks. Este estudo relata os resultados da investigação realizada com alunos do nono ano, do Ensino Fundamental, de uma escola da rede pública, no período de março a dezembro de 2016. Nesse sentido, desenvolvemos práticas pedagógicas de inserção dos dispositivos móveis e do software GeoGebra nas aulas de Matemática. Para a análise dos dados, foi adotado o método da Análise Textual Discursiva por ser de abordagem qualitativa e permitir a compreensão do fenômeno investigado no ambiente educativo. Com os resultados obtidos, percebeu-se que a construção de novos espaços de aprendizagem permitiu ampliar as possibilidades de investigação matemática, aproximando alunos e professores.",
+      "abstractOriginal": "O presente artigo tem por objetivo identificar de que forma os alunos se apropriam da construção de conhecimentos matemáticos mediados pelo uso das tecnologias digitais como um recurso didático-pedagógico. Apresentam-se as fases do desenvolvimento tecnológico em Educação Matemática, no Brasil, destacando aspectos da quarta fase, como GeoGebra, Facebook, WhatsApp, smartphones e netbooks. Este estudo relata os resultados da investigação realizada com alunos do nono ano, do Ensino Fundamental, de uma escola da rede pública, no período de março a dezembro de 2016. Nesse sentido, desenvolvemos práticas pedagógicas de inserção dos dispositivos móveis e do software GeoGebra nas aulas de Matemática. Para a análise dos dados, foi adotado o método da Análise Textual Discursiva por ser de abordagem qualitativa e permitir a compreensão do fenômeno investigado no ambiente educativo. Com os resultados obtidos, percebeu-se que a construção de novos espaços de aprendizagem permitiu ampliar as possibilidades de investigação matemática, aproximando alunos e professores.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1039",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1039",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:53:24Z",
+        "allTitles": [
+          "Construção de novos espaços de aprendizagem com a inserção dos dispositivos móveis"
+        ],
+        "allDescriptions": [
+          "O presente artigo tem por objetivo identificar de que forma os alunos se apropriam da construção de conhecimentos matemáticos mediados pelo uso das tecnologias digitais como um recurso didático-pedagógico. Apresentam-se as fases do desenvolvimento tecnológico em Educação Matemática, no Brasil, destacando aspectos da quarta fase, como GeoGebra, Facebook, WhatsApp, smartphones e netbooks. Este estudo relata os resultados da investigação realizada com alunos do nono ano, do Ensino Fundamental, de uma escola da rede pública, no período de março a dezembro de 2016. Nesse sentido, desenvolvemos práticas pedagógicas de inserção dos dispositivos móveis e do software GeoGebra nas aulas de Matemática. Para a análise dos dados, foi adotado o método da Análise Textual Discursiva por ser de abordagem qualitativa e permitir a compreensão do fenômeno investigado no ambiente educativo. Com os resultados obtidos, percebeu-se que a construção de novos espaços de aprendizagem permitiu ampliar as possibilidades de investigação matemática, aproximando alunos e professores."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-10-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 23 n. 59 (2018): jul./set.; 69-85",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:52.229415+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1370",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Práticas sociais e matemática em escolas ribeirinhas: uma análise discursiva",
+      "titleOriginal": "Práticas sociais e matemática em escolas ribeirinhas: uma análise discursiva",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Este artigo é parte da pesquisa “Atividades socioculturais em comunidades ribeirinhas do arquipélago belenense”, apresenta a análise do discurso dos sujeitos da pesquisa, ribeirinhos da ilha de Cotijuba, Belém, Pará, Brasil, em relação ao processo de ensino/aprendizagem da matemática escolar, considerando o contexto sociocultural. Com aporte teórico na Etnomatemática, evidenciam-se múltiplas relações entre ensino e aprendizagem da matemática e problemas relacionados às questões socioeconômicas da comunidade. A metodologia centrou-se na observação e na entrevista semiestruturada, em diálogos com moradores, professor e estudantes de uma escola de Cotijuba. A análise do discurso, na perspectiva da semiótica discursiva, com o intuito de se construir “cenário para investigação” das práticas sociais e suas relações com o ensino da matemática, considerando-se a cultura ribeirinha em seus múltiplos aspectos. Observou-se a potencialidade pedagógica do processo de ensino/aprendizagem de matemática em interconexão com outras áreas dos saberes da tradição considerando as práticas sociais da comunidade.",
+      "abstractOriginal": "Este artigo é parte da pesquisa “Atividades socioculturais em comunidades ribeirinhas do arquipélago belenense”, apresenta a análise do discurso dos sujeitos da pesquisa, ribeirinhos da ilha de Cotijuba, Belém, Pará, Brasil, em relação ao processo de ensino/aprendizagem da matemática escolar, considerando o contexto sociocultural. Com aporte teórico na Etnomatemática, evidenciam-se múltiplas relações entre ensino e aprendizagem da matemática e problemas relacionados às questões socioeconômicas da comunidade. A metodologia centrou-se na observação e na entrevista semiestruturada, em diálogos com moradores, professor e estudantes de uma escola de Cotijuba. A análise do discurso, na perspectiva da semiótica discursiva, com o intuito de se construir “cenário para investigação” das práticas sociais e suas relações com o ensino da matemática, considerando-se a cultura ribeirinha em seus múltiplos aspectos. Observou-se a potencialidade pedagógica do processo de ensino/aprendizagem de matemática em interconexão com outras áreas dos saberes da tradição considerando as práticas sociais da comunidade.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1370",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1370",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-23T10:52:32Z",
+        "allTitles": [
+          "Práticas sociais e matemática em escolas ribeirinhas: uma análise discursiva"
+        ],
+        "allDescriptions": [
+          "Este artigo é parte da pesquisa “Atividades socioculturais em comunidades ribeirinhas do arquipélago belenense”, apresenta a análise do discurso dos sujeitos da pesquisa, ribeirinhos da ilha de Cotijuba, Belém, Pará, Brasil, em relação ao processo de ensino/aprendizagem da matemática escolar, considerando o contexto sociocultural. Com aporte teórico na Etnomatemática, evidenciam-se múltiplas relações entre ensino e aprendizagem da matemática e problemas relacionados às questões socioeconômicas da comunidade. A metodologia centrou-se na observação e na entrevista semiestruturada, em diálogos com moradores, professor e estudantes de uma escola de Cotijuba. A análise do discurso, na perspectiva da semiótica discursiva, com o intuito de se construir “cenário para investigação” das práticas sociais e suas relações com o ensino da matemática, considerando-se a cultura ribeirinha em seus múltiplos aspectos. Observou-se a potencialidade pedagógica do processo de ensino/aprendizagem de matemática em interconexão com outras áreas dos saberes da tradição considerando as práticas sociais da comunidade."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-12-25"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 23 n. 60 (2018): out./dez.; 413-428",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:46:57.548735+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1725",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Razões Históricas do programa Etnomatemática",
+      "titleOriginal": "Razões Históricas do programa Etnomatemática",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Este artigo tem como objetivo oferecer uma introdução aos aspectos históricos do programa Etnomatemática. Os autores deste artigo procuram mostrar que a Etnomatemática inclui ideias, perspectivas e práticas matemáticas de indivíduos de diferentes culturas e que essas ideias são manifestadas e transmitidas de diversos modos. Os estudos da história da Etnomatemática e de seus proponentes ajuda-nos a identificar a importância dessa perspectiva para a educação matemática. O desenvolvimento da Etnomatemática, aqui, é documentado como parte do estudo do desenvolvimento científico das ideias e praticas matemáticas efetuadas por grupos culturais distintos. Este programa foi aclamado internacionalmente em virtude do trabalho de Ubiratan D’Ambrósio durante as últimas décadas.",
+      "abstractOriginal": "Este artigo tem como objetivo oferecer uma introdução aos aspectos históricos do programa Etnomatemática. Os autores deste artigo procuram mostrar que a Etnomatemática inclui ideias, perspectivas e práticas matemáticas de indivíduos de diferentes culturas e que essas ideias são manifestadas e transmitidas de diversos modos. Os estudos da história da Etnomatemática e de seus proponentes ajuda-nos a identificar a importância dessa perspectiva para a educação matemática. O desenvolvimento da Etnomatemática, aqui, é documentado como parte do estudo do desenvolvimento científico das ideias e praticas matemáticas efetuadas por grupos culturais distintos. Este programa foi aclamado internacionalmente em virtude do trabalho de Ubiratan D’Ambrósio durante as últimas décadas.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1725",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1725",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2019-01-24T15:09:59Z",
+        "allTitles": [
+          "Razões Históricas do programa Etnomatemática"
+        ],
+        "allDescriptions": [
+          "Este artigo tem como objetivo oferecer uma introdução aos aspectos históricos do programa Etnomatemática. Os autores deste artigo procuram mostrar que a Etnomatemática inclui ideias, perspectivas e práticas matemáticas de indivíduos de diferentes culturas e que essas ideias são manifestadas e transmitidas de diversos modos. Os estudos da história da Etnomatemática e de seus proponentes ajuda-nos a identificar a importância dessa perspectiva para a educação matemática. O desenvolvimento da Etnomatemática, aqui, é documentado como parte do estudo do desenvolvimento científico das ideias e praticas matemáticas efetuadas por grupos culturais distintos. Este programa foi aclamado internacionalmente em virtude do trabalho de Ubiratan D’Ambrósio durante as últimas décadas."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-01-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; NÚMERO 18/19 - Dezembro 2005; 5-14",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:00.580476+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1728",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Seleção de conteúdos estatísticos para a educação: uma análise de dissertações e teses",
+      "titleOriginal": "Seleção de conteúdos estatísticos para a educação: uma análise de dissertações e teses",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Este trabalho objetiva identificar quais são os procedimentos estatísticos adequados e inerentes à área de educação. Partindo do pressuposto de que as atuais tendências de ferramentas estatísticas empregadas nas dissertações e teses podem oferecer um direcionamento para a seleção dos conteúdos da disciplina de estatística aplicada à educação, desenvolvemos uma análise das dissertações de mestrado e teses de doutorado da área de educação, particularmente nas explicitações metodológicas, disponíveis na biblioteca da UNESP (campus de Marília), entre os anos de 1996 e 2000. Os resultados apontam que, entre as dissertações e teses que apresentam a utilização de ferramentas estatísticas, a maioria emprega as estatísticas descritivas na análise de seus dados.",
+      "abstractOriginal": "Este trabalho objetiva identificar quais são os procedimentos estatísticos adequados e inerentes à área de educação. Partindo do pressuposto de que as atuais tendências de ferramentas estatísticas empregadas nas dissertações e teses podem oferecer um direcionamento para a seleção dos conteúdos da disciplina de estatística aplicada à educação, desenvolvemos uma análise das dissertações de mestrado e teses de doutorado da área de educação, particularmente nas explicitações metodológicas, disponíveis na biblioteca da UNESP (campus de Marília), entre os anos de 1996 e 2000. Os resultados apontam que, entre as dissertações e teses que apresentam a utilização de ferramentas estatísticas, a maioria emprega as estatísticas descritivas na análise de seus dados.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1728",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1728",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2019-01-24T15:09:59Z",
+        "allTitles": [
+          "Seleção de conteúdos estatísticos para a educação: uma análise de dissertações e teses"
+        ],
+        "allDescriptions": [
+          "Este trabalho objetiva identificar quais são os procedimentos estatísticos adequados e inerentes à área de educação. Partindo do pressuposto de que as atuais tendências de ferramentas estatísticas empregadas nas dissertações e teses podem oferecer um direcionamento para a seleção dos conteúdos da disciplina de estatística aplicada à educação, desenvolvemos uma análise das dissertações de mestrado e teses de doutorado da área de educação, particularmente nas explicitações metodológicas, disponíveis na biblioteca da UNESP (campus de Marília), entre os anos de 1996 e 2000. Os resultados apontam que, entre as dissertações e teses que apresentam a utilização de ferramentas estatísticas, a maioria emprega as estatísticas descritivas na análise de seus dados."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-01-24"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; NÚMERO 18/19 - Dezembro 2005; 35-45",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:00.581365+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1807",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "O Desenvolvimento do Pensamento Algébrico na Educação Básica: compartilhando propostas de sala de aula com o professor que ensina (ensinará) matemática",
+      "titleOriginal": "O Desenvolvimento do Pensamento Algébrico na Educação Básica: compartilhando propostas de sala de aula com o professor que ensina (ensinará) matemática",
+      "titleEn": "",
+      "authors": [
+        "CAMPOS, MARCELO"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2020,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1807",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1807",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-19T14:09:12Z",
+        "allTitles": [
+          "O Desenvolvimento do Pensamento Algébrico na Educação Básica: compartilhando propostas de sala de aula com o professor que ensina (ensinará) matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2020-06-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 25 n. 67 (2020): abr./jun.; 5-10",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:00.590162+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1983",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Correspondência entre número e quantidade: processo de construção do número por uma aluna com surdocegueira congênita",
+      "titleOriginal": "Correspondência entre número e quantidade: processo de construção do número por uma aluna com surdocegueira congênita",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "O artigo apresenta alguns resultados obtidos em uma pesquisa de mestrado referente à construção do conceito de número por uma aluna com surdocegueira, a partir do desenvolvimento dos sete processos mentais definidos por Lorenzato (2006). Neste texto, o objetivo é relatar as percepções sobre uma das atividades de correspondência. Para tanto, discute-se sobre a classificação da surdocegueira e o ensino de Matemática para alunos com surdocegueira. Em seguida, descreve-se o perfil da participante, usuária de Libras e a teoria usada para a análise metodológica, a partir da análise dos vídeos. Por fim, discute-se a importância de se trabalhar com a inserção da Matemática desde o ingresso na escola. Os resultados obtidos nesta pesquisa mostraram que a aluna está em processo contínuo da construção do número e, particularmente, em relação à atividade analisada neste estudo, ela conseguiu fazer a correspondência até o valor 5, sabendo que depois dele os números eram grandes.",
+      "abstractOriginal": "O artigo apresenta alguns resultados obtidos em uma pesquisa de mestrado referente à construção do conceito de número por uma aluna com surdocegueira, a partir do desenvolvimento dos sete processos mentais definidos por Lorenzato (2006). Neste texto, o objetivo é relatar as percepções sobre uma das atividades de correspondência. Para tanto, discute-se sobre a classificação da surdocegueira e o ensino de Matemática para alunos com surdocegueira. Em seguida, descreve-se o perfil da participante, usuária de Libras e a teoria usada para a análise metodológica, a partir da análise dos vídeos. Por fim, discute-se a importância de se trabalhar com a inserção da Matemática desde o ingresso na escola. Os resultados obtidos nesta pesquisa mostraram que a aluna está em processo contínuo da construção do número e, particularmente, em relação à atividade analisada neste estudo, ela conseguiu fazer a correspondência até o valor 5, sabendo que depois dele os números eram grandes.",
+      "abstractEn": "",
+      "keywords": [
+        "Educação Matemática. Construção no Número. Surdocegueira. Correspondência. Análise de vídeo."
+      ],
+      "keywordsOriginal": [
+        "Educação Matemática. Construção no Número. Surdocegueira. Correspondência. Análise de vídeo."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1983",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1983",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-21T18:38:43Z",
+        "allTitles": [
+          "Correspondência entre número e quantidade: processo de construção do número por uma aluna com surdocegueira congênita"
+        ],
+        "allDescriptions": [
+          "O artigo apresenta alguns resultados obtidos em uma pesquisa de mestrado referente à construção do conceito de número por uma aluna com surdocegueira, a partir do desenvolvimento dos sete processos mentais definidos por Lorenzato (2006). Neste texto, o objetivo é relatar as percepções sobre uma das atividades de correspondência. Para tanto, discute-se sobre a classificação da surdocegueira e o ensino de Matemática para alunos com surdocegueira. Em seguida, descreve-se o perfil da participante, usuária de Libras e a teoria usada para a análise metodológica, a partir da análise dos vídeos. Por fim, discute-se a importância de se trabalhar com a inserção da Matemática desde o ingresso na escola. Os resultados obtidos nesta pesquisa mostraram que a aluna está em processo contínuo da construção do número e, particularmente, em relação à atividade analisada neste estudo, ela conseguiu fazer a correspondência até o valor 5, sabendo que depois dele os números eram grandes."
+        ],
+        "allSubjects": [
+          "Educação Matemática. Construção no Número. Surdocegueira. Correspondência. Análise de vídeo."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2019-12-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Pesquisa de mestrado"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 24 n. 65 (2019): dez.; 29-44",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:00.604346+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1990",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Educação financeira e aprendizagem: um contribuição social aos alunos da EJA",
+      "titleOriginal": "Educação financeira e aprendizagem: um contribuição social aos alunos da EJA",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Este artigo traz os primeiros resultados de uma dissertação de mestrado que está em fase final. Essa dissertação busca encontrar respostas para a seguinte problemática: qual o papel da Educação Financeira (EF) no processo de inclusão social de alunos da Educação de Jovens e Adultos por meio de Ensino Híbrido? Visando encontrar possíveis respostas, foram traçados alguns objetivos, dentre eles o principal era o de identificar o papel da EF no processo de inclusão social de alunos da Educação de Jovens e Adultos (EJA) por meio de Ensino Híbrido. O percurso metodológico contou com três etapas: Etapa I – revisão de literatura; Etapa II - Design do curso e a Etapa III - Análise e discussão. Os resultados iniciais apontam que a discussão sobre EF tem potencial para incluir socialmente os alunos da EJA, sendo possível destacar alguns aspectos: autonomia, tomada de decisões em EF, uso da tecnologia e redes sociais.",
+      "abstractOriginal": "Este artigo traz os primeiros resultados de uma dissertação de mestrado que está em fase final. Essa dissertação busca encontrar respostas para a seguinte problemática: qual o papel da Educação Financeira (EF) no processo de inclusão social de alunos da Educação de Jovens e Adultos por meio de Ensino Híbrido? Visando encontrar possíveis respostas, foram traçados alguns objetivos, dentre eles o principal era o de identificar o papel da EF no processo de inclusão social de alunos da Educação de Jovens e Adultos (EJA) por meio de Ensino Híbrido. O percurso metodológico contou com três etapas: Etapa I – revisão de literatura; Etapa II - Design do curso e a Etapa III - Análise e discussão. Os resultados iniciais apontam que a discussão sobre EF tem potencial para incluir socialmente os alunos da EJA, sendo possível destacar alguns aspectos: autonomia, tomada de decisões em EF, uso da tecnologia e redes sociais.",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1990",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1990",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-21T18:39:57Z",
+        "allTitles": [
+          "Educação financeira e aprendizagem: um contribuição social aos alunos da EJA"
+        ],
+        "allDescriptions": [
+          "Este artigo traz os primeiros resultados de uma dissertação de mestrado que está em fase final. Essa dissertação busca encontrar respostas para a seguinte problemática: qual o papel da Educação Financeira (EF) no processo de inclusão social de alunos da Educação de Jovens e Adultos por meio de Ensino Híbrido? Visando encontrar possíveis respostas, foram traçados alguns objetivos, dentre eles o principal era o de identificar o papel da EF no processo de inclusão social de alunos da Educação de Jovens e Adultos (EJA) por meio de Ensino Híbrido. O percurso metodológico contou com três etapas: Etapa I – revisão de literatura; Etapa II - Design do curso e a Etapa III - Análise e discussão. Os resultados iniciais apontam que a discussão sobre EF tem potencial para incluir socialmente os alunos da EJA, sendo possível destacar alguns aspectos: autonomia, tomada de decisões em EF, uso da tecnologia e redes sociais."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-12-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 24 n. 64 (2019): out./dez.; 119-135",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:03.867887+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1991",
+      "journal": "emr",
+      "journalName": "Educação Matemática em Revista",
+      "title": "Inclusão e (In)tolerâncias, avanços e retrocessos: o que a sociedade, a escola e a Educação Matemática tem a ver com isso?",
+      "titleOriginal": "Inclusão e (In)tolerâncias, avanços e retrocessos: o que a sociedade, a escola e a Educação Matemática tem a ver com isso?",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "Da proclamação da Declaração Universal dos Direitos Humanos em 1948 aos dias atuais, muitos foram os avanços conquistados em direção a uma sociedade inclusiva e, consequentemente, a uma educação inclusiva. No entanto, ainda há socialmente muita hesitação e relutância em relação à inclusão, causadas em boa medida por concepções preconceituosas e intolerâncias. Neste artigo, a partir de uma revisão bibliográfica, intenciona-se apresentar e discutir os efetivos avanços, do ponto de vista legal e das políticas públicas, conquistados em prol de uma sociedade/educação inclusiva. Para tanto, inicialmente, remete-se à Declaração dos Direitos Humanos e percorrem-se os principais tratados internacionais referentes à inclusão e também algumas leis e documentos brasileiros. Também se procurou problematizar concepções e atitudes preconceituosas e intolerantes que perduram em nossa sociedade, bem como um possível aumento da propagação discursos dessa natureza, voltados a grupos vulneráveis. Após isso, apontam-se implicações dessas discussões com o campo da Educação Matemática.",
+      "abstractOriginal": "Da proclamação da Declaração Universal dos Direitos Humanos em 1948 aos dias atuais, muitos foram os avanços conquistados em direção a uma sociedade inclusiva e, consequentemente, a uma educação inclusiva. No entanto, ainda há socialmente muita hesitação e relutância em relação à inclusão, causadas em boa medida por concepções preconceituosas e intolerâncias. Neste artigo, a partir de uma revisão bibliográfica, intenciona-se apresentar e discutir os efetivos avanços, do ponto de vista legal e das políticas públicas, conquistados em prol de uma sociedade/educação inclusiva. Para tanto, inicialmente, remete-se à Declaração dos Direitos Humanos e percorrem-se os principais tratados internacionais referentes à inclusão e também algumas leis e documentos brasileiros. Também se procurou problematizar concepções e atitudes preconceituosas e intolerantes que perduram em nossa sociedade, bem como um possível aumento da propagação discursos dessa natureza, voltados a grupos vulneráveis. Após isso, apontam-se implicações dessas discussões com o campo da Educação Matemática.",
+      "abstractEn": "",
+      "keywords": [
+        "Intolerância. Discriminação. Discurso de Ódio. Preconceito. Educação Inclusiva."
+      ],
+      "keywordsOriginal": [
+        "Intolerância. Discriminação. Discurso de Ódio. Preconceito. Educação Inclusiva."
+      ],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/1991",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1991",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2022-12-21T18:39:57Z",
+        "allTitles": [
+          "Inclusão e (In)tolerâncias, avanços e retrocessos: o que a sociedade, a escola e a Educação Matemática tem a ver com isso?"
+        ],
+        "allDescriptions": [
+          "Da proclamação da Declaração Universal dos Direitos Humanos em 1948 aos dias atuais, muitos foram os avanços conquistados em direção a uma sociedade inclusiva e, consequentemente, a uma educação inclusiva. No entanto, ainda há socialmente muita hesitação e relutância em relação à inclusão, causadas em boa medida por concepções preconceituosas e intolerâncias. Neste artigo, a partir de uma revisão bibliográfica, intenciona-se apresentar e discutir os efetivos avanços, do ponto de vista legal e das políticas públicas, conquistados em prol de uma sociedade/educação inclusiva. Para tanto, inicialmente, remete-se à Declaração dos Direitos Humanos e percorrem-se os principais tratados internacionais referentes à inclusão e também algumas leis e documentos brasileiros. Também se procurou problematizar concepções e atitudes preconceituosas e intolerantes que perduram em nossa sociedade, bem como um possível aumento da propagação discursos dessa natureza, voltados a grupos vulneráveis. Após isso, apontam-se implicações dessas discussões com o campo da Educação Matemática."
+        ],
+        "allSubjects": [
+          "Intolerância. Discriminação. Discurso de Ódio. Preconceito. Educação Inclusiva."
+        ],
+        "sourceValues": {
+          "dates": [
+            "2019-12-22"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Educação Matemática em Revista; v. 24 n. 64 (2019): out./dez.; 33-51",
+            "2317-904X",
+            "1517-3941"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:47:03.868233+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
       "id": "oai:oai:oai.periodicos.ufpe.br:article/2147",
       "journal": "emteia",
       "journalName": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
