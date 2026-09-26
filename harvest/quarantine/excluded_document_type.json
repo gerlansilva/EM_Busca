@@ -7898,6 +7898,861 @@
       "corpusReason": "editorial"
     },
     {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1122",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Valente, Wagner Rodrigues"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1122",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1122",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-13T22:52:01Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 1 No. 1 (2011): jan./dec.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 1 Núm. 1 (2011): ene./dic.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 1 n. 1 (2011): jan./dez.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.441330+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1133",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Fernandes, Solange Hassan Ahmad Ali",
+        "Healy, Lulu"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2013,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1133",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1133",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-14T09:46:11Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2013-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 3 No. 1 (2013): jan./jun.; 1-2",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 3 Núm. 1 (2013): ene./jun.; 1-2",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 3 n. 1 (2013): jan./jun.; 1-2",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.446516+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1144",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Flores, Cláudia Regina"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1144",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1144",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-14T17:47:14Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 4 No. 1 (2014): jan./apr.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 4 Núm. 1 (2014): ene./abr.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 4 n. 1 (2014): jan./abr.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.450553+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1159",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Flores, Claudia Regina"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1159",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1159",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-16T14:17:34Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2014-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 4 No. 3 (2014): sep./dec.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 4 Núm. 3 (2014): sep./dic.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 4 n. 3 (2014): set./dez.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.457326+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1168",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Flores, Cláudia Regina"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1168",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1168",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-15T20:29:46Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 5 No. 1 (2015): jan./jun.",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 5 Núm. 1 (2015): ene./jun.",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 5 n. 1 (2015): jan./jun.",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.460306+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1175",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Flores, Claudia Regina"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2015,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1175",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1175",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-16T09:34:19Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2015-07-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 5 No. 2 (2015): jul./dec.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 5 Núm. 2 (2015): jul./dic.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 5 n. 2 (2015): jul./dez.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.462629+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1189",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Flores, Cláudia Regina"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1189",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1189",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-17T20:24:23Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 6 No. 1 (2016): jan./jun.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 6 Núm. 1 (2016): ene./jun.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 6 n. 1 (2016): jan./jun.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.467826+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1223",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1223",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1223",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-19T15:24:23Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 7 No. 1 (2017): jan./apr.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 7 Núm. 1 (2017): ene./abr.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 7 n. 1 (2017): jan./abr.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.558652+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1377",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1377",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1377",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-19T15:51:08Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-12-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 7 No. 3 (2017): sep./dec.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 7 Núm. 3 (2017): sep./dic.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 7 n. 3 (2017): set./dez.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.562722+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1427",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1427",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1427",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-19T16:02:11Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-08-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 8 No. 1 (2018): jan./apr.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 8 Núm. 1 (2018): ene./abr.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 8 n. 1 (2018): jan./abr.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.567985+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/2059",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2059",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2059",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-19T16:41:26Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-12-27"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 8 No. 3 (2018): sep./dec.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 8 Núm. 3 (2018): sep./dic.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 8 n. 3 (2018): set./dez.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.572935+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/2074",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Lopes, Celi Espasandin",
+        "Carneiro, Reginaldo Fernando"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2074",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2074",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-20T16:16:28Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 9 No. 1 (2019): jan./apr.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 9 Núm. 1 (2019): ene./abr.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 9 n. 1 (2019): jan./abr.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.573186+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/2153",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Editorial",
+      "titleOriginal": "Editorial",
+      "titleEn": "",
+      "authors": [
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2153",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2153",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-20T17:37:33Z",
+        "allTitles": [
+          "Editorial"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 9 No. 2 (2019): may/aug.; 1-1",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 9 Núm. 2 (2019): may./ago.; 1-1",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 9 n. 2 (2019): maio/ago.; 1-1",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.577816+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.37001/ripem.v10i3.2728",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Uma Revista de Pesquisa em Educação Matemática no meio da pandemia: mais um editorial, e daí?",
+      "titleOriginal": "Uma Revista de Pesquisa em Educação Matemática no meio da pandemia: mais um editorial, e daí?",
+      "titleEn": "A Research Journal for Mathematics Education in the middle of pandemic: another editorial, so what?",
+      "authors": [
+        "Rosa, Maurício"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2020,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v10i3.2728",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2728",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2728",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-21T14:01:20Z",
+        "allTitles": [
+          "A Research Journal for Mathematics Education in the middle of pandemic: another editorial, so what?",
+          "Uma Revista de Pesquisa em Educação Matemática no meio da pandemia: mais um editorial, e daí?"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2020-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 10 No. 3 (2020): sep./dec.; 1-5",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 10 Núm. 3 (2020): sep./dic.; 1-5",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 10 n. 3 (2020): set./dez.; 1-5",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.238136+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "doi:10.20396/zet.v24i2.8646516",
       "journal": "zetetike",
       "journalName": "Zetetiké",

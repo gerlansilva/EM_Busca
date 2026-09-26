@@ -370,6 +370,832 @@
       "harvestedAt": "2026-09-25T23:28:34.485112+00:00",
       "corpusStatus": "needs_metadata",
       "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1161",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "The impact of visualization on functional reasoning: the ability to generalize",
+      "titleOriginal": "The impact of visualization on functional reasoning: the ability to generalize",
+      "titleEn": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "With this study we try to understand how pre-service teachers, from basic education (for 3 to 12-year-old students), solve problems involving the generalization of patterns in visual contexts, identifying: the strategies they use; the difficulties they present; the role of visualization in their reasoning; and the factors that influence their generalizations. Considering the aims of this study, we followed a qualitative methodology. The participants were 80 pre-service teachers. During the classes of a Mathematics unit course, these students solved a sequence of tasks involving pattern generalization in figurative contexts. Our results showed that students were able to use different types of generalization strategies, but also that some dimensions of the tasks (e.g. type of pattern, nature of the figures) can have impact in students’ reasoning, causing, in some cases, a shift on the strategies used and the emergence of difficulties of different kind.",
+      "abstractOriginal": "With this study we try to understand how pre-service teachers, from basic education (for 3 to 12-year-old students), solve problems involving the generalization of patterns in visual contexts, identifying: the strategies they use; the difficulties they present; the role of visualization in their reasoning; and the factors that influence their generalizations. Considering the aims of this study, we followed a qualitative methodology. The participants were 80 pre-service teachers. During the classes of a Mathematics unit course, these students solved a sequence of tasks involving pattern generalization in figurative contexts. Our results showed that students were able to use different types of generalization strategies, but also that some dimensions of the tasks (e.g. type of pattern, nature of the figures) can have impact in students’ reasoning, causing, in some cases, a shift on the strategies used and the emergence of difficulties of different kind.",
+      "abstractEn": "",
+      "keywords": [
+        "Functional Reasoning",
+        "Patterns",
+        "Generalization",
+        "Visualization",
+        "Learning"
+      ],
+      "keywordsOriginal": [
+        "Functional Reasoning",
+        "Patterns",
+        "Generalization",
+        "Visualization",
+        "Learning"
+      ],
+      "keywordsEn": [
+        "Functional Reasoning",
+        "Patterns",
+        "Generalization",
+        "Visualization",
+        "Learning"
+      ],
+      "metadataEnglishStatus": "source_only",
+      "year": 2014,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1161",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1161",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-16T14:17:34Z",
+        "allTitles": [
+          "The impact of visualization on functional reasoning: the ability to generalize"
+        ],
+        "allDescriptions": [
+          "With this study we try to understand how pre-service teachers, from basic education (for 3 to 12-year-old students), solve problems involving the generalization of patterns in visual contexts, identifying: the strategies they use; the difficulties they present; the role of visualization in their reasoning; and the factors that influence their generalizations. Considering the aims of this study, we followed a qualitative methodology. The participants were 80 pre-service teachers. During the classes of a Mathematics unit course, these students solved a sequence of tasks involving pattern generalization in figurative contexts. Our results showed that students were able to use different types of generalization strategies, but also that some dimensions of the tasks (e.g. type of pattern, nature of the figures) can have impact in students’ reasoning, causing, in some cases, a shift on the strategies used and the emergence of difficulties of different kind."
+        ],
+        "allSubjects": [
+          "Functional Reasoning",
+          "Patterns",
+          "Generalization",
+          "Visualization",
+          "Learning"
+        ],
+        "sourceValues": {
+          "dates": [
+            "2014-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 4 No. 3 (2014): sep./dec.; 29-44",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 4 Núm. 3 (2014): sep./dic.; 29-44",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 4 n. 3 (2014): set./dez.; 29-44",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.458006+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_authors"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1208",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Mathematics Education and Cultural-Historical Theory",
+      "titleOriginal": "Mathematics Education and Cultural-Historical Theory",
+      "titleEn": "",
+      "authors": [
+        "Moretti, Vanessa Dias",
+        "Cedro, Wellington Lima"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2016,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1208",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1208",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-18T21:03:38Z",
+        "allTitles": [
+          "Mathematics Education and Cultural-Historical Theory"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2016-07-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 6 No. 2 (2016): jul./dec.; 1-4",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 6 Núm. 2 (2016): jul./dic.; 1-4",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 6 n. 2 (2016): jul./dez.; 1-4",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:14:58.474011+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:emr.www.sbembrasil.org.br:article/1647",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Mathematics Education in and for the World of Work",
+      "titleOriginal": "Mathematics Education in and for the World of Work",
+      "titleEn": "",
+      "authors": [
+        "Sá, Lauro Chagas e",
+        "Dias, Ana Lúcia Braz"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/1647",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1647",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-19T16:36:45Z",
+        "allTitles": [
+          "Mathematics Education in and for the World of Work"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-12-26"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 8 No. 2 (2018): may/aug.; 1-5",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 8 Núm. 2 (2018): may./ago.; 1-5",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 8 n. 2 (2018): maio/ago.; 1-5",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.570063+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v9i3.2363",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Por que Insubordinação Criativa na Educação Matemática?",
+      "titleOriginal": "Por que Insubordinação Criativa na Educação Matemática?",
+      "titleEn": "Why Creative Insubordination in Mathematics Education?",
+      "authors": [
+        "Rosa, Maurício"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v9i3.2363",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2363",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2363",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-20T17:51:18Z",
+        "allTitles": [
+          "Why Creative Insubordination in Mathematics Education?",
+          "Por que Insubordinação Criativa na Educação Matemática?"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 9 No. 3 (2019): sep./dec.; 1-4",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 9 Núm. 3 (2019): sep./dic.; 1-4",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 9 n. 3 (2019): set./dez.; 1-4",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.596702+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v9i3.2364",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Insubordinação criativa nas diversas e múltiplas pesquisas em Educação Matemática",
+      "titleOriginal": "Insubordinação criativa nas diversas e múltiplas pesquisas em Educação Matemática",
+      "titleEn": "Creative insubordination in diverse and multiple Mathematics Education research",
+      "authors": [
+        "Lopes, Celi Espasandin",
+        "Ferreira, Fernanda Aparecida"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v9i3.2364",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2364",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2364",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-20T19:46:21Z",
+        "allTitles": [
+          "Creative insubordination in diverse and multiple Mathematics Education research",
+          "Insubordinação criativa nas diversas e múltiplas pesquisas em Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 9 No. 3 (2019): sep./dec.; 5-9",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 9 Núm. 3 (2019): sep./dic.; 5-9",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 9 n. 3 (2019): set./dez.; 5-9",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.596982+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v10i2.2369",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Entre “Pala” e “Hogwarts” há muita Matemática",
+      "titleOriginal": "Entre “Pala” e “Hogwarts” há muita Matemática",
+      "titleEn": "Between the “Pala” and “Hogwarts” there is a lot of Mathematics",
+      "authors": [
+        "Rosa, Maurício"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2020,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v10i2.2369",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2369",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2369",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-21T13:05:49Z",
+        "allTitles": [
+          "Between the “Pala” and “Hogwarts” there is a lot of Mathematics",
+          "Entre “Pala” e “Hogwarts” há muita Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2020-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 10 No. 2 (2020): may/aug.; 1-6",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 10 Núm. 2 (2020): may./ago.; 1-6",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 10 n. 2 (2020): maio/ago.; 1-6",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.597730+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v10i2.2370",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Literatura e Matemática em inter-relações possíveis: análises, propostas e divagações",
+      "titleOriginal": "Literatura e Matemática em inter-relações possíveis: análises, propostas e divagações",
+      "titleEn": "Literature and Mathematics in possible interrelationships: analyzes, proposals and ramblings",
+      "authors": [
+        "Dalcin, Andreia",
+        "Montoito, Rafael"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2020,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v10i2.2370",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2370",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2370",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-21T13:07:40Z",
+        "allTitles": [
+          "Literature and Mathematics in possible interrelationships: analyzes, proposals and ramblings",
+          "Literatura e Matemática em inter-relações possíveis: análises, propostas e divagações"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2020-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 10 No. 2 (2020): may/aug.; 7-13",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 10 Núm. 2 (2020): may./ago.; 7-13",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 10 n. 2 (2020): maio/ago.; 7-13",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:02.598004+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v11i2.2755",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Alargando sentidos: o que queremos dizer por decolonizar currículos em Matemática?",
+      "titleOriginal": "Alargando sentidos: o que queremos dizer por decolonizar currículos em Matemática?",
+      "titleEn": "Widening the senses: what do we mean by decolonizing curricula in Mathematics?",
+      "authors": [
+        "Giraldo, Victor Augusto"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2021,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v11i2.2755",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2755",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2755",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-22T13:32:45Z",
+        "allTitles": [
+          "Widening the senses: what do we mean by decolonizing curricula in Mathematics?",
+          "Alargando sentidos: o que queremos dizer por decolonizar currículos em Matemática?"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2021-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 11 No. 2 (2021): may/aug.; 1-8",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 11 Núm. 2 (2021): may./ago.; 1-8",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 11 n. 2 (2021): maio/ago.; 1-8",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.239088+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v11i3.2844",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Educação Matemática em tempos de crise",
+      "titleOriginal": "Educação Matemática em tempos de crise",
+      "titleEn": "Mathematics Education in times of crisis",
+      "authors": [
+        "Lopes, Antonio José",
+        "Vianna, Carlos Roberto",
+        "Buriasco, Regina Luzia Corio de",
+        "Falcão, Jorge",
+        "Skovsmose, Ole"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2021,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v11i3.2844",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2844",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2844",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-24T11:04:09Z",
+        "allTitles": [
+          "Mathematics Education in times of crisis",
+          "Educação Matemática em tempos de crise"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2021-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 11 No. 3 (2021): sep./dec.; 1-6",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 11 Núm. 3 (2021): sep./dic.; 1-6",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 11 n. 3 (2021): set./dez.; 1-6",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.242670+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v12i1.2982",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Currículo, Educação Matemática e Políticas Públicas: desafios da atualidade",
+      "titleOriginal": "Currículo, Educação Matemática e Políticas Públicas: desafios da atualidade",
+      "titleEn": "Curriculum, Mathematics Education, Public Politics: current challenges",
+      "authors": [
+        "Olgin, Clarissa de Assis",
+        "Groenwald, Claudia Lisete Oliveira",
+        "Palanch, Wagner Barbosa de Lima"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v12i1.2982",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2982",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2982",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-24T20:00:18Z",
+        "allTitles": [
+          "Curriculum, Mathematics Education, Public Politics: current challenges",
+          "Currículo, Educação Matemática e Políticas Públicas: desafios da atualidade"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 12 No. 1 (2022): jan./apr.; 1-8",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 12 Núm. 1 (2022): ene./abr.; 1-8",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 12 n. 1 (2022): jan./abr.; 1-8",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.253092+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v12i2.2987",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Mathematics Education and Wittengenstein: a relationship from years ago",
+      "titleOriginal": "Mathematics Education and Wittengenstein: a relationship from years ago",
+      "titleEn": "",
+      "authors": [
+        "Rosa, Maurício"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2022,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "10.37001/ripem.v12i2.2987",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/2987",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2987",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-25T13:19:52Z",
+        "allTitles": [
+          "Mathematics Education and Wittengenstein: a relationship from years ago"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-01-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 12 No. 2 (2022): jan.; 1-5",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 12 Núm. 2 (2022): ene.; 1-5",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 12 n. 2 (2022): jan.; 1-5",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.254009+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v12i3.3092",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Perspectivas teóricas evidenciadas nos contextos do Programa SBEM-FormAção",
+      "titleOriginal": "Perspectivas teóricas evidenciadas nos contextos do Programa SBEM-FormAção",
+      "titleEn": "Theoretical Perspectives Evidenced in the Contexts of the SBEM-FormAção Program",
+      "authors": [
+        "Paula, Ênio Freire de",
+        "Cechetti, Neuza Neuza Maria",
+        "Pires, Magna Natalia Marin"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/ripem.v12i3.3092",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/3092",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/3092",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-05-25T15:27:24Z",
+        "allTitles": [
+          "Theoretical Perspectives Evidenced in the Contexts of the SBEM-FormAção Program",
+          "Perspectivas teóricas evidenciadas nos contextos do Programa SBEM-FormAção"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 12 No. 3 (2022): may/aug.; 1-5",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 12 Núm. 3 (2022): may./ago.; 1-5",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 12 n. 3 (2022): maio/ago.; 1-5",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:08.261584+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/ripem.v13i3.3614",
+      "journal": "ripem",
+      "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
+      "title": "Mathematics Education and Digital Technologies: how are media, artifacts, instruments, tools and technological means presented?",
+      "titleOriginal": "Mathematics Education and Digital Technologies: how are media, artifacts, instruments, tools and technological means presented?",
+      "titleEn": "",
+      "authors": [
+        "Rosa, Maurício",
+        "Souto, Daise Lago Pereira"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2023,
+      "language": "en",
+      "languageCode": "en",
+      "type": "article",
+      "doi": "10.37001/ripem.v13i3.3614",
+      "url": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/article/view/3614",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/3614",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-11-30T16:00:09Z",
+        "allTitles": [
+          "Mathematics Education and Digital Technologies: how are media, artifacts, instruments, tools and technological means presented?",
+          "Educación Matemática y Tecnologías Digitales: ¿cómo se presentan los medios, artefactos, instrumentos, herramientas y medios tecnológicos?"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-09-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "International Journal for Research in Mathematics Education; Vol. 13 No. 3 (2023): sep.; 1-12",
+            "Revista Internacional de Pesquisa en Educación Matemática; Vol. 13 Núm. 3 (2023): sep.; 1-12",
+            "Revista Internacional de Pesquisa em Educação Matemática; v. 13 n. 3 (2023): sep.; 1-12",
+            "2238-0345"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática — SBEM"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:15:13.331870+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
     }
   ]
 }
