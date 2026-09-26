@@ -491,6 +491,1650 @@
       "corpusReason": "missing_abstract_and_keywords"
     },
     {
+      "id": "doi:10.37001/remat25269062v19id799",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Cognição, Linguagem e Aprendizagem em Matemática",
+      "titleOriginal": "Cognição, Linguagem e Aprendizagem em Matemática",
+      "titleEn": "",
+      "authors": [
+        "Lopes Pinheiro, José Milton",
+        "Santos Andrade, Antonio dos",
+        "Andrade, Cecília Pereira",
+        "Martins, Egídio Rodrigues",
+        "Leal Junior, Luis Carlos"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v19id799",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/31",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/31",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-04T16:11:37Z",
+        "allTitles": [
+          "Cognição, Linguagem e Aprendizagem em Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-08-12"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 19 No. Edição Especial (2022): Cognição, Linguagem e Aprendizagem em Matemática; e022062",
+            "Revista de Educação Matemática; Vol. 19 Núm. Edição Especial (2022): Cognição, Linguagem e Aprendizagem em Matemática; e022062",
+            "Revista de Educação Matemática; v. 19 n. Edição Especial (2022): Cognição, Linguagem e Aprendizagem em Matemática; e022062",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:42.756257+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v19id770",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Práticas avaliativas e a sala de aula de matemática",
+      "titleOriginal": "Práticas avaliativas e a sala de aula de matemática",
+      "titleEn": "",
+      "authors": [
+        "Paes Jürgensen, Bruno Damien da Costa",
+        "Dalto, Jader Otavio",
+        "Mendes, Marcele Tavares"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v19id770",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/52",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/52",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-04T17:18:34Z",
+        "allTitles": [
+          "Práticas avaliativas e a sala de aula de matemática",
+          "Práticas avaliativas e a sala de aula de matemática",
+          "Práticas avaliativas e a sala de aula de matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-06-10"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 19 No. Edição Especial (2022): Práticas Avaliativas e a Sala de Aula de Matemática; e022031",
+            "Revista de Educação Matemática; Vol. 19 Núm. Edição Especial (2022): Práticas Avaliativas e a Sala de Aula de Matemática; e022031",
+            "Revista de Educação Matemática; v. 19 n. Edição Especial (2022): Práticas Avaliativas e a Sala de Aula de Matemática; e022031",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:42.765170+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v19id830",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Importância da divulgação científica em tempos de desinformação",
+      "titleOriginal": "Importância da divulgação científica em tempos de desinformação",
+      "titleEn": "",
+      "authors": [
+        "Ribeiro, Rogério Marques",
+        "Traldi Jr, Armando",
+        "Freire de Paula, Enio",
+        "Pazuch, Vinicius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2022,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v19id830",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/74",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/74",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-08-16T10:38:05Z",
+        "allTitles": [
+          "Importância da divulgação científica em tempos de desinformação"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2022-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 19 No. 01 (2022): Publicação Contínua",
+            "Revista de Educação Matemática; Vol. 19 Núm. 01 (2022): Publicação Contínua",
+            "Revista de Educação Matemática; v. 19 n. 01 (2022): Publicação Contínua",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:42.775794+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v18id895",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Reflexões sobre a Educação Matemática em um ano de Pandemia",
+      "titleOriginal": "Reflexões sobre a Educação Matemática em um ano de Pandemia",
+      "titleEn": "",
+      "authors": [
+        "Ribeiro, Rogério Marques",
+        "Traldi Jr, Armando",
+        "Freire de Paula, Enio",
+        "Pazuch, Vinícius"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2021,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v18id895",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/113",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/113",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-16T02:16:24Z",
+        "allTitles": [
+          "Reflexões sobre a Educação Matemática em um ano de Pandemia"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2021-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 18 (2021): Publicação contínua",
+            "Revista de Educação Matemática; v. 18 (2021): Publicação contínua",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:45.924096+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/207",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Desafios e perspectivas editoriais da Revista de Educação Matemática (SBEM-SP)",
+      "titleOriginal": "Desafios e perspectivas editoriais da Revista de Educação Matemática (SBEM-SP)",
+      "titleEn": "",
+      "authors": [
+        "Tinti, Douglas da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/207",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/207",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-11T01:56:49Z",
+        "allTitles": [
+          "Desafios e perspectivas editoriais da Revista de Educação Matemática (SBEM-SP)"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 16 No. 23 (2019): set./dez. 2019; 321 - 322",
+            "Revista de Educação Matemática; Vol. 16 Núm. 23 (2019): set./dez. 2019; 321 - 322",
+            "Revista de Educação Matemática; v. 16 n. 23 (2019): set./dez. 2019; 321 - 322",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.468285+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/217",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Contextos de investigação, formação e inserção o do Educador Matemático",
+      "titleOriginal": "Contextos de investigação, formação e inserção o do Educador Matemático",
+      "titleEn": "",
+      "authors": [
+        "Silva Tinti, Douglas da"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/217",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/217",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-11T02:17:34Z",
+        "allTitles": [
+          "Contextos de investigação, formação e inserção o do Educador Matemático"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 16 No. 22 (2019): maio/ago. 2019; 190",
+            "Revista de Educação Matemática; Vol. 16 Núm. 22 (2019): maio/ago. 2019; 190",
+            "Revista de Educação Matemática; v. 16 n. 22 (2019): maio/ago. 2019; 190",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.471918+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/226",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Modelagem Matemática e suas contribuições para a Educação Matemática",
+      "titleOriginal": "Modelagem Matemática e suas contribuições para a Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Ribeiro, Rogério Marques",
+        "Caldeira, Ademir Donizeti",
+        "Tinti, Douglas da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/226",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/226",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-11T02:48:56Z",
+        "allTitles": [
+          "Modelagem Matemática e suas contribuições para a Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 16 No. 21 (2019): jan./abr. 2019; 1 - 4",
+            "Revista de Educação Matemática; Vol. 16 Núm. 21 (2019): jan./abr. 2019; 1 - 4",
+            "Revista de Educação Matemática; v. 16 n. 21 (2019): jan./abr. 2019; 1 - 4",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.475789+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/240",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Educação Matemática, Inclusão e Direitos Humanos",
+      "titleOriginal": "Educação Matemática, Inclusão e Direitos Humanos",
+      "titleEn": "",
+      "authors": [
+        "Manrique, Ana Lúcia",
+        "Moreira, Geraldo Eustáquio",
+        "Silva Tinti, Douglas da"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/240",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/240",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-11T15:32:15Z",
+        "allTitles": [
+          "Educação Matemática, Inclusão e Direitos Humanos"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 15 No. 20 (2018): set./dez. 2018; 385 - 388",
+            "Revista de Educação Matemática; Vol. 15 Núm. 20 (2018): set./dez. 2018; 385 - 388",
+            "Revista de Educação Matemática; v. 15 n. 20 (2018): set./dez. 2018; 385 - 388",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.480473+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/255",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Vida, obra, memória e legado de um precursor da Educação Matemática",
+      "titleOriginal": "Vida, obra, memória e legado de um precursor da Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Lorenzato, Sergio",
+        "Biani, Rosana Prado",
+        "Silva Tinti, Douglas da"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/255",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/255",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-11T16:12:38Z",
+        "allTitles": [
+          "Vida, obra, memória e legado de um precursor da Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 15 No. 19 (2018): maio/ago. 2018; 150 - 155",
+            "Revista de Educação Matemática; Vol. 15 Núm. 19 (2018): maio/ago. 2018; 150 - 155",
+            "Revista de Educação Matemática; v. 15 n. 19 (2018): maio/ago. 2018; 150 - 155",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.486869+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/271",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Refletindo sobre as diferentes possibilidades de atuação do educador matemático",
+      "titleOriginal": "Refletindo sobre as diferentes possibilidades de atuação do educador matemático",
+      "titleEn": "",
+      "authors": [
+        "Silva Tinti, Douglas da"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2018,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/271",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/271",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T01:38:19Z",
+        "allTitles": [
+          "Refletindo sobre as diferentes possibilidades de atuação do educador matemático"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2018-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 15 No. 18 (2018): jan. /abr. 2018; 2 - 4",
+            "Revista de Educação Matemática; Vol. 15 Núm. 18 (2018): jan. /abr. 2018; 2 - 4",
+            "Revista de Educação Matemática; v. 15 n. 18 (2018): jan. /abr. 2018; 2 - 4",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.493960+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/281",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Educação Matemática: pesquisas e práticas docentes",
+      "titleOriginal": "Educação Matemática: pesquisas e práticas docentes",
+      "titleEn": "",
+      "authors": [
+        "Tinti, Douglas da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/281",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/281",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T01:54:40Z",
+        "allTitles": [
+          "Educação Matemática: pesquisas e práticas docentes"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-07-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 14 No. 17 (2017): jul. /dez. 2017; 145 - 146",
+            "Revista de Educação Matemática; Vol. 14 Núm. 17 (2017): jul. /dez. 2017; 145 - 146",
+            "Revista de Educação Matemática; v. 14 n. 17 (2017): jul. /dez. 2017; 145 - 146",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.498114+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/288",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Contextos colaborativos de formação de professores que ensinam matemática e suas contribuições para o campo da Educação Matemática",
+      "titleOriginal": "Contextos colaborativos de formação de professores que ensinam matemática e suas contribuições para o campo da Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Tinti, Douglas da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2017,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/288",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/288",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T02:29:00Z",
+        "allTitles": [
+          "Contextos colaborativos de formação de professores que ensinam matemática e suas contribuições para o campo da Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-06-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 14 No. 16 (2017): jan. /jun. 2017; 1-3",
+            "Revista de Educação Matemática; Vol. 14 Núm. 16 (2017): jan. /jun. 2017; 1-3",
+            "Revista de Educação Matemática; v. 14 n. 16 (2017): jan. /jun. 2017; 1-3",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.501001+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/304",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Apresentação",
+      "titleOriginal": "Apresentação",
+      "titleEn": "",
+      "authors": [
+        "Silva Dias, Marisa da",
+        "Cristovão, Elaine Matesco"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2011,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/304",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/304",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T16:46:54Z",
+        "allTitles": [
+          "Apresentação"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2011-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 13 No. 15 (2011): Jan/Dez 2011; 7 - 8",
+            "Revista de Educação Matemática; Vol. 13 Núm. 15 (2011): Jan/Dez 2011; 7 - 8",
+            "Revista de Educação Matemática; v. 13 n. 15 (2011): Jan/Dez 2011; 7 - 8",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:48.507209+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/314",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Apresentação",
+      "titleOriginal": "Apresentação",
+      "titleEn": "",
+      "authors": [
+        "Utsumi, Miriam Cardoso"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2009,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/314",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/314",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T17:04:48Z",
+        "allTitles": [
+          "Apresentação"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2009-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 12 No. 14 (2009): Jan/Dez 2009; 7 - 8",
+            "Revista de Educação Matemática; Vol. 12 Núm. 14 (2009): Jan/Dez 2009; 7 - 8",
+            "Revista de Educação Matemática; v. 12 n. 14 (2009): Jan/Dez 2009; 7 - 8",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.029254+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/322",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Apresentação",
+      "titleOriginal": "Apresentação",
+      "titleEn": "",
+      "authors": [
+        "Utsumi, Miriam Cardoso"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2008,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/322",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/322",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-12T17:18:34Z",
+        "allTitles": [
+          "Apresentação"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2008-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 11 No. 13 (2008): Jan/Dez 2008; 7 - 8",
+            "Revista de Educação Matemática; Vol. 11 Núm. 13 (2008): Jan/Dez 2008; 7 - 8",
+            "Revista de Educação Matemática; v. 11 n. 13 (2008): Jan/Dez 2008; 7 - 8",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.031639+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/328",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Apresentação",
+      "titleOriginal": "Apresentação",
+      "titleEn": "",
+      "authors": [
+        "Lopes, Celi S."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/328",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/328",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T00:57:31Z",
+        "allTitles": [
+          "Apresentação"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 9 No. 9_10 (2005): Jan/Dez (2004 e 2005); I - II",
+            "Revista de Educação Matemática; Vol. 9 Núm. 9_10 (2005): Jan/Dez (2004 e 2005); I - II",
+            "Revista de Educação Matemática; v. 9 n. 9_10 (2005): Jan/Dez (2004 e 2005); I - II",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.033510+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/329",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Eu trabalho primeiro no concreto",
+      "titleOriginal": "Eu trabalho primeiro no concreto",
+      "titleEn": "",
+      "authors": [
+        "Nacarato, Adair Mendes"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "",
+      "languageCode": "",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/329",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/329",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T00:57:31Z",
+        "allTitles": [
+          "Eu trabalho primeiro no concreto"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 9 No. 9_10 (2005): Jan/Dez (2004 e 2005); 1 - 6",
+            "Revista de Educação Matemática; Vol. 9 Núm. 9_10 (2005): Jan/Dez (2004 e 2005); 1 - 6",
+            "Revista de Educação Matemática; v. 9 n. 9_10 (2005): Jan/Dez (2004 e 2005); 1 - 6",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.033709+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/331",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Problematizando e investigando assuntos \"dominados\"",
+      "titleOriginal": "Problematizando e investigando assuntos \"dominados\"",
+      "titleEn": "",
+      "authors": [
+        "Oliveira, Rodrigo Lopes de"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/331",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/331",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T00:57:31Z",
+        "allTitles": [
+          "Problematizando e investigando assuntos \"dominados\""
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 9 No. 9_10 (2005): Jan/Dez (2004 e 2005); 15-22",
+            "Revista de Educação Matemática; Vol. 9 Núm. 9_10 (2005): Jan/Dez (2004 e 2005); 15-22",
+            "Revista de Educação Matemática; v. 9 n. 9_10 (2005): Jan/Dez (2004 e 2005); 15-22",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.034283+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/337",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Uma sequencia didática com uso de história da matemática: o método de multiplicação e divisão egípcio",
+      "titleOriginal": "Uma sequencia didática com uso de história da matemática: o método de multiplicação e divisão egípcio",
+      "titleEn": "",
+      "authors": [
+        "Zuffi, Edna Maura",
+        "Feliciano, Lucas Factor"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/337",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/337",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T00:57:31Z",
+        "allTitles": [
+          "Uma sequencia didática com uso de história da matemática: o método de multiplicação e divisão egípcio"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 9 No. 9_10 (2005): Jan/Dez (2004 e 2005); 55-60",
+            "Revista de Educação Matemática; Vol. 9 Núm. 9_10 (2005): Jan/Dez (2004 e 2005); 55-60",
+            "Revista de Educação Matemática; v. 9 n. 9_10 (2005): Jan/Dez (2004 e 2005); 55-60",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.035737+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/351",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Professor de Matemática: a Formação como Solução Construída",
+      "titleOriginal": "Professor de Matemática: a Formação como Solução Construída",
+      "titleEn": "",
+      "authors": [
+        "Moura, Manoel Oriosvaldo de"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1993,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/351",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/351",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T01:41:16Z",
+        "allTitles": [
+          "Professor de Matemática: a Formação como Solução Construída"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "1993-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 1 No. 1 (1993): Setembro de 1993; 1 - 16",
+            "Revista de Educação Matemática; Vol. 1 Núm. 1 (1993): Setembro de 1993; 1 - 16",
+            "Revista de Educação Matemática; v. 1 n. 1 (1993): Setembro de 1993; 1 - 16",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.041260+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/352",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Concepção e Produção de Materiais Instrucionais em Educação Matemática",
+      "titleOriginal": "Concepção e Produção de Materiais Instrucionais em Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Mansutti, Maria Amabile"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1993,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/352",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/352",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T01:41:16Z",
+        "allTitles": [
+          "Concepção e Produção de Materiais Instrucionais em Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "1993-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 1 No. 1 (1993): Setembro de 1993; 17 - 30",
+            "Revista de Educação Matemática; Vol. 1 Núm. 1 (1993): Setembro de 1993; 17 - 30",
+            "Revista de Educação Matemática; v. 1 n. 1 (1993): Setembro de 1993; 17 - 30",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.041446+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/353",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Psicologia e Educação Matemática",
+      "titleOriginal": "Psicologia e Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Márcia Regina Ferreira de Brito, Márcia Regina x"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1993,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/353",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/353",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T01:41:16Z",
+        "allTitles": [
+          "Psicologia e Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "1993-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 1 No. 1 (1993): Setembro de 1993; 31 - 64",
+            "Revista de Educação Matemática; Vol. 1 Núm. 1 (1993): Setembro de 1993; 31 - 64",
+            "Revista de Educação Matemática; v. 1 n. 1 (1993): Setembro de 1993; 31 - 64",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.041639+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/354",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "A Pesquisa em Educação Matemática: Uma Retrospectiva das Discussões Ocorridas nos ENEM's e EPEM's",
+      "titleOriginal": "A Pesquisa em Educação Matemática: Uma Retrospectiva das Discussões Ocorridas nos ENEM's e EPEM's",
+      "titleEn": "",
+      "authors": [
+        "Alcântara Machado, Silvia Dias de"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1993,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/354",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/354",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T01:41:16Z",
+        "allTitles": [
+          "A Pesquisa em Educação Matemática: Uma Retrospectiva das Discussões Ocorridas nos ENEM's e EPEM's"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "1993-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 1 No. 1 (1993): Setembro de 1993; 65 - 74",
+            "Revista de Educação Matemática; Vol. 1 Núm. 1 (1993): Setembro de 1993; 65 - 74",
+            "Revista de Educação Matemática; v. 1 n. 1 (1993): Setembro de 1993; 65 - 74",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.041829+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:ojs2.www.revistasbemsp.com.br:article/355",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Epistemologia, História e Educação Matemática: Tornando mais Sólidas as Bases da Pesquisa",
+      "titleOriginal": "Epistemologia, História e Educação Matemática: Tornando mais Sólidas as Bases da Pesquisa",
+      "titleEn": "",
+      "authors": [
+        "Lins, Romulo Campos"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 1993,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/355",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/355",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2023-07-13T01:41:16Z",
+        "allTitles": [
+          "Epistemologia, História e Educação Matemática: Tornando mais Sólidas as Bases da Pesquisa"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "1993-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 1 No. 1 (1993): Setembro de 1993; 75 - 91",
+            "Revista de Educação Matemática; Vol. 1 Núm. 1 (1993): Setembro de 1993; 75 - 91",
+            "Revista de Educação Matemática; v. 1 n. 1 (1993): Setembro de 1993; 75 - 91",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:51.042029+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v22id528",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "A Boniteza de Paulo Freire na Educação Matemática",
+      "titleOriginal": "A Boniteza de Paulo Freire na Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Valle, Júlio César Augusto do",
+        "Malheiros, Ana Paula dos Santos"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2024,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v22id528",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/528",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/528",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-08-01T17:38:20Z",
+        "allTitles": [
+          "A Boniteza de Paulo Freire na Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2024-08-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 22 (2024): Edição Especial - Educação Matemática com Paulo Freire: práticas, pesquisas e políticas",
+            "Revista de Educação Matemática; v. 22 (2024): Edição Especial - Educação Matemática com Paulo Freire: práticas, pesquisas e políticas",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:53.160769+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v21id565",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Investigações e Práticas Curriculares em Educação Matemática",
+      "titleOriginal": "Investigações e Práticas Curriculares em Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Olgin, Clarissa de Assis",
+        "Peralta, Deise Aparecida",
+        "Taveira, Flavio Augusto Leite"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2024,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v21id565",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/565",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/565",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-09-23T11:13:12Z",
+        "allTitles": [
+          "Investigações e Práticas Curriculares em Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2024-09-20"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 21 (2024): Edição Especial: Investigações e Práticas Curriculares em Educação Matemática GT3-SBEM",
+            "Revista de Educação Matemática; v. 21 (2024): Edição Especial: Investigações e Práticas Curriculares em Educação Matemática GT3-SBEM",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:53.164795+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "doi:10.37001/remat25269062v26id888",
+      "journal": "remat",
+      "journalName": "Revista de Educação Matemática",
+      "title": "Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática",
+      "titleOriginal": "Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática",
+      "titleEn": "",
+      "authors": [
+        "Rodrigues, Zionice Garbelini Martos",
+        "Quintiliano, Luciane de Castro",
+        "Ciríaco, Klinger Teodoro"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2026,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "10.37001/remat25269062v26id888",
+      "url": "https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/888",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/888",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2026-05-29T00:06:17Z",
+        "allTitles": [
+          "Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2026-05-28"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revista de Educação Matemática; Vol. 26 No. 1 (2026): Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática",
+            "Revista de Educação Matemática; Vol. 26 Núm. 1 (2026): Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática",
+            "Revista de Educação Matemática; v. 26 n. 1 (2026): Edição Especial: Formação de Professoras/es, Colaboração e Educação Matemática",
+            "2526-9062"
+          ],
+          "publishers": [
+            "Sociedade Brasileira de Educação Matemática (SBEM)"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:42:53.188396+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
       "id": "oai:oai:periodicos.ufsc.br:article/34681",
       "journal": "revemat",
       "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
