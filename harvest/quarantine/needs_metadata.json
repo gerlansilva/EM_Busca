@@ -372,6 +372,195 @@
       "corpusReason": "missing_abstract_and_keywords"
     },
     {
+      "id": "oai:oai:pp.periodicos.ufop.br:article/1840",
+      "journal": "revemop",
+      "journalName": "Revemop — Revista de Educação Matemática de Ouro Preto",
+      "title": "A revista de Educação Matemática de Ouro Preto",
+      "titleOriginal": "A revista de Educação Matemática de Ouro Preto",
+      "titleEn": "The journal of Mathematics Education of Ouro Preto",
+      "authors": [
+        "Tinti, Douglas da Silva",
+        "Januario, Gilberto"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufop.br/revemop/article/view/1840",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:pp.periodicos.ufop.br:article/1840",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufop.br/revemop/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2020-10-31T13:10:18Z",
+        "allTitles": [
+          "A revista de Educação Matemática de Ouro Preto",
+          "Revista de Educación Matemática Ouro Preto",
+          "The journal of Mathematics Education of Ouro Preto"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-01-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revemop; Vol. 1 No. 1: jan./abr. 2019; 1 - 8",
+            "Revemop; Vol. 1 Núm. 1: jan./abr. 2019; 1 - 8",
+            "Revemop; v. 1 n. 1: jan./abr. 2019; 1 - 8",
+            "2596-0245"
+          ],
+          "publishers": [
+            "Editora da UFOP"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:20:53.520223+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:pp.periodicos.ufop.br:article/1949",
+      "journal": "revemop",
+      "journalName": "Revemop — Revista de Educação Matemática de Ouro Preto",
+      "title": "Pesquisa em Educação Matemática e os processos de ensino e de aprendizagem",
+      "titleOriginal": "Pesquisa em Educação Matemática e os processos de ensino e de aprendizagem",
+      "titleEn": "Research in Mathematics Education and the teaching and learning processes",
+      "authors": [
+        "Tinti, Douglas da Silva",
+        "Januario, Gilberto"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufop.br/revemop/article/view/1949",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:pp.periodicos.ufop.br:article/1949",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufop.br/revemop/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2020-10-31T13:11:57Z",
+        "allTitles": [
+          "Pesquisa em Educação Matemática e os processos de ensino e de aprendizagem",
+          "La investigación en Educación Matemática y los procesos de enseñanza y aprendizaje",
+          "Research in Mathematics Education and the teaching and learning processes"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-05-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revemop; Vol. 1 No. 2: maio/ago. 2019; 160 - 166",
+            "Revemop; Vol. 1 Núm. 2: maio/ago. 2019; 160 - 166",
+            "Revemop; v. 1 n. 2: maio/ago. 2019; 160 - 166",
+            "2596-0245"
+          ],
+          "publishers": [
+            "Editora da UFOP"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:20:53.523806+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
+      "id": "oai:oai:pp.periodicos.ufop.br:article/2189",
+      "journal": "revemop",
+      "journalName": "Revemop — Revista de Educação Matemática de Ouro Preto",
+      "title": "Educação Matemática como movimento",
+      "titleOriginal": "Educação Matemática como movimento",
+      "titleEn": "Mathematics Education as a movement",
+      "authors": [
+        "Januario, Gilberto",
+        "Tinti, Douglas da Silva"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "abstractOriginal": "",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2019,
+      "language": "pt",
+      "languageCode": "pt",
+      "type": "article",
+      "doi": "",
+      "url": "https://periodicos.ufop.br/revemop/article/view/2189",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:pp.periodicos.ufop.br:article/2189",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://periodicos.ufop.br/revemop/pt_BR/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2020-10-31T13:26:56Z",
+        "allTitles": [
+          "Educação Matemática como movimento",
+          "Mathematics Education as a movement",
+          "La Educación Matemática como movimiento"
+        ],
+        "allDescriptions": [],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2019-09-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion"
+          ],
+          "sources": [
+            "Revemop; Vol. 1 No. 3: set./dez. 2019; 337-344",
+            "Revemop; Vol. 1 Núm. 3: set./dez. 2019; 337-344",
+            "Revemop; v. 1 n. 3: set./dez. 2019; 337-344",
+            "2596-0245"
+          ],
+          "publishers": [
+            "Editora da UFOP"
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:20:53.524727+00:00",
+      "corpusStatus": "needs_metadata",
+      "corpusReason": "missing_abstract_and_keywords"
+    },
+    {
       "id": "oai:oai:emr.www.sbembrasil.org.br:article/1161",
       "journal": "ripem",
       "journalName": "Revista Internacional de Pesquisa em Educação Matemática",
