@@ -1204,6 +1204,1012 @@
       "corpusReason": "editorial"
     },
     {
+      "id": "doi:10.12802/relime.17.2030",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "Identidad y visibilidad. El binomio ideal. Relime en los índices nacionales, regionales y mundiales",
+      "titleOriginal": "Identidad y visibilidad. El binomio ideal. Relime en los índices nacionales, regionales y mundiales",
+      "titleEn": "Identity and visibility the ideal binomial. Relime on national, regional and global indexes",
+      "authors": [
+        "Ricardo",
+        "Daniela",
+        "Cantoral, Ricardo",
+        "Reyes-Gasperini, Daniela"
+      ],
+      "institutions": [],
+      "abstract": "En este vigésimo aniversario (Volumen 20, Número 3), cerramos con una editorial que se encuentra precedida por una variedad de acontecimientos positivamente relevantes como describimos a continuación. Por un lado, Relime tuvo un sensible incremento del factor de impacto en ISI Web of Science al alcanzar el 0.708 (Cantoral y Reyes – Gasperini, 2017). La invitación a Relime para participar en las actividades académicas del Congreso Nacional de Investigación Educativa en San Luis Potosí, México (COMIE – 2017). El rol de Relime como revista líderen la reunión de editores de El Colegio Mexiquense en Zinacantepec, Estado de México, México (Red de Editores – 2017). Las más recientes clasificaciones regionales que ubican a Relime al alza y para concluir con la reciente actualización del Índice Mexicano de Revistas – Conacyt, la cual nos ubica en el cuartil Q3, tanto en ISI WoS como en Scopus. En todos estos casos, gracias a la presencia de la Relime en los índices, se dan muestras claras de visibilidad y, sobre todo, debemos enfatizar que se logra sin perder el rasgo de identidad que le caracteriza (Cantoral, 2009).",
+      "abstractOriginal": "En este vigésimo aniversario (Volumen 20, Número 3), cerramos con una editorial que se encuentra precedida por una variedad de acontecimientos positivamente relevantes como describimos a continuación. Por un lado, Relime tuvo un sensible incremento del factor de impacto en ISI Web of Science al alcanzar el 0.708 (Cantoral y Reyes – Gasperini, 2017). La invitación a Relime para participar en las actividades académicas del Congreso Nacional de Investigación Educativa en San Luis Potosí, México (COMIE – 2017). El rol de Relime como revista líderen la reunión de editores de El Colegio Mexiquense en Zinacantepec, Estado de México, México (Red de Editores – 2017). Las más recientes clasificaciones regionales que ubican a Relime al alza y para concluir con la reciente actualización del Índice Mexicano de Revistas – Conacyt, la cual nos ubica en el cuartil Q3, tanto en ISI WoS como en Scopus. En todos estos casos, gracias a la presencia de la Relime en los índices, se dan muestras claras de visibilidad y, sobre todo, debemos enfatizar que se logra sin perder el rasgo de identidad que le caracteriza (Cantoral, 2009).",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2017,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.12802/relime.17.2030",
+      "url": "https://relime.org/index.php/index/article/view/115",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/115",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2026-06-30T01:46:11Z",
+        "allTitles": [
+          "Identity and visibility the ideal binomial. Relime on national, regional and global indexes",
+          "Identidad y visibilidad. El binomio ideal. Relime en los índices nacionales, regionales y mundiales"
+        ],
+        "allDescriptions": [
+          "En este vigésimo aniversario (Volumen 20, Número 3), cerramos con una editorial que se encuentra precedida por una variedad de acontecimientos positivamente relevantes como describimos a continuación. Por un lado, Relime tuvo un sensible incremento del factor de impacto en ISI Web of Science al alcanzar el 0.708 (Cantoral y Reyes – Gasperini, 2017). La invitación a Relime para participar en las actividades académicas del Congreso Nacional de Investigación Educativa en San Luis Potosí, México (COMIE – 2017). El rol de Relime como revista líderen la reunión de editores de El Colegio Mexiquense en Zinacantepec, Estado de México, México (Red de Editores – 2017). Las más recientes clasificaciones regionales que ubican a Relime al alza y para concluir con la reciente actualización del Índice Mexicano de Revistas – Conacyt, la cual nos ubica en el cuartil Q3, tanto en ISI WoS como en Scopus. En todos estos casos, gracias a la presencia de la Relime en los índices, se dan muestras claras de visibilidad y, sobre todo, debemos enfatizar que se logra sin perder el rasgo de identidad que le caracteriza (Cantoral, 2009)."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-11-04"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 20 Núm. 3 (2017): Noviembre; 255-264",
+            "2007-6819",
+            "1665-2436",
+            "10.12802/relime.17.203"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:15.967338+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "índice"
+    },
+    {
+      "id": "doi:10.12802/relime.17.2010",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "La transición de Relime al contexto editorial digital",
+      "titleOriginal": "La transición de Relime al contexto editorial digital",
+      "titleEn": "Transition of Relime to digital publishing context",
+      "authors": [
+        "Montiel-Espinosa, Gisela"
+      ],
+      "institutions": [],
+      "abstract": "-",
+      "abstractOriginal": "-",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2017,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.12802/relime.17.2010",
+      "url": "https://relime.org/index.php/index/article/view/126",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/126",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2026-07-10T16:19:26Z",
+        "allTitles": [
+          "Transition of Relime to digital publishing context",
+          "La transición de Relime al contexto editorial digital"
+        ],
+        "allDescriptions": [
+          "-"
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2017-03-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 20 Núm. 1 (2017): Marzo; 5-7",
+            "2007-6819",
+            "1665-2436",
+            "10.12802/relime.17.201"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:15.972439+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.12802/relime.23.2620",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "El rol editorial. Una mirada de equipo con dirección académica y profesional",
+      "titleOriginal": "El rol editorial. Una mirada de equipo con dirección académica y profesional",
+      "titleEn": "The editorial role. A team look with academic and professional direction",
+      "authors": [
+        "Montiel Espinosa, Gisela"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2023,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.12802/relime.23.2620",
+      "url": "https://relime.org/index.php/index/article/view/310",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/310",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2025-10-28T04:06:32Z",
+        "allTitles": [
+          "The editorial role. A team look with academic and professional direction",
+          "El rol editorial. Una mirada de equipo con dirección académica y profesional"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2023-07-01"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 26 Núm. 2 (2023): Julio; 143-146",
+            "2007-6819",
+            "1665-2436",
+            "10.12802/relime.23.262"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:20.553928+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/411",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "ÍNDICES, BASES DE CITAS Y FACTOR DE IMPACTO... ¿UNA POLÍTICA EDITORIAL PARA RELIME?",
+      "titleOriginal": "ÍNDICES, BASES DE CITAS Y FACTOR DE IMPACTO... ¿UNA POLÍTICA EDITORIAL PARA RELIME?",
+      "titleEn": "",
+      "authors": [
+        "Cantoral Uriza, Ricardo"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2024,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/411",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/411",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-09-08T22:12:12Z",
+        "allTitles": [
+          "ÍNDICES, BASES DE CITAS Y FACTOR DE IMPACTO... ¿UNA POLÍTICA EDITORIAL PARA RELIME?"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2024-09-08"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 10 Núm. 2 (2007): Julio",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.963194+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/416",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2007,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/416",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/416",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-09-08T22:12:33Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2007-03-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 10 Núm. 1 (2007): Marzo; 4-5",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.964953+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/428",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2006,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/428",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/428",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-10-28T06:03:08Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2006-11-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 9 Núm. 3 (2006): Noviembre; 232-333",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.967596+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/436",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2006,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/436",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/436",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-10-28T06:04:18Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2006-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 9 Núm. 2 (2006): Julio; 186-187",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.970666+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/464",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2006,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/464",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/464",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-12-04T19:28:33Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2006-12-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 9 Núm. 4 (2006): Número Especial/ Diciembre; 6",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.976591+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/472",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2006,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/472",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/472",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-12-04T19:19:32Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2006-03-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 9 Núm. 1 (2006): Marzo; 4-5",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.978814+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/504",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/504",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/504",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-12-07T14:57:11Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-11-30"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 8 Núm. 3 (2005): Noviembre ; 244-245",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.986569+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/515",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán Márquez, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/515",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/515",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-12-05T01:46:22Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 8 Núm. 2 (2005): Julio; 108-109",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.991802+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/525",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Farfán, Rosa María"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2005,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/525",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/525",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2024-12-07T14:50:43Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2005-03-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 8 Núm. 1 (2005): Marzo; 4-5",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:22.994177+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/620",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Editorial, Coordinación"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2000,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/620",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/620",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2025-03-19T00:38:50Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2000-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 3 Núm. 2 (2000): Julio; 97-98",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:24.743248+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "oai:oai:ojs2.relime.org:article/631",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "EDITORIAL",
+      "titleOriginal": "EDITORIAL",
+      "titleEn": "",
+      "authors": [
+        "Editorial, Coordinación"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_only",
+      "year": 2000,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "",
+      "url": "https://relime.org/index.php/index/article/view/631",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/631",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2025-03-23T00:47:59Z",
+        "allTitles": [
+          "EDITORIAL"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2000-03-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 3 Núm. 1 (2000): Marzo; 3-4",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:24.745333+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.12802/relime.24.2720",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "Transparencia y responsabilidad en el uso de inteligencia artificial en la investigación. Actualización continua de la política editorial de Relime",
+      "titleOriginal": "Transparencia y responsabilidad en el uso de inteligencia artificial en la investigación. Actualización continua de la política editorial de Relime",
+      "titleEn": "Transparency and accountability in the use of artificial intelligence in research.Continuous updating of the Relime editorial policy",
+      "authors": [
+        "Montiel- Espinosa, Gisela"
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2024,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.12802/relime.24.2720",
+      "url": "https://relime.org/index.php/index/article/view/685",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/685",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2025-12-03T04:49:40Z",
+        "allTitles": [
+          "Transparency and accountability in the use of artificial intelligence in research.Continuous updating of the Relime editorial policy",
+          "Transparencia y responsabilidad en el uso de inteligencia artificial en la investigación. Actualización continua de la política editorial de Relime"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2024-07-31"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 27 Núm. 2 (2024): Julio; 145-150",
+            "2007-6819",
+            "1665-2436",
+            "10.12802/relime.24.272"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:24.748430+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
+      "id": "doi:10.12802/relime.2025.28.e760",
+      "journal": "relime",
+      "journalName": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+      "title": "Actualización de los procesos editoriales de la Relime y la formación permanente de su comunidad",
+      "titleOriginal": "Actualización de los procesos editoriales de la Relime y la formación permanente de su comunidad",
+      "titleEn": "Updating the editorial processes of Relime and the ongoing training of its community",
+      "authors": [
+        "Cruz Amaya, Melvin",
+        "Paredes Cancino, Cristian G.",
+        "Galo Alvarenga , Selvin N."
+      ],
+      "institutions": [],
+      "abstract": ".",
+      "abstractOriginal": ".",
+      "abstractEn": "",
+      "keywords": [],
+      "keywordsOriginal": [],
+      "keywordsEn": [],
+      "metadataEnglishStatus": "source_provided",
+      "year": 2025,
+      "language": "es",
+      "languageCode": "es",
+      "type": "article",
+      "doi": "10.12802/relime.2025.28.e760",
+      "url": "https://relime.org/index.php/index/article/view/760",
+      "pdf": "",
+      "openAccess": null,
+      "oaiIdentifier": "oai:ojs2.relime.org:article/760",
+      "source": "oai-pmh",
+      "provenance": {
+        "baseUrl": "https://relime.org/index.php/index/es/oai",
+        "metadataPrefix": "oai_dc",
+        "datestamp": "2026-06-16T00:26:20Z",
+        "allTitles": [
+          "Actualización de los procesos editoriales de la Relime y la formación permanente de su comunidad",
+          "Updating the editorial processes of Relime and the ongoing training of its community"
+        ],
+        "allDescriptions": [
+          "."
+        ],
+        "allSubjects": [],
+        "sourceValues": {
+          "dates": [
+            "2025-12-19"
+          ],
+          "types": [
+            "info:eu-repo/semantics/article",
+            "info:eu-repo/semantics/publishedVersion",
+            "Editorial"
+          ],
+          "sources": [
+            "Revista Latinoamericana de Investigación en Matemática Educativa; Vol. 28 (2025): Publicación continua; e760",
+            "2007-6819",
+            "1665-2436"
+          ],
+          "publishers": [
+            "Colegio Mexicano de Matemática Educativa A.C."
+          ]
+        }
+      },
+      "harvestedAt": "2026-09-26T00:08:24.751767+00:00",
+      "corpusStatus": "excluded_document_type",
+      "corpusReason": "editorial"
+    },
+    {
       "id": "oai:oai:periodicos.ufsc.br:article/34678",
       "journal": "revemat",
       "journalName": "Revista Eletrônica de Educação Matemática — REVEMAT",
